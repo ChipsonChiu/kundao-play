@@ -1,0 +1,242 @@
+[
+  {
+    "id": "enemy_moshenzai",
+    "prompt": "Precise asset repair and background extraction. The FIRST reference is the COMPLETE original R4 game sprite of a small squat purple moshenzai spirit. Reproduce THAT EXACT SINGLE SPRITE at high resolution, keeping its same silhouette, same pose, same proportions, same purple hood, same charcoal face, same two small slanted pale eyes and small crooked mouth, same rounded flowing purple lower lobes/arms. Preserve the original placement and number of lobes and folds. Its fully rounded right hood edge, right shoulder and lower right drapery must be complete exactly as in this full reference. Do not redesign it or turn it into a different creature. The SECOND image is ONLY a rendering-style reference: soft flat muted color, subtle fine paper grain, thick softly rounded dark warm-brown outlines; do NOT copy or include its human character, sword, clothing or accessories. The first image controls every detail of the sprite. Keep simple flat fills with the original restrained purple shading and the original cute small enemy appearance. Extract the sprite cleanly from the white sheet background and rebuild crisp softly drawn edges; no white fringe. Output one isolated full sprite centered on a real transparent alpha background, on a square canvas, with at least 12 percent completely transparent empty padding on EVERY side. Entire original outer contour visible; never terminate the silhouette in a straight vertical crop. No ground, no floor shadow, no background, no labels, no panels, no border, no checkerboard pattern, no extra objects, no glow, no new ornament, no Japanese motifs. This is restoration of the provided original design, not new concept art.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_a/references/enemy_moshenzai_full_reference.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/player_jian_male.png"
+    ],
+    "source_full_crop": {
+      "source_sheet": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/source_sheets/C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "box_xyxy": [
+        832,
+        41,
+        927,
+        135
+      ],
+      "path": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_a/references/enemy_moshenzai_full_reference.png"
+    }
+  },
+  {
+    "id": "enemy_jinmei",
+    "prompt": "Repair this existing R4 Taiwanese folk-faith game sprite, as a faithful clean extraction/contour restoration rather than a redesign. Reference image 1 is the intact original source-sheet crop and is the PRIMARY guide for the whole object. Reference image 2 is its existing partly damaged transparent R4 export and is only for comparison: do not preserve any cropped edge or neighbor contamination. Match the existing pack's warm thick rounded dark-brown outlines, plain muted flat colors, at most one or two simple shade tones and subtle paper-grain fill. Keep the source's compact, simple readable game-sprite style. No elaborate shading, realistic rendering, ornate fantasy, anime styling or Japanese motifs. Remove the source-sheet white completely using REAL alpha transparency, preserving every original contour including small tips. Produce exactly ONE centered isolated sprite on a true transparent RGBA canvas, with at least 10% completely empty transparent space on EVERY side; keep complete outlines uncut, no part touches the canvas border. No text, labels, icon frame, cast-ground shadow, checkerboard painted into the pixels or solid background.\n\nThe one target is the tiny Taiwanese rural straw-hat Jinmei character in reference 1: same plain tan round straw hat with dark band, brown hair, dot eyes, friendly small mouth, red neck scarf, golden-tan simple short outfit, one hand on a straw broom at viewer-left and the other hand near its body. Faithfully retain its original squat small-enemy body proportions, face, broom, feet, pose, material colors and all silhouettes. The older exported reference 2 is CUT OFF on its RIGHT hat rim and RIGHT body side. Restore those contours exactly from complete reference 1; no invented decorations, weapons or different clothes.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/enemy_jinmei-full-sheet-crop.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/enemy_jinmei.png"
+    ],
+    "source_full_crop": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/enemy_jinmei-full-sheet-crop.png"
+  },
+  {
+    "id": "enemy_banyan",
+    "prompt": "Precise single-object background extraction and asset restoration. The FIRST reference is the COMPLETE original R4 game sprite of a small friendly-cute banyan tree spirit. Reproduce EXACTLY THAT ONE ORIGINAL TREE SPIRIT at high resolution. Preserve its same squat upright proportions, its rounded broad scalloped yellow-green crown with darker green rounded lower foliage, its warm ochre-brown trunk with same subtle wood-grain marks, two black oval dot eyes, tiny dark curved mouth, the same little branch arms at left and right, and the same small exposed root feet. Keep exact overall silhouette and expression. Preserve full crown, both arms, and every root tip. Include ONLY the tree spirit; absolutely no neighboring tiger, orange fragment, flame, stray sheet fragment or any object beside it. The SECOND image is ONLY a rendering-style reference for soft flat muted color, subtle fine paper grain, thick softly rounded dark warm-brown outlines; do NOT copy or include its human figure, sword or clothing. The first reference controls all design details. Cleanly remove the white sheet background; rebuild crisp soft cartoon contours without pale white fringe. Output one isolated complete tree spirit, centered on a real transparent alpha background, square canvas with at least 12 percent completely transparent empty padding on EVERY side. No ground, no patch of grass, no floor shadow, no scene, no additional leaves outside the original crown, no new flowers, no accessories, no glow, no text, no labels, no border, no white rectangle or checkerboard. Faithful restoration of the provided original sprite, not a new design.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_a/references/enemy_banyan_full_reference.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/player_jian_male.png"
+    ],
+    "source_full_crop": {
+      "source_sheet": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/source_sheets/C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "box_xyxy": [
+        1112,
+        33,
+        1215,
+        141
+      ],
+      "path": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_a/references/enemy_banyan_full_reference.png"
+    }
+  },
+  {
+    "id": "terrain_bush",
+    "prompt": "Precise asset repair and background extraction. The FIRST reference is the COMPLETE original R4 game terrain sprite: one compact rounded green flowering bush, seen slightly from above. Reproduce THAT EXACT SINGLE BUSH at high resolution, preserving its compact almost round silhouette made of scalloped leaf lobes, its original yellow-green upper leaf areas and muted deeper green lower/side lobes, and its FOUR small white flowers with warm yellow centers. Preserve the original four flower arrangement: one near top center, one at left middle, one at right middle, one lower near center. Every original scalloped leaf lobe around the RIGHT edge must remain fully visible and rounded, as in the complete reference; no flat-cut right edge. Keep the same outline proportions and simple leaves. The SECOND image is ONLY a rendering-style reference: soft flat muted color, subtle fine paper grain and thick softly rounded dark warm-brown outlines; do NOT include or borrow its person, sword or clothing. The first image controls the bush design. Cleanly extract the bush from the white background and restore crisp softly drawn complete outlines with no white halo. Output one isolated full bush centered on a true transparent alpha background, square canvas, with at least 12 percent fully transparent empty padding on EVERY side. Do not add flowers, grass, a pot, soil, ground, roots, scenery, lighting effects, ornaments or additional objects. No text, labels, panel, border, white rectangle, fake transparency or checkerboard. No floor shadow. This is faithful repair of the provided original R4 asset, not a redesign.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_a/references/terrain_bush_full_reference.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/player_jian_male.png"
+    ],
+    "source_full_crop": {
+      "source_sheet": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/source_sheets/C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "box_xyxy": [
+        508,
+        729,
+        590,
+        811
+      ],
+      "path": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_a/references/terrain_bush_full_reference.png"
+    }
+  },
+  {
+    "id": "terrain_stump",
+    "prompt": "Repair this existing R4 Taiwanese folk-faith game sprite, as a faithful clean extraction/contour restoration rather than a redesign. Reference image 1 is the intact original source-sheet crop and is the PRIMARY guide for the whole object. Reference image 2 is its existing partly damaged transparent R4 export and is only for comparison: do not preserve any cropped edge or neighbor contamination. Match the existing pack's warm thick rounded dark-brown outlines, plain muted flat colors, at most one or two simple shade tones and subtle paper-grain fill. Keep the source's compact, simple readable game-sprite style. No elaborate shading, realistic rendering, ornate fantasy, anime styling or Japanese motifs. Remove the source-sheet white completely using REAL alpha transparency, preserving every original contour including small tips. Produce exactly ONE centered isolated sprite on a true transparent RGBA canvas, with at least 10% completely empty transparent space on EVERY side; keep complete outlines uncut, no part touches the canvas border. No text, labels, icon frame, cast-ground shadow, checkerboard painted into the pixels or solid background.\n\nThe one target is the small single tree stump in reference 1: identical low squat golden-brown stump, oval cut top with simple growth-ring spirals, dark rounded bark outline, tapered trunk and gently flaring pointed roots. Preserve the exact design, proportions, perspective, warm tan palette and simple bark details. Reference 2 is CUT OFF on the right root. Reconstruct the complete right root using intact reference 1. No leaves, moss, mushrooms, face, added branches, grass patch or separate decoration.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/terrain_stump-full-sheet-crop.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/terrain_stump.png"
+    ],
+    "source_full_crop": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/terrain_stump-full-sheet-crop.png"
+  },
+  {
+    "id": "terrain_fence",
+    "prompt": "Repair this existing R4 Taiwanese folk-faith game sprite, as a faithful clean extraction/contour restoration rather than a redesign. Reference image 1 is the intact original source-sheet crop and is the PRIMARY guide for the whole object. Reference image 2 is its existing partly damaged transparent R4 export and is only for comparison: do not preserve any cropped edge or neighbor contamination. Match the existing pack's warm thick rounded dark-brown outlines, plain muted flat colors, at most one or two simple shade tones and subtle paper-grain fill. Keep the source's compact, simple readable game-sprite style. No elaborate shading, realistic rendering, ornate fantasy, anime styling or Japanese motifs. Remove the source-sheet white completely using REAL alpha transparency, preserving every original contour including small tips. Produce exactly ONE centered isolated sprite on a true transparent RGBA canvas, with at least 10% completely empty transparent space on EVERY side; keep complete outlines uncut, no part touches the canvas border. No text, labels, icon frame, cast-ground shadow, checkerboard painted into the pixels or solid background.\n\nThe one target is the simple short wooden fence in reference 1: exactly THREE upright rounded-top tan posts and TWO horizontal tan cross rails visible between the posts, with the short rail ends extending outside the side posts. Keep the same front-facing slightly top-down game-icon view, same proportions and same plain warm timber details. Reference 2 is CUT OFF at the RIGHT post/rail ends. Recover the complete rounded right post and full end contours from reference 1. All 3 posts and both rails must be fully visible. No extra posts, rope, nails, decorative symbols, ground, grass or plants.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/terrain_fence-full-sheet-crop.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/terrain_fence.png"
+    ],
+    "source_full_crop": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/terrain_fence-full-sheet-crop.png"
+  },
+  {
+    "id": "terrain_reed",
+    "prompt": "Repair this existing R4 Taiwanese folk-faith game sprite, as a faithful clean extraction/contour restoration rather than a redesign. Reference image 1 is the intact original source-sheet crop and is the PRIMARY guide for the whole object. Reference image 2 is its existing partly damaged transparent R4 export and is only for comparison: do not preserve any cropped edge or neighbor contamination. Match the existing pack's warm thick rounded dark-brown outlines, plain muted flat colors, at most one or two simple shade tones and subtle paper-grain fill. Keep the source's compact, simple readable game-sprite style. No elaborate shading, realistic rendering, ornate fantasy, anime styling or Japanese motifs. Remove the source-sheet white completely using REAL alpha transparency, preserving every original contour including small tips. Produce exactly ONE centered isolated sprite on a true transparent RGBA canvas, with at least 10% completely empty transparent space on EVERY side; keep complete outlines uncut, no part touches the canvas border. No text, labels, icon frame, cast-ground shadow, checkerboard painted into the pixels or solid background.\n\nThe one target is the SINGLE coherent small reed clump in reference 1: preserve its exact fan of tapered green blades, fine curved stems and FOUR tan fluffy seed heads, the rightward taller leaning stem and shorter left stems, all ending at one shared base. Preserve the original leaf silhouette and muted greens/tan colors. The older exported reference 2 incorrectly contains an unrelated detached fragment of a neighboring grass asset at its FAR LEFT edge; REMOVE that detached neighbor entirely. Isolate only the coherent central reed plant. Reference 1 also has an unrelated detached brown edge of a neighboring stump in its lower-right corner; remove that brown neighbor completely. Retain all four reed seed heads, all the reed leaves and their one coherent base. No ground, dirt, extra grass, new plant, rocks, border or stray detached marks.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/terrain_reed-full-sheet-crop.png",
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/terrain_reed.png"
+    ],
+    "source_full_crop": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_b/references/terrain_reed-full-sheet-crop.png"
+  },
+  {
+    "id": "npc_cat",
+    "prompt": "Use case: background-extraction / precise-object-edit. Asset type: repaired single transparent game sprite from a complete source-art reference.\nThe provided image is a crop of the original complete asset, recovered after discovering an incorrect older extraction box. Use its exact drawing as the primary shape and color reference. Restore a clean, complete independent sprite with true transparent alpha.\nSubject: One sitting black, gray and white temple cat with small pink ears, black patches on both sides of its white face, tiny dot eyes, rosy cheeks, red bow collar, two little white front paws, and a curled tail on the left. The complete tail tip is essential. Remove the unrelated tiny dark fragment at the very top-left edge of the crop.\nPreserve the original composition, facing direction, anatomy, expression, color blocks, rounded warm dark-brown cartoon linework, simple 1-2 tone shading and subtle paper grain. Keep the same restrained Taiwanese folk-game art style. Do not turn this into anime, realistic 3D, glossy or ornate fantasy art.\nExtract ONLY the named object. Remove the plain near-white sheet background and any tiny neighboring sheet fragment; do not retain white or gray matte, checkerboard, labels, borders or watermark. All individual parts must remain inside the canvas. Place the full silhouette at the center with at least 8 percent clear transparent breathing room on every side. Keep this a single sprite with its existing simple pose and no scenery, no new costume or ornament. Crisp readable outline at game scale.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_c/reference_crops/npc_cat.png"
+    ],
+    "source_full_crop": [
+      630,
+      45,
+      718,
+      148
+    ]
+  },
+  {
+    "id": "beast_dragon_jade",
+    "prompt": "Use case: background-extraction / precise-object-edit. Asset type: repaired single transparent game sprite from a complete source-art reference.\nThe provided image is a crop of the original complete asset, recovered after discovering an incorrect older extraction box. Use its exact drawing as the primary shape and color reference. Restore a clean, complete independent sprite with true transparent alpha.\nSubject: One curled jade-green and teal Taiwanese traditional folk dragon, facing right, cream belly, brown branching antlers, fluffy teal mane, short white teeth, curled moustache, small visible claws. Keep the complete curled lower-left tail loop and the full outline exactly as in the full reference, without added gold decoration.\nPreserve the original composition, facing direction, anatomy, expression, color blocks, rounded warm dark-brown cartoon linework, simple 1-2 tone shading and subtle paper grain. Keep the same restrained Taiwanese folk-game art style. Do not turn this into anime, realistic 3D, glossy or ornate fantasy art.\nExtract ONLY the named object. Remove the plain near-white sheet background and any tiny neighboring sheet fragment; do not retain white or gray matte, checkerboard, labels, borders or watermark. All individual parts must remain inside the canvas. Place the full silhouette at the center with at least 8 percent clear transparent breathing room on every side. Keep this a single sprite with its existing simple pose and no scenery, no new costume or ornament. Crisp readable outline at game scale.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_c/reference_crops/beast_dragon_jade.png"
+    ],
+    "source_full_crop": [
+      404,
+      173,
+      559,
+      294
+    ]
+  },
+  {
+    "id": "fx_zone_miasma",
+    "prompt": "Use case: background-extraction / precise-object-edit. Asset type: repaired single transparent game sprite from a complete source-art reference.\nThe provided image is a crop of the original complete asset, recovered after discovering an incorrect older extraction box. Use its exact drawing as the primary shape and color reference. Restore a clean, complete independent sprite with true transparent alpha.\nSubject: One low drifting purple-gray miasma cloud made of the same round clustered purple puffs as in the input. Preserve the full lower-left drifting wisps as well as the top and right puffs. This is a simple smoke effect, with soft flat shading and a gentle paper texture, without symbols, creatures, circles or extra sparkles.\nPreserve the original composition, facing direction, anatomy, expression, color blocks, rounded warm dark-brown cartoon linework, simple 1-2 tone shading and subtle paper grain. Keep the same restrained Taiwanese folk-game art style. Do not turn this into anime, realistic 3D, glossy or ornate fantasy art.\nExtract ONLY the named object. Remove the plain near-white sheet background and any tiny neighboring sheet fragment; do not retain white or gray matte, checkerboard, labels, borders or watermark. All individual parts must remain inside the canvas. Place the full silhouette at the center with at least 8 percent clear transparent breathing room on every side. Keep this a single sprite with its existing simple pose and no scenery, no new costume or ornament. Crisp readable outline at game scale.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_c/reference_crops/fx_zone_miasma.png"
+    ],
+    "source_full_crop": [
+      800,
+      455,
+      912,
+      544
+    ]
+  },
+  {
+    "id": "fx_dust_puff",
+    "prompt": "Use case: background-extraction / precise-object-edit. Asset type: repaired single transparent game sprite from a complete source-art reference.\nThe provided image is a crop of the original complete asset, recovered after discovering an incorrect older extraction box. Use its exact drawing as the primary shape and color reference. Restore a clean, complete independent sprite with true transparent alpha.\nSubject: One small beige dust puff with softly outlined rounded cloud lobes, matching the input exactly. Preserve both complete tall top lobes and all low outward dusty lobes; do not flatten the top as in the old bad crop. Restrained cream, tan and warm light-brown outline only. No symbol, text or added object.\nPreserve the original composition, facing direction, anatomy, expression, color blocks, rounded warm dark-brown cartoon linework, simple 1-2 tone shading and subtle paper grain. Keep the same restrained Taiwanese folk-game art style. Do not turn this into anime, realistic 3D, glossy or ornate fantasy art.\nExtract ONLY the named object. Remove the plain near-white sheet background and any tiny neighboring sheet fragment; do not retain white or gray matte, checkerboard, labels, borders or watermark. All individual parts must remain inside the canvas. Place the full silhouette at the center with at least 8 percent clear transparent breathing room on every side. Keep this a single sprite with its existing simple pose and no scenery, no new costume or ornament. Crisp readable outline at game scale.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_c/reference_crops/fx_dust_puff.png"
+    ],
+    "source_full_crop": [
+      655,
+      945,
+      769,
+      1016
+    ]
+  },
+  {
+    "id": "icon_stat_spirit",
+    "prompt": "Use case: background-extraction. Asset type: exact existing Taiwan folk-faith game UI sprite, icon_stat_spirit. The reference image is the complete original pink lotus icon before a previous extraction accidentally clipped its rightmost petal. Extract this exact lotus as a single isolated transparent PNG. Preserve the precise original seven-petal silhouette, the full curved outer right petal outline, dark magenta/brown hand drawn outline, soft rose pink and pale pink fills, simple painted texture, front-facing squat proportions and original restrained style. Do not redesign, add decoration, glow, leaves, stems, symbols, lettering or flourish. Remove only the white sheet background and any unrelated pixels; keep all petals and all outline. Center the complete object with at least 12% transparent margin on all four sides, nothing clipped, no other assets. Actual alpha transparency, no checkerboard painted into image, no ground shadow.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_d/references/icon_stat_spirit-full-sheet-crop.png"
+    ],
+    "source_full_crop": [
+      1295,
+      584,
+      1348,
+      630
+    ]
+  },
+  {
+    "id": "btn_upgrade",
+    "prompt": "Use case: background-extraction. Asset type: exact existing game button PNG sprite, btn_upgrade. Extract this exact original horizontal golden-yellow eight-corner beveled button from the reference, preserving the entire dark-gold outer border including its complete right edge and both right corners. This is an extraction repair, not a redesign. Keep the same restrained warm ochre painted texture, rectangular horizontal shape about 2.15:1, thick brown-gold perimeter, thin pale gold inset line and the two simple tiny diamond details at left and right. Keep the exact Traditional Chinese label \"升級\" (two characters, 升 then 級), centered, cream-white hand painted brush lettering matching the original. Do not add lettering, ornaments, shadows or glow. Only remove white sheet background and unrelated pixels. A single button, all contour fully contained, centered with at least 12% genuinely transparent margin on all four sides. No checkerboard drawn into image. No other assets.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/repairs/group_d/references/btn_upgrade-full-sheet-crop.png"
+    ],
+    "source_full_crop": [
+      214,
+      850,
+      322,
+      913
+    ]
+  },
+  {
+    "id": "item_incense_bowl",
+    "prompt": "Precise object-preserving background extraction / cleanup of the provided existing R4 game item sprite. The provided master has irregular dirty pale-white and pale-pink sheet-paper fragments outside the object; these are unwanted extraction debris, NOT glow, smoke, highlights or part of the item. Remove ALL of that exterior paper residue and isolate ONLY the original item on a genuine transparent alpha background. Faithfully retain the original item's shape, proportions, colors, existing internal highlights, dark warm-brown hand-drawn outline and subtle painted paper-grain texture. This is background cleanup from the existing master, not restoration from an unavailable original sheet and not a redesign. Reconstruct clean soft hand-drawn edges at high resolution without reproducing low-resolution pixel blocks. One complete centered isolated object on a square canvas, at least 15 percent empty transparent padding on every side. Full object outline visible, no clipping and no neighboring sprites. All exterior background, including the outer 15 percent margin, should be fully transparent alpha zero. No white halo, paper scrap, artificial checkerboard, opaque rectangle, floor, ground, cast shadow, label, title, panel, glow, extra decorations or new objects. Keep the existing Taiwan folk-faith game-art appearance and do not introduce Japanese motifs. Object-specific invariants: the original is a squat round beige-gold incense bowl with a thick oval rim, rounded wide bowl body, small ring-shaped pedestal foot, and EXACTLY THREE reddish-orange incense sticks. The center stick is tallest and upright; left and right sticks lean slightly outwards. Keep the same simple golden highlights on the bowl and warm brown outlines. Retain the complete bowl rim, all three stick tips and the full base. Do not add smoke, lit flames, handles, symbols, text, incense sticks or ornaments. Only the pale irregular paper OUTSIDE the bowl and sticks must disappear.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_incense_bowl.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_candle",
+    "prompt": "Precise object-preserving background extraction / cleanup of the provided existing R4 game item sprite. The provided master has irregular dirty pale-white and pale-pink sheet-paper fragments outside the object; these are unwanted extraction debris, NOT glow, smoke, highlights or part of the item. Remove ALL of that exterior paper residue and isolate ONLY the original item on a genuine transparent alpha background. Faithfully retain the original item's shape, proportions, colors, existing internal highlights, dark warm-brown hand-drawn outline and subtle painted paper-grain texture. This is background cleanup from the existing master, not restoration from an unavailable original sheet and not a redesign. Reconstruct clean soft hand-drawn edges at high resolution without reproducing low-resolution pixel blocks. One complete centered isolated object on a square canvas, at least 15 percent empty transparent padding on every side. Full object outline visible, no clipping and no neighboring sprites. All exterior background, including the outer 15 percent margin, should be fully transparent alpha zero. No white halo, paper scrap, artificial checkerboard, opaque rectangle, floor, ground, cast shadow, label, title, panel, glow, extra decorations or new objects. Keep the existing Taiwan folk-faith game-art appearance and do not introduce Japanese motifs. Object-specific invariants: retain the exact single chunky red-orange candle, its red circular wax foot, its short cylindrical body with original warm-orange central highlight, its uneven cream-yellow melted wax top and drip, and its ONE yellow flame edged with warm orange. The flame has a high pointed center and small outward side flicks as in the reference. Preserve that complete actual flame and preserve the pale cream/yellow wax portions INSIDE the candle outline. Remove only the irregular dirty white/pink sheet fragments OUTSIDE the flame, candle body and red base. Do not mistake exterior paper for a light halo. No added holder, smoke, flame trail, extra candle or text.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_candle.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_incense_sticks",
+    "prompt": "Precise object-preserving background extraction / cleanup of the provided existing R4 game item sprite. The provided master has irregular dirty pale-white and pale-pink sheet-paper fragments outside the object; these are unwanted extraction debris, NOT glow, smoke, highlights or part of the item. Remove ALL of that exterior paper residue and isolate ONLY the original item on a genuine transparent alpha background. Faithfully retain the original item's shape, proportions, colors, existing internal highlights, dark warm-brown hand-drawn outline and subtle painted paper-grain texture. This is background cleanup from the existing master, not restoration from an unavailable original sheet and not a redesign. Reconstruct clean soft hand-drawn edges at high resolution without reproducing low-resolution pixel blocks. One complete centered isolated object on a square canvas, at least 15 percent empty transparent padding on every side. Full object outline visible, no clipping and no neighboring sprites. All exterior background, including the outer 15 percent margin, should be fully transparent alpha zero. No white halo, paper scrap, artificial checkerboard, opaque rectangle, floor, ground, cast shadow, label, title, panel, glow, extra decorations or new objects. Keep the existing Taiwan folk-faith game-art appearance and do not introduce Japanese motifs. Object-specific invariants: retain the exact original bright golden low incense bowl with a thick oval rim, rounded short body, dark warm-brown lower edge and small low golden foot. It contains EXACTLY THREE tall thick reddish-orange incense sticks with warmer yellow-orange inner highlights; center stick is tallest and upright, side sticks lean slightly outwards. Their tips are rounded. Preserve the existing relative heights, bowl proportions and gold palette. Keep complete stick tips, sides, bowl and base. Do not add smoke, fire, halos, handles, extra sticks, symbols or text. The pale exterior fragments must disappear; the genuine bright golden highlights on the bowl remain.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_incense_sticks.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_fortune_cup",
+    "prompt": "Precise object-preserving background extraction / cleanup of the provided existing R4 game item sprite. The provided master has irregular dirty pale-white and pale-pink sheet-paper fragments outside the object; these are unwanted extraction debris, NOT glow, smoke, highlights or part of the item. Remove ALL of that exterior paper residue and isolate ONLY the original item on a genuine transparent alpha background. Faithfully retain the original item's shape, proportions, colors, existing internal highlights, dark warm-brown hand-drawn outline and subtle painted paper-grain texture. This is background cleanup from the existing master, not restoration from an unavailable original sheet and not a redesign. Reconstruct clean soft hand-drawn edges at high resolution without reproducing low-resolution pixel blocks. One complete centered isolated object on a square canvas, at least 15 percent empty transparent padding on every side. Full object outline visible, no clipping and no neighboring sprites. All exterior background, including the outer 15 percent margin, should be fully transparent alpha zero. No white halo, paper scrap, artificial checkerboard, opaque rectangle, floor, ground, cast shadow, label, title, panel, glow, extra decorations or new objects. Keep the existing Taiwan folk-faith game-art appearance and do not introduce Japanese motifs. Object-specific invariants: retain the exact original small brown cylindrical fortune cup / fortune-stick container, its thick rounded brown top rim, slightly flared low base, and pale golden rectangular decorative panel on the front. Keep the existing simple warm-orange abstract curved marks inside that panel in the same visual spirit; do not turn them into new words. Preserve the same clustered short golden-yellow rounded forms emerging from the open top, including their original irregular fan-like arrangement and contours; do not replace them with a new bouquet or different design. Keep original object orientation and proportions. Do not add religious charms, ropes, tassels, ribbons, faces, flowers, readable new text, Japanese shrine motifs or extra objects. All exterior whitish sheet scraps must disappear.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_fortune_cup.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_medicine_ticket",
+    "prompt": "Precise object-preserving background extraction / cleanup of the provided existing R4 game item sprite. The provided master has irregular dirty pale-white and pale-pink sheet-paper fragments outside the object; these are unwanted extraction debris, NOT glow, smoke, highlights or part of the item. Remove ALL of that exterior paper residue and isolate ONLY the original item on a genuine transparent alpha background. Faithfully retain the original item's shape, proportions, colors, existing internal highlights, dark warm-brown hand-drawn outline and subtle painted paper-grain texture. This is background cleanup from the existing master, not restoration from an unavailable original sheet and not a redesign. Reconstruct clean soft hand-drawn edges at high resolution without reproducing low-resolution pixel blocks. One complete centered isolated object on a square canvas, at least 15 percent empty transparent padding on every side. Full object outline visible, no clipping and no neighboring sprites. All exterior background, including the outer 15 percent margin, should be fully transparent alpha zero. No white halo, paper scrap, artificial checkerboard, opaque rectangle, floor, ground, cast shadow, label, title, panel, glow, extra decorations or new objects. Keep the existing Taiwan folk-faith game-art appearance and do not introduce Japanese motifs. Object-specific invariants: retain the single narrow golden-yellow medicine ticket/tag tilted diagonally from lower-left toward upper-right exactly as in the reference. Keep its rounded rectangular outer silhouette, warm brown outline, pale-yellow face, warm-gold edge shading, and the small rounded gold loop/tab at its top. Keep the same compact proportions and tilt. On the front show only ONE simple hand-brushed Traditional Chinese character: 藥 . Use warm orange-brown ink in the original hand-painted spirit, centered on the long pale face. No other characters, numbers, stamps, pseudo-script or writing. Do not add a hanging cord, tassel, extra ticket, ornament, paper strip or background. Remove the irregular pale-white leftover sheet fragments outside the ticket, including the prominent scrap along its lower-left side. Preserve the complete actual ticket corners and top loop.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_medicine_ticket.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_herb",
+    "prompt": "Use case: background-extraction and precise-object-edit. Asset type: existing Taiwan folk-faith hand painted game inventory sprite, item_herb. Edit the supplied existing transparent master, do not redesign it. It depicts one small vivid green medicinal herb sprig leaning diagonally from lower left toward upper right, with rounded pointed leaves, green stem, and thick dark olive-brown hand drawn outline. Keep the exact original leaf count, branching pattern, silhouette, proportions, green palette, pale painted highlights, and simple soft hand painted texture. Remove ONLY all irregular white or pale pink paper scraps, stray pixels and matte contamination OUTSIDE the herb outline, especially the separate white scrap at the right below the upper leaf. Preserve every complete leaf and the entire stem including the small lower-left tip. No extra leaves, flowers, roots, symbols, sparkles or decorations. Output a single clean isolated sprig on genuine alpha transparency. Complete silhouette, centered with at least 8% transparent margin on all four sides. No background, no painted checkerboard, no floor shadow. This cleans the existing master; do not invent lost source-sheet details.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_herb.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_oranges",
+    "prompt": "Use case: background-extraction and precise-object-edit. Asset type: existing Taiwan folk-faith hand painted game inventory sprite, item_oranges. Edit the supplied existing master without redesign. It depicts exactly THREE orange citrus fruits stacked one on top and two below in the same simple golden ochre offering tray. Preserve the three oranges, their exact arrangement and rounded proportions, the complete offering tray and rim, original orange-yellow colors, warm highlights, thick brown hand drawn outline and restrained soft painted texture. Remove ONLY the irregular white/pale pink paper scraps and stray matte pixels OUTSIDE the fruit and tray silhouette, including the scraps to the left of the tray and upper right of the oranges. Keep pale fruit highlights inside the oranges intact. Do not add a fourth orange, leaves, stems, characters, extra patterns, symbols, gold decorations, glow or shadow. A single complete isolated item on actual alpha transparency, centered with at least 8% transparent margin on all four sides. Preserve the existing object shape; do not invent source-sheet details. No background or painted checkerboard.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_oranges.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_potion",
+    "prompt": "Use case: background-extraction and precise-object-edit. Asset type: existing Taiwan folk-faith hand painted game inventory sprite, item_potion. Edit the supplied existing master, preserve the object rather than redesigning it. Keep the same red-orange round medicine vessel exactly as pictured: bulbous rounded lower body, the small irregular gathered red cap, existing narrow yellow neck band, a yellow-white painted highlight on the upper-left body, and the thick dark brown hand drawn outer contour. Preserve the existing silhouette, original proportions and warm red/orange/yellow palette, simple soft painted texture. Remove ONLY the white or pale pink irregular paper scraps, stray pale matte and pixels OUTSIDE the actual vessel outline, especially the white scraps behind its left shoulder and lower right base. Do not remove the highlight INSIDE the red body. Do not turn it into a different flask, add patterns, letters, ribbons, symbols, gold decorations, glow or a ground shadow. Single complete medicine vessel on genuine alpha transparency, centered with at least 8% transparent margin on all four sides. Nothing clipped. No background or painted checkerboard. The original source sheet is unavailable; only clean this existing master without inventing details.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_potion.png"
+    ],
+    "source_full_crop": null
+  },
+  {
+    "id": "item_rice",
+    "prompt": "Use case: background-extraction and precise-object-edit. Asset type: existing Taiwan folk-faith hand painted game inventory sprite, item_rice. Edit the provided existing master without redesign. It is one simple gray-brown rounded ceramic bowl filled with a small heaped mound of WHITE RICE. Keep ALL the white rice INSIDE and ABOVE the bowl, its rounded uneven rice mound, the original small visible rice-grain texture, the dark brown rim, gray-brown bowl body, narrow base, thick warm dark outline, original compact proportions and restrained soft hand painted style. The white rice is part of the subject and must remain completely opaque. Remove ONLY irregular white or pale pink paper scraps and stray matte OUTSIDE the true bowl/rice silhouette, especially the separate white scrap at the lower-right exterior beside the bowl. Preserve the complete bowl contour and bottom. No spoon, chopsticks, decorations, patterns, writing, gold ornaments, steam, glow or ground shadow. One isolated complete bowl of rice on actual alpha transparency, centered with at least 8% transparent margin on every side. No background, no painted checkerboard. Clean the existing master only; do not invent details from the unavailable original source sheet.",
+    "reference_paths": [
+      "/workspace/scratch/63e2ea01db39/work/pack/kundao-art-r4-v088-taiwan-faith/masters/item_rice.png"
+    ],
+    "source_full_crop": null
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "revision": "R4-new-art-20261107",
+  "is_game_code": false,
+  "shrine": {
+    "anchor_standard": [
+      0.500395,
+      0.916198
+    ],
+    "standard_dimensions": [
+      144,
+      144
+    ],
+    "unoffered": {
+      "exact_ready_image": "runtime/shrine_unoffered_28pct.svg",
+      "exact_native_image": "runtime/shrine_unoffered_28pct_native.svg",
+      "source_png": "png/shrine_unoffered_base.png",
+      "shadow_opacity": 0.28,
+      "shadow_tint": "#000000",
+      "color_space": "sRGB",
+      "rgb_multiplier": 0.72,
+      "alpha_multiplier": 1,
+      "formula": "C_out = C_source * (1 - 0.28); A_out = A_source",
+      "scope": "整體廟身及暗燈籠；僅非透明的美術內容，背景保持透明",
+      "generated_visual_png": "png/shrine_unoffered_visual.png",
+      "generated_visual_is_numeric_reference": false,
+      "avoid_double_application": true,
+      "exact_ready_png": "composites/shrine_unoffered_28pct.png"
+    },
+    "offered": {
+      "ready_image": "runtime/shrine_offered_with_halo.svg",
+      "base_png": "png/shrine_offered_base.png",
+      "halo_png": "png/fx_shrine_warm_halo.png",
+      "shadow_opacity": 0,
+      "lantern_centers_standard_px": [
+        [
+          29.068224331320106,
+          72.1134795042898
+        ],
+        [
+          103.62009318377912,
+          72.1134795042898
+        ]
+      ],
+      "halo_size_standard_px": [
+        37.133114754098365,
+        37.133114754098365
+      ],
+      "halo_alpha_multiplier": 0.36,
+      "halo_value_status": "美術起始值，可依實際底圖調整；不改遊戲數值",
+      "base_contains_local_warm_light": true,
+      "ready_png": "composites/shrine_offered_with_halo.png"
+    }
+  },
+  "underfoot": {
+    "ids": [
+      "fx_ground_dragon_vein",
+      "fx_ground_blessing",
+      "fx_ground_healing",
+      "fx_ground_armor",
+      "fx_ground_lost",
+      "fx_ground_confused",
+      "fx_ground_rooted",
+      "fx_ground_slow"
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "layer_order": "地面 < 腳下狀態圖 < 主角",
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "gameplay_values_changed": false
+  },
+  "sanmei": {
+    "phase_order": [
+      "fx_sanmei_ignite",
+      "fx_sanmei_sustain",
+      "fx_sanmei_extinguish"
+    ],
+    "standard_dimensions": [
+      256,
+      96
+    ],
+    "anchor": [
+      0.5,
+      0.875
+    ],
+    "native_shared_crop": [
+      440,
+      140,
+      1728,
+      623
+    ],
+    "path_fire_initial_duration_seconds": 0.5,
+    "phase_durations_seconds": null,
+    "upgrade_curve": null,
+    "note": "維持使用者指定的路徑初始存留0.5秒；此為三段視覺圖，不代表每張0.5秒或總計1.5秒，升級曲線與各段切換時間未新增。"
+  },
+  "terrain": {
+    "bridge": [
+      "terrain_bridge_intact",
+      "terrain_bridge_warning",
+      "terrain_bridge_collapsed"
+    ],
+    "mine": [
+      "terrain_mine_intact",
+      "terrain_mine_warning",
+      "terrain_mine_collapsed"
+    ],
+    "state_sequence": [
+      "完整",
+      "預警",
+      "崩塌後"
+    ],
+    "same_transform_per_triplet": true,
+    "pixel_identical_geometry_claimed": false,
+    "collision_and_timing_changed": false
+  },
+  "puppeteer": {
+    "ids": [
+      "player_oushi_male_candidate_v1",
+      "player_oushi_female_candidate_v1"
+    ],
+    "status": "supplementary_candidate",
+    "promoted_to_formal_class": false
+  },
+  "angbiao": {
+    "front": "angbiao_front_v1",
+    "flight": "angbiao_flight_v1",
+    "edge_spin": "angbiao_spin_edge_v1",
+    "trail": "fx_angbiao_return_trail_v1",
+    "map_preview": "preview_angbiao_map",
+    "material": "薄紙卡，平滑裁切圓緣，劍獅平面印刷",
+    "trajectory": "弧線去程及迴返",
+    "physics_changed": false,
+    "map_preview_is_game_screenshot": false
+  }
+}

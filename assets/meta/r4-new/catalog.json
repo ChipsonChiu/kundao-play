@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "shrine_unoffered_visual",
+    "name": "土地公廟・未祭祀陰影視覺稿",
+    "standard_size": [
+      144,
+      144
+    ],
+    "anchor": [
+      0.500395,
+      0.916198
+    ],
+    "notes": "image_gen 依28%陰影方向生成的明暗視覺稿；精確28%數值使用 runtime/shrine_unoffered_28pct.svg，勿在本張已暗化PNG上再疊28%。",
+    "reference_paths": [
+      "new/shrine_unoffered_base.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.915
+    ],
+    "file": "png/shrine_unoffered_visual.png",
+    "native_file": "native/shrine_unoffered_visual.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      144,
+      144
+    ],
+    "sha256": "cc24398e1c45965eb7ff66e9cefa79a14140166b73ae4b0dcdb9d9f94600cc57",
+    "native_sha256": "b3c872cfaf843ba0feb0fccadb7a8bb94ae70ec346466280744d5e2ca5ca37c1",
+    "geometry_export": {
+      "crop_xyxy": [
+        47,
+        99,
+        1206,
+        1148
+      ],
+      "scale": 0.11430543572044868,
+      "scale_xy": [
+        0.11389128559102675,
+        0.11439466158245949
+      ],
+      "paste_xy": [
+        6,
+        12
+      ],
+      "resized_wh": [
+        132,
+        120
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.401476,
+      "alpha_opaque_fraction": 0.017699,
+      "visible_bounds_alpha_ge_8": [
+        6,
+        12,
+        138,
+        132
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "shrine_unoffered_base",
+    "name": "土地公廟・未祭祀暗燈基底",
+    "standard_size": [
+      144,
+      144
+    ],
+    "anchor": [
+      0.500395,
+      0.916198
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。",
+      "廟身為正常亮度基底。未祭祀時由合成層套用黑色28%陰影一次；祭祀後移除陰影。"
+    ],
+    "reference_paths": [
+      "R4/masters/shrine.png",
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.915
+    ],
+    "file": "png/shrine_unoffered_base.png",
+    "native_file": "native/shrine_unoffered_base.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      144,
+      144
+    ],
+    "sha256": "02528d23614e2716ac2eeb09f25a4052a7478898b4bdcb5000a704fcb2cbf354",
+    "native_sha256": "d2435e0506ecce96156e42d2608abd6aadadb749dbcfc31ffaac62b9c572c3ff",
+    "geometry_export": {
+      "crop_xyxy": [
+        47,
+        99,
+        1206,
+        1148
+      ],
+      "scale": 0.11430543572044868,
+      "scale_xy": [
+        0.11389128559102675,
+        0.11439466158245949
+      ],
+      "paste_xy": [
+        6,
+        12
+      ],
+      "resized_wh": [
+        132,
+        120
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.399595,
+      "alpha_opaque_fraction": 0.017843,
+      "visible_bounds_alpha_ge_8": [
+        6,
+        12,
+        138,
+        132
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "shrine_offered_base",
+    "name": "土地公廟・祭祀後亮燈基底",
+    "standard_size": [
+      144,
+      144
+    ],
+    "anchor": [
+      0.500395,
+      0.916198
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。",
+      "廟身為正常亮度基底。未祭祀時由合成層套用黑色28%陰影一次；祭祀後移除陰影。",
+      "已含燈籠近身橘光、燭火與線香；獨立halo可加在兩只燈籠處，建議低透明度，避免雙重加亮。"
+    ],
+    "reference_paths": [
+      "new/shrine_terrain/native/shrine_unoffered_base.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.915
+    ],
+    "file": "png/shrine_offered_base.png",
+    "native_file": "native/shrine_offered_base.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      144,
+      144
+    ],
+    "sha256": "baf17c5570c66f81f88b5f8b8ae39093605716a7c57afd40e6c7f35b83e7f6b9",
+    "native_sha256": "50f7bed0c8d1a6791b026e9794af2ce5c6f3ed032ebf4544f75cf1d01051589e",
+    "geometry_export": {
+      "crop_xyxy": [
+        47,
+        99,
+        1206,
+        1148
+      ],
+      "scale": 0.11430543572044868,
+      "scale_xy": [
+        0.11389128559102675,
+        0.11439466158245949
+      ],
+      "paste_xy": [
+        6,
+        12
+      ],
+      "resized_wh": [
+        132,
+        120
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.399161,
+      "alpha_opaque_fraction": 0.017699,
+      "visible_bounds_alpha_ge_8": [
+        6,
+        12,
+        138,
+        132
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_shrine_warm_halo",
+    "name": "燈籠暖光暈・獨立圖層",
+    "standard_size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。",
+      "單枚光暈，重複放在廟燈籠中心 normalized=(0.199,0.498) 和 (0.721,0.498)。建議整個halo canvas寬度為廟canvas寬度的0.26，alpha multiplier 0.30–0.45；這是美術初始建議而非遊戲硬性數值。"
+    ],
+    "reference_paths": [
+      "new/shrine_terrain/native/shrine_offered_base.png"
+    ],
+    "group": "shrine_terrain",
+    "is_layer": true,
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.5
+    ],
+    "file": "png/fx_shrine_warm_halo.png",
+    "native_file": "native/fx_shrine_warm_halo.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      128,
+      128
+    ],
+    "sha256": "7b6dbefb78f798eec2b0b7833e96a93ebd48bef89e52d45dd3a31da72cf6f934",
+    "native_sha256": "8f3a442b275e169d2674d36a238c82d5eaa811da94d207fdd6e10d732466297f",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "scale": 0.10207336523125997,
+      "scale_xy": [
+        0.10207336523125997,
+        0.10207336523125997
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        128,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.675781,
+      "alpha_opaque_fraction": 0.0,
+      "visible_bounds_alpha_ge_8": [
+        28,
+        28,
+        98,
+        99
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "terrain_bridge_intact",
+    "name": "橋段・完整",
+    "standard_size": [
+      520,
+      320
+    ],
+    "anchor": [
+      0.500646,
+      0.810549
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。"
+    ],
+    "reference_paths": [
+      "R4/masters/landmark_butterfly_bridge.png",
+      "R4/masters/terrain_bridge.png",
+      "R4/masters/player_jian_male.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.81
+    ],
+    "file": "png/terrain_bridge_intact.png",
+    "native_file": "native/terrain_bridge_intact.png",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "standard_dimensions": [
+      520,
+      320
+    ],
+    "sha256": "8cb58469881fe92585ca1c2ed9257ad65f027de91f44f3a07c9cf1d5dfc2f414",
+    "native_sha256": "60a031cffecce85ac83edf8f3f579f29252c7989296e2c4132dae5c88c826166",
+    "geometry_export": {
+      "crop_xyxy": [
+        55,
+        201,
+        1479,
+        864
+      ],
+      "scale": 0.3359550561797753,
+      "scale_xy": [
+        0.3356741573033708,
+        0.33634992458521873
+      ],
+      "paste_xy": [
+        21,
+        48
+      ],
+      "resized_wh": [
+        478,
+        223
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.615805,
+      "alpha_opaque_fraction": 0.010547,
+      "visible_bounds_alpha_ge_8": [
+        21,
+        48,
+        499,
+        261
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "terrain_bridge_warning",
+    "name": "橋段・裂縫預警",
+    "standard_size": [
+      520,
+      320
+    ],
+    "anchor": [
+      0.500646,
+      0.810549
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。"
+    ],
+    "reference_paths": [
+      "new/shrine_terrain/native/terrain_bridge_intact.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.81
+    ],
+    "file": "png/terrain_bridge_warning.png",
+    "native_file": "native/terrain_bridge_warning.png",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "standard_dimensions": [
+      520,
+      320
+    ],
+    "sha256": "bde5c5d280b5263e4546fcf5ee75e277d64364970b78dd4928c6e7c4efbba33d",
+    "native_sha256": "e3aa731bb2c12a968873552f8ef4e366acda6d9d0f19396aea1ed166362ae049",
+    "geometry_export": {
+      "crop_xyxy": [
+        55,
+        201,
+        1479,
+        864
+      ],
+      "scale": 0.3359550561797753,
+      "scale_xy": [
+        0.3356741573033708,
+        0.33634992458521873
+      ],
+      "paste_xy": [
+        21,
+        48
+      ],
+      "resized_wh": [
+        478,
+        223
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.613972,
+      "alpha_opaque_fraction": 0.011827,
+      "visible_bounds_alpha_ge_8": [
+        21,
+        48,
+        499,
+        266
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "terrain_bridge_collapsed",
+    "name": "橋段・崩落",
+    "standard_size": [
+      520,
+      320
+    ],
+    "anchor": [
+      0.500646,
+      0.810549
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。"
+    ],
+    "reference_paths": [
+      "new/shrine_terrain/native/terrain_bridge_warning.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.81
+    ],
+    "file": "png/terrain_bridge_collapsed.png",
+    "native_file": "native/terrain_bridge_collapsed.png",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "standard_dimensions": [
+      520,
+      320
+    ],
+    "sha256": "12cf7ca60927c63bce896af097af3acd340305f558197d39a156467f2688d3f1",
+    "native_sha256": "1ae620a3fe4088fcdf3bf2be8799ced1473947c4e34ff05bbc74ff38ffe51ae3",
+    "geometry_export": {
+      "crop_xyxy": [
+        55,
+        201,
+        1479,
+        864
+      ],
+      "scale": 0.3359550561797753,
+      "scale_xy": [
+        0.3356741573033708,
+        0.33634992458521873
+      ],
+      "paste_xy": [
+        21,
+        48
+      ],
+      "resized_wh": [
+        478,
+        223
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.674105,
+      "alpha_opaque_fraction": 0.01226,
+      "visible_bounds_alpha_ge_8": [
+        21,
+        48,
+        499,
+        271
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "terrain_mine_intact",
+    "name": "坑道・完整",
+    "standard_size": [
+      520,
+      400
+    ],
+    "anchor": [
+      0.5,
+      0.896433
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。"
+    ],
+    "reference_paths": [
+      "R4/masters/landmark_moshen_cave.png",
+      "R4/masters/terrain_mine_collapse.png",
+      "R4/masters/player_jian_male.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.925
+    ],
+    "file": "png/terrain_mine_intact.png",
+    "native_file": "native/terrain_mine_intact.png",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "standard_dimensions": [
+      520,
+      400
+    ],
+    "sha256": "d57927e758e5bc9aebeb4f58c175e7d7b1a582070bc0ca25d8a824b1acd2d4ba",
+    "native_sha256": "b6f4daff67ad0e642c36da74146e6c3df81d0cf3d8fe44def5d6df16dcd02120",
+    "geometry_export": {
+      "crop_xyxy": [
+        130,
+        90,
+        1406,
+        959
+      ],
+      "scale": 0.3749216300940439,
+      "scale_xy": [
+        0.37460815047021945,
+        0.3751438434982739
+      ],
+      "paste_xy": [
+        21,
+        37
+      ],
+      "resized_wh": [
+        478,
+        326
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.484899,
+      "alpha_opaque_fraction": 0.004933,
+      "visible_bounds_alpha_ge_8": [
+        21,
+        38,
+        499,
+        363
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "terrain_mine_warning",
+    "name": "坑道・落石預警",
+    "standard_size": [
+      520,
+      400
+    ],
+    "anchor": [
+      0.5,
+      0.896433
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。"
+    ],
+    "reference_paths": [
+      "new/shrine_terrain/native/terrain_mine_intact.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.925
+    ],
+    "file": "png/terrain_mine_warning.png",
+    "native_file": "native/terrain_mine_warning.png",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "standard_dimensions": [
+      520,
+      400
+    ],
+    "sha256": "62304aca413bd75cd2da72ebf1309cc1f086f31f3739c55b9687534c55bfc080",
+    "native_sha256": "a9524ed3f54c2dc9d1e4b5c2e836be3f1a706a44d6c45fce3a53b2c8962d37d6",
+    "geometry_export": {
+      "crop_xyxy": [
+        130,
+        90,
+        1406,
+        959
+      ],
+      "scale": 0.3749216300940439,
+      "scale_xy": [
+        0.37460815047021945,
+        0.3751438434982739
+      ],
+      "paste_xy": [
+        21,
+        37
+      ],
+      "resized_wh": [
+        478,
+        326
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.483846,
+      "alpha_opaque_fraction": 0.004712,
+      "visible_bounds_alpha_ge_8": [
+        21,
+        37,
+        499,
+        363
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "terrain_mine_collapsed",
+    "name": "坑道・坍方封堵",
+    "standard_size": [
+      520,
+      400
+    ],
+    "anchor": [
+      0.5,
+      0.896433
+    ],
+    "notes": [
+      "本次全新image_gen輸出，原R4未改動；原生PNG像素未重繪、未調色。",
+      "標準輸出建議等比contain，不自動依非透明bbox裁切；同組使用相同canvas以免狀態跳位。",
+      "系列共用構圖與比例，生成圖不保證逐像素幾何相同。"
+    ],
+    "reference_paths": [
+      "new/shrine_terrain/native/terrain_mine_warning.png"
+    ],
+    "group": "shrine_terrain",
+    "anchor_space": "normalized_standard_canvas",
+    "native_anchor": [
+      0.5,
+      0.925
+    ],
+    "file": "png/terrain_mine_collapsed.png",
+    "native_file": "native/terrain_mine_collapsed.png",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "standard_dimensions": [
+      520,
+      400
+    ],
+    "sha256": "ab22748da7b4f6f1238e476ea9691536d5ca265db84cb5d15078ac1da80c5cdb",
+    "native_sha256": "eb40a381cd0a69523097e38604a464f45bd9b056929bcbaaa8819e6aa5f9f05e",
+    "geometry_export": {
+      "crop_xyxy": [
+        130,
+        90,
+        1406,
+        959
+      ],
+      "scale": 0.3749216300940439,
+      "scale_xy": [
+        0.37460815047021945,
+        0.3751438434982739
+      ],
+      "paste_xy": [
+        21,
+        37
+      ],
+      "resized_wh": [
+        478,
+        326
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.483841,
+      "alpha_opaque_fraction": 0.004851,
+      "visible_bounds_alpha_ge_8": [
+        21,
+        37,
+        499,
+        363
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "player_oushi_male_candidate_v1",
+    "name": "偶師候選・青年",
+    "standard_size": [
+      128,
+      160
+    ],
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "notes": "保留候選定位，樸素布衣與磚紅布袋戲手偶；依原劍修、符修比例重繪。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "R4/masters/player_oushi_male.png"
+    ],
+    "group": "puppet_angbiao",
+    "candidate_only": true,
+    "file": "png/player_oushi_male_candidate_v1.png",
+    "native_file": "native/player_oushi_male_candidate_v1.png",
+    "native_dimensions": [
+      1122,
+      1402
+    ],
+    "standard_dimensions": [
+      128,
+      160
+    ],
+    "sha256": "0b37c5ebc57128490f396da4395f3a352770ff29dc5657b326b1425dd861e9e4",
+    "native_sha256": "d22fa7525a225728d76d6ff87d0ec25006018baacffc241dc2028b372ce7fa5a",
+    "geometry_export": {
+      "crop_xyxy": [
+        291,
+        100,
+        852,
+        1303
+      ],
+      "scale": 0.12236076475477974,
+      "scale_xy": [
+        0.12299465240641712,
+        0.12219451371571072
+      ],
+      "paste_xy": [
+        29,
+        5
+      ],
+      "resized_wh": [
+        69,
+        147
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.669629,
+      "alpha_opaque_fraction": 0.019971,
+      "visible_bounds_alpha_ge_8": [
+        29,
+        5,
+        98,
+        152
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "player_oushi_female_candidate_v1",
+    "name": "偶師候選・少女",
+    "standard_size": [
+      128,
+      160
+    ],
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "notes": "保留候選定位，低髮髻與靛藍布袋戲手偶；依原劍修、符修比例重繪。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "R4/masters/player_oushi_female.png"
+    ],
+    "group": "puppet_angbiao",
+    "candidate_only": true,
+    "file": "png/player_oushi_female_candidate_v1.png",
+    "native_file": "native/player_oushi_female_candidate_v1.png",
+    "native_dimensions": [
+      1053,
+      1494
+    ],
+    "standard_dimensions": [
+      128,
+      160
+    ],
+    "sha256": "0e5fe199ccc8ef70d0744288238c3caa325cffa1149eee5d43603e1223dfc4ff",
+    "native_sha256": "c37531516ac7db3ed7b8dc47c559ff51fb43620ac8eb7c416ef119864c2e793b",
+    "geometry_export": {
+      "crop_xyxy": [
+        162,
+        81,
+        887,
+        1398
+      ],
+      "scale": 0.1117691723614275,
+      "scale_xy": [
+        0.11172413793103449,
+        0.11161731207289294
+      ],
+      "paste_xy": [
+        23,
+        5
+      ],
+      "resized_wh": [
+        81,
+        147
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.631201,
+      "alpha_opaque_fraction": 0.01875,
+      "visible_bounds_alpha_ge_8": [
+        23,
+        5,
+        104,
+        152
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "angbiao_front_v1",
+    "name": "尪仔標・正面印刷",
+    "standard_size": [
+      64,
+      64
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "平滑裁切薄紙圓邊、靛藍與磚紅劍獅印刷，移除舊圖網格及波浪邊。此張為正面，不自行更動原包背面圖的語意。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "R4/masters/proj_angbiao_spear.png"
+    ],
+    "group": "puppet_angbiao",
+    "file": "png/angbiao_front_v1.png",
+    "native_file": "native/angbiao_front_v1.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      64,
+      64
+    ],
+    "sha256": "f528e5dc5a6907ac069c5afaf8b5bb29534dd50a91ec2d18e9646b9b24ae3e46",
+    "native_sha256": "4704df548855103d311806db246537656b6db92acf091590e828b99c94cc810c",
+    "geometry_export": {
+      "crop_xyxy": [
+        129,
+        127,
+        1114,
+        1142
+      ],
+      "scale": 0.05800985221674877,
+      "scale_xy": [
+        0.05786802030456853,
+        0.05812807881773399
+      ],
+      "paste_xy": [
+        3,
+        2
+      ],
+      "resized_wh": [
+        57,
+        59
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.317871,
+      "alpha_opaque_fraction": 0.031006,
+      "visible_bounds_alpha_ge_8": [
+        3,
+        2,
+        60,
+        61
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "angbiao_flight_v1",
+    "name": "尪仔標・斜飛",
+    "standard_size": [
+      64,
+      64
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "同一紙標圖案透視斜飛；需由遊戲控制弧線去程與迴返軌跡。",
+    "reference_paths": [
+      "new/puppet_angbiao/native/angbiao_front_v1.png",
+      "R4/masters/player_jian_male.png"
+    ],
+    "group": "puppet_angbiao",
+    "file": "png/angbiao_flight_v1.png",
+    "native_file": "native/angbiao_flight_v1.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      64,
+      64
+    ],
+    "sha256": "5456ac87ed80eb73a513c4e7bfe0d89eae5523289762c3fc34bb257513891ed0",
+    "native_sha256": "28d044f16c26bca46b7a6950748f19549ebd5fe81143197d9ea739b23a6847ce",
+    "geometry_export": {
+      "crop_xyxy": [
+        159,
+        276,
+        1092,
+        1022
+      ],
+      "scale": 0.06310825294748125,
+      "scale_xy": [
+        0.0632368703108253,
+        0.06300268096514745
+      ],
+      "paste_xy": [
+        2,
+        8
+      ],
+      "resized_wh": [
+        59,
+        47
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.48291,
+      "alpha_opaque_fraction": 0.029297,
+      "visible_bounds_alpha_ge_8": [
+        2,
+        8,
+        61,
+        55
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "angbiao_spin_edge_v1",
+    "name": "尪仔標・側旋",
+    "standard_size": [
+      64,
+      64
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "近側面的薄紙標旋轉畫格，與正面及斜飛可用於飛行姿態切換。",
+    "reference_paths": [
+      "new/puppet_angbiao/native/angbiao_front_v1.png",
+      "R4/masters/player_jian_male.png"
+    ],
+    "group": "puppet_angbiao",
+    "file": "png/angbiao_spin_edge_v1.png",
+    "native_file": "native/angbiao_spin_edge_v1.png",
+    "native_dimensions": [
+      1254,
+      1254
+    ],
+    "standard_dimensions": [
+      64,
+      64
+    ],
+    "sha256": "3d5b48ec84f5f1474d0ef65b43b5b62fc0d5a18817b26bb83e0ab79c255fc020",
+    "native_sha256": "44d5978d52a5ec4a8e097c88029500d12a90d904f078a7c519b7342aa2304b7f",
+    "geometry_export": {
+      "crop_xyxy": [
+        135,
+        523,
+        1144,
+        801
+      ],
+      "scale": 0.05835480673934589,
+      "scale_xy": [
+        0.05847373637264618,
+        0.05755395683453238
+      ],
+      "paste_xy": [
+        2,
+        24
+      ],
+      "resized_wh": [
+        59,
+        16
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.874756,
+      "alpha_opaque_fraction": 0.024902,
+      "visible_bounds_alpha_ge_8": [
+        2,
+        24,
+        61,
+        40
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_angbiao_return_trail_v1",
+    "name": "尪仔標・迴返軌跡",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "獨立軌跡，未合併三昧真火；執行時可旋轉與縮放。",
+    "reference_paths": [
+      "new/puppet_angbiao/native/angbiao_front_v1.png",
+      "R4/masters/player_fu_male.png"
+    ],
+    "group": "puppet_angbiao",
+    "file": "png/fx_angbiao_return_trail_v1.png",
+    "native_file": "native/fx_angbiao_return_trail_v1.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "d403fa91276eef0d3c7abf66ae97eb128c76300aa65fe5576e7c3d42754d38bf",
+    "native_sha256": "198bc87c1b255845f3b66bb90eb13c743578115f5ec0cf65eb3cd3a72a612631",
+    "geometry_export": {
+      "crop_xyxy": [
+        192,
+        363,
+        1584,
+        640
+      ],
+      "scale": 0.16919540229885058,
+      "scale_xy": [
+        0.16954022988505746,
+        0.16967509025270758
+      ],
+      "paste_xy": [
+        10,
+        40
+      ],
+      "resized_wh": [
+        236,
+        47
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.893585,
+      "alpha_opaque_fraction": 0.019012,
+      "visible_bounds_alpha_ge_8": [
+        10,
+        40,
+        246,
+        87
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_dragon_vein",
+    "name": "龍脈・腳下地氣",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成的空心腳下圖樣；中間留空，不含角色、不含地板。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "R4/masters/fx_perch_armor.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_dragon_vein.png",
+    "native_file": "native/fx_ground_dragon_vein.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "b0c18e681181521a0a1cd28723e3c9ee995fe986fa1653237134eb799ab7218f",
+    "native_sha256": "6001a2027471bf5ac6ce4b58618184cdf37de0f528257dd846342d34d6254b80",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.836639,
+      "alpha_opaque_fraction": 0.023895,
+      "visible_bounds_alpha_ge_8": [
+        22,
+        31,
+        232,
+        94
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_blessing",
+    "name": "庇佑・腳下暖雲",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成空心腳下圖樣；以原 R4 主角筆觸、粗輪廓、低彩度平塗為準。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "new/ground_fire/native/fx_ground_lost.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_blessing.png",
+    "native_file": "native/fx_ground_blessing.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "5be4fd78484f3042784ff84a7146ce9a471eeae885a524d1f351028721b4f28c",
+    "native_sha256": "75494024fa3f705c25ddb7d2823ba8eba9da267c3045179301db695b7ce9350e",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.765533,
+      "alpha_opaque_fraction": 0.022736,
+      "visible_bounds_alpha_ge_8": [
+        14,
+        27,
+        242,
+        102
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_healing",
+    "name": "回復・腳下藥草",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成空心腳下圖樣；以原 R4 主角筆觸、粗輪廓、低彩度平塗為準。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "new/ground_fire/native/fx_ground_lost.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_healing.png",
+    "native_file": "native/fx_ground_healing.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "2c03c651453bcdcfa51ffb03f7625e1a8591eb2722e06f5af06fda31e60d8ca1",
+    "native_sha256": "69d1657dc3716e4492242e6007f99e0b44f132e2fa7f6b1bda825fcd2220f4a9",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.718872,
+      "alpha_opaque_fraction": 0.025391,
+      "visible_bounds_alpha_ge_8": [
+        17,
+        17,
+        241,
+        106
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_armor",
+    "name": "護體・腳下石護",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成空心腳下圖樣；以原 R4 主角筆觸、粗輪廓、低彩度平塗為準。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "new/ground_fire/native/fx_ground_lost.png",
+      "R4/masters/fx_perch_armor.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_armor.png",
+    "native_file": "native/fx_ground_armor.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "d143372d7565f0c8ced16ca9834758a6827658aa8fdeaf7c69b14bcbc913fcd0",
+    "native_sha256": "57fe679dfe70f6442e834813f5b992d693ed99e359145990d7e41fb954c94cb3",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.722748,
+      "alpha_opaque_fraction": 0.022247,
+      "visible_bounds_alpha_ge_8": [
+        15,
+        20,
+        241,
+        109
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_lost",
+    "name": "迷路・腳下迷霧",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成的空心腳下圖樣；中間留空，不含角色、不含地板。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "R4/masters/fx_perch_armor.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_lost.png",
+    "native_file": "native/fx_ground_lost.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "df82b0a12dc4b913bdf0bb381fb12d77f18359b2d3e674aba0a6e94659f5160c",
+    "native_sha256": "bba156f5be1121592d2496c7cd1900d5f98bdd106dbd0b9ad8fd03358669ee00",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.755402,
+      "alpha_opaque_fraction": 0.023438,
+      "visible_bounds_alpha_ge_8": [
+        14,
+        24,
+        242,
+        105
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_confused",
+    "name": "迷亂・腳下偏波",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成空心腳下圖樣；以原 R4 主角筆觸、粗輪廓、低彩度平塗為準。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "new/ground_fire/native/fx_ground_lost.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_confused.png",
+    "native_file": "native/fx_ground_confused.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "4c0e04b9fc66b81238cd75af07f1840c19f2e5bf37c66438ebe8eaa638c76e12",
+    "native_sha256": "9f25655f50ca54eb434ba59b001704eaca249f89ce527895576e51d29c96033d",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.726135,
+      "alpha_opaque_fraction": 0.034363,
+      "visible_bounds_alpha_ge_8": [
+        17,
+        25,
+        237,
+        107
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_rooted",
+    "name": "定根・腳下纏根",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成空心腳下圖樣；以原 R4 主角筆觸、粗輪廓、低彩度平塗為準。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "new/ground_fire/native/fx_ground_lost.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_rooted.png",
+    "native_file": "native/fx_ground_rooted.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "0655bebb2e9bfc226e73cc8531542732a255b0a7590a4b636868381d445e4c40",
+    "native_sha256": "7a435b7eff3f261a19f43e86e16a16177d86fe2d1ea7435a5c9fae4a4c68ad03",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.725555,
+      "alpha_opaque_fraction": 0.025269,
+      "visible_bounds_alpha_ge_8": [
+        14,
+        26,
+        242,
+        102
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_ground_slow",
+    "name": "減速・腳下冷凝",
+    "standard_size": [
+      256,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成空心腳下圖樣；以原 R4 主角筆觸、粗輪廓、低彩度平塗為準。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "new/ground_fire/native/fx_ground_lost.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_ground_slow.png",
+    "native_file": "native/fx_ground_slow.png",
+    "native_dimensions": [
+      1774,
+      887
+    ],
+    "standard_dimensions": [
+      256,
+      128
+    ],
+    "sha256": "feeae27e912df38743b7ff766ca1f369bd298e846edca9b1dba9df85a0b8d52a",
+    "native_sha256": "227b3b44479e43159f1ae7b65d30dd08fe1df8022668b342c6663ae2e60987c3",
+    "geometry_export": {
+      "crop_xyxy": [
+        0,
+        0,
+        1774,
+        887
+      ],
+      "scale": 0.14430665163472378,
+      "scale_xy": [
+        0.14430665163472378,
+        0.14430665163472378
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        128
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.790558,
+      "alpha_opaque_fraction": 0.020447,
+      "visible_bounds_alpha_ge_8": [
+        19,
+        24,
+        237,
+        104
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_sanmei_ignite",
+    "name": "三昧真火・起燃段",
+    "standard_size": [
+      256,
+      96
+    ],
+    "anchor": [
+      0.5,
+      0.875
+    ],
+    "notes": "新生成起燃段，沿投擲路徑鋪設；持續時間基礎 0.5 秒由遊戲邏輯控制，未新增各分段秒數。",
+    "reference_paths": [
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png",
+      "R4/masters/fx_sanmei_ignite.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_sanmei_ignite.png",
+    "native_file": "native/fx_sanmei_ignite.png",
+    "native_dimensions": [
+      2172,
+      724
+    ],
+    "standard_dimensions": [
+      256,
+      96
+    ],
+    "sha256": "c6b8bbd57742ba604adb4393aa98cda044ee86d165b029ab6ba161b14885bb41",
+    "native_sha256": "d3088d886409c8dc0fce1886444c9551e9b7c1eac340168049550d3f5e5719a4",
+    "geometry_export": {
+      "crop_xyxy": [
+        440,
+        140,
+        1728,
+        623
+      ],
+      "scale": 0.19875776397515527,
+      "scale_xy": [
+        0.19875776397515527,
+        0.19875776397515527
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        96
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.729696,
+      "alpha_opaque_fraction": 0.019002,
+      "visible_bounds_alpha_ge_8": [
+        10,
+        38,
+        251,
+        84
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_sanmei_sustain",
+    "name": "三昧真火・持續段",
+    "standard_size": [
+      256,
+      96
+    ],
+    "anchor": [
+      0.5,
+      0.875
+    ],
+    "notes": "持續燃燒段，同起燃圖的路徑基線與寬度；未新增遊戲秒數。",
+    "reference_paths": [
+      "new/ground_fire/native/fx_sanmei_ignite.png",
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_sanmei_sustain.png",
+    "native_file": "native/fx_sanmei_sustain.png",
+    "native_dimensions": [
+      2172,
+      724
+    ],
+    "standard_dimensions": [
+      256,
+      96
+    ],
+    "sha256": "f1222ee3b0764a7a40cd737e9615234d2d7136e00a8f0a3d9d6abd1f969b39e8",
+    "native_sha256": "c79b4cdb390536c4304014f504b0a9c66d8a2f202760b6fb5f0c3f17237ca9da",
+    "geometry_export": {
+      "crop_xyxy": [
+        440,
+        140,
+        1728,
+        623
+      ],
+      "scale": 0.19875776397515527,
+      "scale_xy": [
+        0.19875776397515527,
+        0.19875776397515527
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        96
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.560994,
+      "alpha_opaque_fraction": 0.023071,
+      "visible_bounds_alpha_ge_8": [
+        5,
+        15,
+        252,
+        84
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "fx_sanmei_extinguish",
+    "name": "三昧真火・熄滅段",
+    "standard_size": [
+      256,
+      96
+    ],
+    "anchor": [
+      0.5,
+      0.875
+    ],
+    "notes": "熄滅段，同起燃圖的路徑基線；低焰、餘燼與兩小段煙；未新增遊戲秒數。",
+    "reference_paths": [
+      "new/ground_fire/native/fx_sanmei_ignite.png",
+      "R4/masters/player_jian_male.png",
+      "R4/masters/player_fu_male.png"
+    ],
+    "group": "ground_fire",
+    "file": "png/fx_sanmei_extinguish.png",
+    "native_file": "native/fx_sanmei_extinguish.png",
+    "native_dimensions": [
+      2172,
+      724
+    ],
+    "standard_dimensions": [
+      256,
+      96
+    ],
+    "sha256": "69d02e2646e688a3da1b085b059aa18cf3482453cec1e545bb5d7cc93371a14d",
+    "native_sha256": "6bafcd851ec01ed8b0271d3edbc07c1c22bd8a4aa5107a8a942665df681fad68",
+    "geometry_export": {
+      "crop_xyxy": [
+        440,
+        140,
+        1728,
+        623
+      ],
+      "scale": 0.19875776397515527,
+      "scale_xy": [
+        0.19875776397515527,
+        0.19875776397515527
+      ],
+      "paste_xy": [
+        0,
+        0
+      ],
+      "resized_wh": [
+        256,
+        96
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.889811,
+      "alpha_opaque_fraction": 0.017171,
+      "visible_bounds_alpha_ge_8": [
+        11,
+        49,
+        246,
+        84
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  },
+  {
+    "id": "preview_angbiao_map",
+    "name": "尪仔標・地圖投擲效果示意",
+    "standard_size": [
+      1536,
+      864
+    ],
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "notes": "新生成的美術情境示意；畫面與軌跡不代表已接入遊戲或實際碰撞／投射數值。",
+    "reference_paths": [
+      "R4/player_tangki_throw",
+      "R4/stage_fucheng_bg_tile",
+      "R4/stage_fucheng_scene",
+      "new/angbiao_front_v1"
+    ],
+    "group": "map_preview",
+    "is_preview": true,
+    "file": "png/preview_angbiao_map.png",
+    "native_file": "native/preview_angbiao_map.png",
+    "native_dimensions": [
+      1672,
+      941
+    ],
+    "standard_dimensions": [
+      1536,
+      864
+    ],
+    "sha256": "b03f1cd259761de8e67b8347d01550739efd430d88148ccd1c86cf48c2093393",
+    "native_sha256": "2c422195cea0bd9d0c618e521f0904993c9ac6924b41273afb94ad72e8a8d070",
+    "geometry_export": {
+      "resized_from_full_frame": [
+        1672,
+        941
+      ]
+    },
+    "alpha": {
+      "alpha_zero_fraction": 0.0,
+      "alpha_opaque_fraction": 1.0,
+      "visible_bounds_alpha_ge_8": [
+        0,
+        0,
+        1536,
+        864
+      ]
+    },
+    "generation_method": "built_in_image_gen",
+    "integration_status": "art_delivered_game_integration_not_tested"
+  }
+]

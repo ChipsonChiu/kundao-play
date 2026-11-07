@@ -1,0 +1,30 @@
+{
+  "weapon_line": "biao",
+  "weapon_kind": "尪仔標",
+  "latest_user_text": "抱歉，乩童相關請改為拿ㄤ仔標",
+  "projectile_out": "proj_angbiao_throw",
+  "projectile_return": "proj_angbiao_return",
+  "same_projectile_pixels": true,
+  "outbound_path": "arc",
+  "return_path": "boomerang",
+  "path_scope_note": "最新更正改手持物；弧線往返沿用先前已指定路徑。",
+  "path_parameters": null,
+  "technique": "三昧真火",
+  "base_fire_duration_seconds": 0.5,
+  "duration_increases_with_upgrades": true,
+  "duration_increment_by_level": null,
+  "dot_damage_per_tick": null,
+  "tick_interval_seconds": null,
+  "damage_increment_by_level": null,
+  "trail_deposit_on": [
+    "outbound",
+    "return"
+  ],
+  "trail_deposit_note": "沿完整投擲往返路徑留火；以每段火生成時間各自計時。",
+  "fire_assets": {
+    "ignite": "fx_sanmei_ignite",
+    "sustain": "fx_sanmei_sustain",
+    "extinguish": "fx_sanmei_extinguish"
+  },
+  "gameplay_implemented_in_this_pack": false
+}

@@ -1,0 +1,53 @@
+{
+  "selected_imagegen_assets": 43,
+  "reused_pixel_outputs": 2,
+  "total_selected_output_records": 45,
+  "reviewed_original_assets": 382,
+  "original_assets_retained_or_remapped": 374,
+  "original_assets_replaced": 8,
+  "new_art_ids": 35,
+  "renamed_existing_weapon_images": 62,
+  "weapon_name_rows": 70,
+  "locked_weapon_names": 63,
+  "proposed_latest_angbiao_names": 7,
+  "requirements_rows": 419,
+  "legacy_compatibility_count": 30,
+  "proposal_reference_count": 2,
+  "categories": {
+    "圖示": 11,
+    "法寶": 8,
+    "特效與狀態": 21,
+    "介面": 2,
+    "投射物": 3
+  },
+  "requirements_actions": {
+    "retain": 262,
+    "retain_image_rename": 112,
+    "generate": 43,
+    "reuse_original_pixels": 2
+  },
+  "alpha_checked_count": 45,
+  "all_images_have_transparent_pixels": true,
+  "visual_qa": "逐張查看生成圖並用四頁棋盤 alpha 合成並排表重核；原包 382 張亦已用十頁審查表檢視。",
+  "actual_repairs": [
+    "icon_stat_fire：去除提示歧義導致的愛心，改直立雙層火焰",
+    "fx_hair_net：去除參考樹根帶入的葉片與木質形體，改深色髮束"
+  ],
+  "runtime_contracts": [
+    "fx_darkness_mask 是中央全透明的暗視野霧邊，四角非全不透明；requires_runtime_black_mask=true，preserve_full_canvas=true",
+    "尪仔標去程與回程重用同一原紙標 PNG，曲線、旋轉、回程由遊戲控制",
+    "三昧真火沿投擲路徑合成，初始 0.5 秒，升級延長；未提供的時長增量與傷害數值維持 null",
+    "倒數與功過格文字由遊戲文字層渲染；未以圖像烘焙數值"
+  ],
+  "excluded_directories": [
+    "superseded_before_reference_style",
+    "superseded_qa_fixes",
+    "superseded_qa_trials"
+  ],
+  "cross_group_sources": {
+    "item_false_ingot": "v088_stages",
+    "item_false_medicine_ticket": "v088_stages"
+  },
+  "no_game_code_modified": true,
+  "playtest_performed": false
+}

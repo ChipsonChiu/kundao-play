@@ -1,0 +1,330 @@
+{
+  "checked_asset_ids": 23,
+  "unique_repaired_images": 22,
+  "all_original_standard_dimensions_preserved": true,
+  "all_outer_edges_transparent_at_alpha_gt_8": true,
+  "entries": [
+    {
+      "id": "enemy_moshenzai",
+      "dimensions": [
+        96,
+        96
+      ],
+      "content_bounds": [
+        5,
+        6,
+        91,
+        89
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "enemy_jinmei",
+      "dimensions": [
+        96,
+        96
+      ],
+      "content_bounds": [
+        8,
+        5,
+        88,
+        91
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "enemy_banyan",
+      "dimensions": [
+        112,
+        112
+      ],
+      "content_bounds": [
+        6,
+        5,
+        106,
+        107
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "terrain_bush",
+      "dimensions": [
+        96,
+        80
+      ],
+      "content_bounds": [
+        7,
+        4,
+        88,
+        76
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "terrain_stump",
+      "dimensions": [
+        72,
+        72
+      ],
+      "content_bounds": [
+        3,
+        11,
+        69,
+        61
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "terrain_fence",
+      "dimensions": [
+        160,
+        128
+      ],
+      "content_bounds": [
+        7,
+        19,
+        153,
+        109
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "terrain_reed",
+      "dimensions": [
+        64,
+        96
+      ],
+      "content_bounds": [
+        4,
+        13,
+        60,
+        84
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "npc_cat",
+      "dimensions": [
+        256,
+        320
+      ],
+      "content_bounds": [
+        12,
+        31,
+        244,
+        289
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "beast_dragon_jade",
+      "dimensions": [
+        128,
+        128
+      ],
+      "content_bounds": [
+        6,
+        14,
+        122,
+        114
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "fx_zone_miasma",
+      "dimensions": [
+        128,
+        128
+      ],
+      "content_bounds": [
+        6,
+        17,
+        122,
+        110
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "trial_zhongkui_sha",
+      "dimensions": [
+        128,
+        128
+      ],
+      "content_bounds": [
+        6,
+        17,
+        122,
+        110
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "fx_dust_puff",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        12,
+        57,
+        244,
+        199
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "icon_stat_spirit",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        12,
+        35,
+        244,
+        221
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "btn_upgrade",
+      "dimensions": [
+        320,
+        100
+      ],
+      "content_bounds": [
+        55,
+        6,
+        264,
+        94
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_incense_bowl",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        29,
+        12,
+        226,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_candle",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        49,
+        12,
+        206,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_incense_sticks",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        45,
+        12,
+        211,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_fortune_cup",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        42,
+        12,
+        213,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_medicine_ticket",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        29,
+        12,
+        226,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_herb",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        38,
+        12,
+        217,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_oranges",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        15,
+        12,
+        240,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_potion",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        35,
+        12,
+        221,
+        244
+      ],
+      "outer_edge_visible_pixels": 0
+    },
+    {
+      "id": "item_rice",
+      "dimensions": [
+        256,
+        256
+      ],
+      "content_bounds": [
+        12,
+        17,
+        244,
+        238
+      ],
+      "outer_edge_visible_pixels": 0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "revision": "R3.1",
+  "previous_revision": "R3",
+  "user_instruction": "大稻埕場景指定郭雪湖的南街；將相關美術設定替換更新後重新生成美術包。",
+  "reference_work": "郭雪湖《南街殷賑》（1930）",
+  "reference_scope": "大稻埕唯一指定作品參照",
+  "new_generated_images_this_revision": 1,
+  "changed_image_ids": [
+    "stage_dadaocheng_scene"
+  ],
+  "unchanged_image_ids": 618,
+  "selected_outputs_in_complete_package": 135,
+  "total_asset_ids": 619,
+  "updated_components": [
+    "場景標準PNG",
+    "原生工作圖",
+    "色票與藝術參照",
+    "生成提示與修訂紀錄",
+    "素材目錄與manifest",
+    "CSV對照表",
+    "美術設定書",
+    "來源說明",
+    "離線圖鑑中的場景名稱與參照",
+    "八景總覽",
+    "交付說明與驗證報告"
+  ],
+  "image_review": "通過目視檢查；茶行、布莊、南北貨、中元普渡字樣可讀。",
+  "static_checks": {
+    "passed": 13,
+    "failed": 0,
+    "browserQA": "not_executed",
+    "domInteractionQA": "not_executed",
+    "screenshots": 0
+  },
+  "game_integration": "場景美術提案；未取得遊戲程式，未宣稱完成NPC、碰撞或關卡接入。"
+}

@@ -1,0 +1,34 @@
+{
+  "assumptions": {
+    "human_height_m": 1.75,
+    "human_visible_height_world_px": 60,
+    "world_px_per_m_approx": 34.2857,
+    "camera": "3/4 view, slightly top-down; illustrative proportions, not photorealism"
+  },
+  "sizes_world_px": {
+    "player_jian_width": 73,
+    "player_fu_width": 56,
+    "player_yao_width": 51,
+    "player_jitong_width": 56,
+    "tree_width": [
+      128,
+      192
+    ],
+    "shrine_width": 126,
+    "lantern_pole_width": 43,
+    "grass_width": 22,
+    "rock_width": 34,
+    "bush_width": 42,
+    "stump_width": 38
+  },
+  "collision": "Source trunk collision radii are unchanged. New props not present in v0.72 are catalog-only, not automatically collidable.",
+  "pagoda": "Conjured warding artifact tower, not human-scale architecture. 1..9 physical drawn storeys; fixed base anchor 0.5,878/960.",
+  "render_order": [
+    "ground",
+    "ground effects",
+    "depth-sorted objects and actors by ground y",
+    "status and projectiles",
+    "HUD"
+  ],
+  "tree_occlusion": "Player behind a nearby tree causes that tree to render at 0.38 alpha."
+}

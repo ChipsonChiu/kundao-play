@@ -1,0 +1,98 @@
+{
+  "asset_ids": 437,
+  "original_v072_ids": 391,
+  "additional_ids": 46,
+  "standard_png": 437,
+  "retina_png": 437,
+  "working_master_png": 437,
+  "total_asset_png": 1311,
+  "errors": [],
+  "missing_original_ids": [],
+  "size_changes_existing": [],
+  "nontransparent_background_ids": [
+    "stage_jiantan_bg_tile",
+    "title_bg",
+    "terrain_grass_tile_b",
+    "stage_yingge_bg_tile",
+    "terrain_path_tile",
+    "terrain_stone_floor",
+    "terrain_water_edge",
+    "terrain_water_tile"
+  ],
+  "seam_edges": {
+    "stage_yingge_bg_tile": {
+      "x": true,
+      "y": true
+    },
+    "stage_jiantan_bg_tile": {
+      "x": true,
+      "y": true
+    },
+    "terrain_grass_tile_b": {
+      "x": true,
+      "y": true
+    },
+    "terrain_path_tile": {
+      "x": true,
+      "y": true
+    },
+    "terrain_stone_floor": {
+      "x": true,
+      "y": true
+    },
+    "terrain_water_tile": {
+      "x": true,
+      "y": true
+    }
+  },
+  "identical_png_aliases": [
+    [
+      "tree_canopy",
+      "terrain_tree_a"
+    ],
+    [
+      "fx_ta_pillar",
+      "fx_ta_pillar_1"
+    ],
+    [
+      "fx_fu_boom",
+      "fx_fu_boom_yang",
+      "fx_spark",
+      "fx_hit_pop"
+    ],
+    [
+      "ui_card_class",
+      "ui_card_yang"
+    ],
+    [
+      "fx_ta_pillar_1_yang",
+      "fx_ta_pillar_yang"
+    ],
+    [
+      "fx_ta_pillar_1_yin",
+      "fx_ta_pillar_yin"
+    ],
+    [
+      "fx_ding_cloud_yin",
+      "fx_zone_poison"
+    ],
+    [
+      "fx_zone_spike",
+      "fx_earth_eruption"
+    ],
+    [
+      "fx_slash",
+      "fx_slash_yang"
+    ],
+    [
+      "fx_bellwave",
+      "fx_pulse_yang"
+    ]
+  ],
+  "font_files": [],
+  "source_counts": {
+    "provided_reference_or_generated_sheet": 56,
+    "original_redraw_or_composition": 63,
+    "provided_asset_derivative": 318
+  }
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "file": "00-header.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "e65f3cca9a4637c34593c5b4dc5698d6368b91ce43f6d26273a70c430a66b71f"
+  },
+  {
+    "file": "01-data.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "be8ad4e9d79232f1b443d43d685dc3816f928eea1a3db6982127e096e5cec34a"
+  },
+  {
+    "file": "02-save.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "389dd7622b1e83293d209eb74ee9e7d22d00d4cc7ccd4e9f05ffc72bc198fa0d"
+  },
+  {
+    "file": "03-util.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "f27d74dbf68a25f7dd59dca58013be6c6ffbdd230701dc5ff3d6ca1ee0cd8348"
+  },
+  {
+    "file": "04-engine.js",
+    "unchanged": false,
+    "allowed_ui_only_change": true,
+    "sha256": "2bde4ef997cd04de7060f3915b20e082f653e6319099cb15f4cacf2aa7f371e5"
+  },
+  {
+    "file": "05-game-state.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "a7fbe2ea2450cb3e2298f00f19a68f89d439d359a8f569487fa6d4f848632e39"
+  },
+  {
+    "file": "06-damage-pipeline.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "8e4671fa22cbd7fdd46821e9467106ee5dc15da98d0c420f91a6b5d3e6b029a6"
+  },
+  {
+    "file": "07-spawner-10.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "0b0427a9dc023929132a2b28f90eaab52a7a03fa1fdc12a91d7c39e399393b2e"
+  },
+  {
+    "file": "08-enemy-ai.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "bf7aef6f716d369faf8736696bf1908bfd727b58f9b5f9c15c876109ab47989a"
+  },
+  {
+    "file": "09-weapons.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "33cb997ef6f5a503bf6410f4f30d318a05b658dbd704c68b9cf701d057d8d149"
+  },
+  {
+    "file": "10-zones-pickups-shrines.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "c0d28f7500be442aef85f61998139ca6b11aa0db8fcaf1323f1f1313e7267b0d"
+  },
+  {
+    "file": "11-capture.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "c8397777c568a64512a9cfe72213c6d38ceb897145fb60c7d5d6546c7480bbce"
+  },
+  {
+    "file": "12-beasts-allies.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "d74b5cda2841f31e0aac099a37380477fffa283ce59501bbd3ce7942ed496898"
+  },
+  {
+    "file": "13-section.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "836305d4f9388ff1e14fee2792139e3b5e6222906bab95c3d24df3c2f3bf95b1"
+  },
+  {
+    "file": "14-trials.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "eb32ca043ff7e1e3a471539bcbb6353d3f6d8063ffa0ede0dc8c83c799aa3d1b"
+  },
+  {
+    "file": "15-level-up-menu.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "a3e64c52f62ddb283044d94e98d29b532440c55b682c07794e8a47dddb183d50"
+  },
+  {
+    "file": "16-end-of-run.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "3d442357ef8c5407189a5ff16759043dd9911b27b08d21313fc9ed692b7f67fe"
+  },
+  {
+    "file": "19-loop.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "2a389b3c94ae93073a517f40cdc3fe0b85cfb95fd2e51326672c5013ca4edb89"
+  },
+  {
+    "file": "20-wiring.js",
+    "unchanged": true,
+    "allowed_ui_only_change": false,
+    "sha256": "1e50d828d2d76683459f9284bc3e946f48b0856168f9ce2cd42fedb5802bc106"
+  }
+]

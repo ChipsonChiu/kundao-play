@@ -1,0 +1,47 @@
+{
+  "min": 1,
+  "max": 9,
+  "selection": "floor = clamp(requested_storeys,1,9)",
+  "default_id": "fx_ta_pillar",
+  "default_storeys": 1,
+  "anchor": {
+    "x": 0.5,
+    "y": 0.915
+  },
+  "assets": {
+    "base": {
+      "1": "fx_ta_pillar_1",
+      "2": "fx_ta_pillar_2",
+      "3": "fx_ta_pillar_3",
+      "4": "fx_ta_pillar_4",
+      "5": "fx_ta_pillar_5",
+      "6": "fx_ta_pillar_6",
+      "7": "fx_ta_pillar_7",
+      "8": "fx_ta_pillar_8",
+      "9": "fx_ta_pillar_9"
+    },
+    "yang": {
+      "1": "fx_ta_pillar_1_yang",
+      "2": "fx_ta_pillar_2_yang",
+      "3": "fx_ta_pillar_3_yang",
+      "4": "fx_ta_pillar_4_yang",
+      "5": "fx_ta_pillar_5_yang",
+      "6": "fx_ta_pillar_6_yang",
+      "7": "fx_ta_pillar_7_yang",
+      "8": "fx_ta_pillar_8_yang",
+      "9": "fx_ta_pillar_9_yang"
+    },
+    "yin": {
+      "1": "fx_ta_pillar_1_yin",
+      "2": "fx_ta_pillar_2_yin",
+      "3": "fx_ta_pillar_3_yin",
+      "4": "fx_ta_pillar_4_yin",
+      "5": "fx_ta_pillar_5_yin",
+      "6": "fx_ta_pillar_6_yin",
+      "7": "fx_ta_pillar_7_yin",
+      "8": "fx_ta_pillar_8_yin",
+      "9": "fx_ta_pillar_9_yin"
+    }
+  },
+  "runtime_status": "圖片與選圖對照已提供；未修改、未驗證遊戲執行時的選圖。"
+}

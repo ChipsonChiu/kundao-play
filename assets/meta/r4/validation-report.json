@@ -1,0 +1,185 @@
+{
+  "revision": "R4",
+  "checked_utc": "2026-11-06T19:44:26.476362+00:00",
+  "passed": true,
+  "asset_ids": 835,
+  "png_files_checked": 1601,
+  "checks": [
+    {
+      "check": "Unique asset IDs",
+      "passed": true
+    },
+    {
+      "check": "All 619 previous IDs preserved",
+      "passed": true
+    },
+    {
+      "check": "Existing standard dimensions preserved",
+      "passed": true
+    },
+    {
+      "check": "Requirement coverage complete",
+      "passed": true
+    },
+    {
+      "check": "237 selected independent outputs by owner",
+      "passed": true
+    },
+    {
+      "check": "Independent output count excludes aliases and reuse",
+      "passed": true
+    },
+    {
+      "check": "Catalog totals match output counts",
+      "passed": true
+    },
+    {
+      "check": "All previous IDs have explicit review rows",
+      "passed": true
+    },
+    {
+      "check": "Saisiyat intentionally has no image",
+      "passed": true
+    },
+    {
+      "check": "No invented Saisiyat image",
+      "passed": true
+    },
+    {
+      "check": "Superseded spear and ring line absent",
+      "passed": true
+    },
+    {
+      "check": "assets contains exact catalog PNG set",
+      "passed": true
+    },
+    {
+      "check": "masters contains exact unique native PNG set",
+      "passed": true
+    },
+    {
+      "check": "Every standard and native PNG decodes, dimensions and SHA-256 match",
+      "passed": true
+    },
+    {
+      "check": "Alias graph resolves to matching source images",
+      "passed": true
+    },
+    {
+      "check": "Exactly five formal classes",
+      "passed": true
+    },
+    {
+      "check": "Ten formal hero appearances",
+      "passed": true
+    },
+    {
+      "check": "Twenty male/female hero mirror forms",
+      "passed": true
+    },
+    {
+      "check": "Yao default remains female",
+      "passed": true
+    },
+    {
+      "check": "Male Yao regenerated",
+      "passed": true
+    },
+    {
+      "check": "Legacy Yao ID follows female default",
+      "passed": true
+    },
+    {
+      "check": "Eight formal stage/element/artist assignments",
+      "passed": true
+    },
+    {
+      "check": "Every formal stage has an image",
+      "passed": true
+    },
+    {
+      "check": "Dadaocheng complete composition preserved",
+      "passed": true
+    },
+    {
+      "check": "Six narrative stage bosses mapped to exact existing IDs",
+      "passed": true
+    },
+    {
+      "check": "63 locked weapon names plus 7 current token names",
+      "passed": true
+    },
+    {
+      "check": "Original locked character form 関嶺鼎 preserved",
+      "passed": true
+    },
+    {
+      "check": "Token names follow latest amendment",
+      "passed": true
+    },
+    {
+      "check": "All weapon display names match mapping",
+      "passed": true
+    },
+    {
+      "check": "Token and initial half-second fire contract",
+      "passed": true
+    },
+    {
+      "check": "Unspecified balance values remain null",
+      "passed": true
+    },
+    {
+      "check": "Arc outbound and returning path leave fire",
+      "passed": true
+    },
+    {
+      "check": "Canonical projectile aliases use existing paper token pixels",
+      "passed": true
+    },
+    {
+      "check": "Eight active gods use symbolic implements",
+      "passed": true
+    },
+    {
+      "check": "Seven tribal guardian images stay outside enemy/capture systems",
+      "passed": true
+    },
+    {
+      "check": "Xie/Fan legacy NPC IDs point to deity symbols",
+      "passed": true
+    },
+    {
+      "check": "Darkness edge preserves full canvas and declares runtime mask",
+      "passed": true
+    },
+    {
+      "check": "Darkness mask documented alpha behavior matches pixels",
+      "passed": true
+    },
+    {
+      "check": "Original background document preserved verbatim",
+      "passed": true
+    },
+    {
+      "check": "index.html has unique HTML IDs",
+      "passed": true
+    },
+    {
+      "check": "Embedded gallery data matches catalog",
+      "passed": true
+    },
+    {
+      "check": "angbiao-preview.html has unique HTML IDs",
+      "passed": true
+    },
+    {
+      "check": "Offline page JavaScript parses and exact path/fire lifetime math passes",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "browser_execution_performed": false,
+  "game_runtime_execution_performed": false,
+  "visual_review": "Root and delegated reviewers inspected selected images against original references and alpha composites; hash-linked evidence accompanies the metadata."
+}

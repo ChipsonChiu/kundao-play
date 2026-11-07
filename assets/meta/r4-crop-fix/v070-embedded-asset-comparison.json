@@ -1,0 +1,89 @@
+{
+  "game_file": "/workspace/scratch/63e2ea01db39/work/crop_fix_20261107/game_source/kundao-phase1-inline.html",
+  "version": "phase2-v0.65",
+  "inline_asset_count": 283,
+  "selected": [
+    {
+      "id": "enemy_shangui",
+      "bytes": 8851,
+      "sha256": "77f317a50707a4df942083510f2e2a84641abe35852008e2e98e0eca3b229bb0",
+      "same_r4_standard": false,
+      "declared_w": 96,
+      "declared_h": 96,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "enemy_moshenzai",
+      "bytes": 8728,
+      "sha256": "a461a827143c1f5cf9d259905425bb1976272ec8604e05a02483dc84b6daebee",
+      "same_r4_standard": false,
+      "declared_w": 96,
+      "declared_h": 96,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "enemy_tiger",
+      "bytes": 11911,
+      "sha256": "74d196c1f6ec65d36e6043bc6e252cf8ac9175dba68869bb2e680382f4a29221",
+      "same_r4_standard": false,
+      "declared_w": 96,
+      "declared_h": 96,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "enemy_banyan",
+      "bytes": 11729,
+      "sha256": "93e0255e569891f019282df134a6d78b4bfd412c312f117431d06d28bb9262b6",
+      "same_r4_standard": false,
+      "declared_w": 112,
+      "declared_h": 112,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "enemy_ghostfire",
+      "bytes": 8017,
+      "sha256": "319de73ea726986702c4e0ef73b84a14f743931526fbede33ef65977482e34ed",
+      "same_r4_standard": false,
+      "declared_w": 96,
+      "declared_h": 96,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "enemy_ghost",
+      "bytes": 6510,
+      "sha256": "9d4919dd3e656eb70302b786e98750b8b0bef40f752f9fa3fff281b20010b31a",
+      "same_r4_standard": false,
+      "declared_w": 96,
+      "declared_h": 96,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "xp_small",
+      "bytes": 1415,
+      "sha256": "d102af432f2e5dd74d47da98b14feb23d9e576d05645a1c6e422a394a36c5506",
+      "same_r4_standard": false,
+      "declared_w": 32,
+      "declared_h": 32,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "xp_mid",
+      "bytes": 1859,
+      "sha256": "b4aa23846004384583cd2572ea6bc7283db8483e6c9650038d3ec9090935f4b7",
+      "same_r4_standard": false,
+      "declared_w": 40,
+      "declared_h": 40,
+      "pixels_same_as_r4": false
+    },
+    {
+      "id": "xp_big",
+      "bytes": 2640,
+      "sha256": "ed3944df27eb57fd9c2c26770ce30e5fa197c60683adf908f772d3cbbc03872a",
+      "same_r4_standard": false,
+      "declared_w": 48,
+      "declared_h": 48,
+      "pixels_same_as_r4": false
+    }
+  ],
+  "current_screenshot_version_verified": false
+}

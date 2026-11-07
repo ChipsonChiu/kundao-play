@@ -1,0 +1,41 @@
+{
+  "package": "kundao-R4-new-art-20261107",
+  "package_type": "new_art_addon_only",
+  "base_revision": "R4 / v0.88",
+  "date": "2026-11-07",
+  "full_R4_pack_included": false,
+  "original_R4_files_replaced": false,
+  "base_R4_sha256": "3b8bd801ea8366b71188703e5f2ce2e95f07e3bd17e9507be2b975b4df5ce807",
+  "scope": "土地公廟、尪仔標、腳下狀態、偶師候選、三昧真火三段、橋段崩落、坑道坍方",
+  "cultural_scope": "台灣信仰文化",
+  "style_references": [
+    "R4 劍修少年",
+    "R4 符修少年"
+  ],
+  "style_constraints": [
+    "暖深棕粗圓線條",
+    "橢圓點眼與約三頭身",
+    "低彩度平塗和輕微紙感",
+    "樸素台灣民俗造型",
+    "無日系與華麗奇幻樣式"
+  ],
+  "counts": {
+    "independent_generated_images": 28,
+    "transparent_sprites": 27,
+    "scene_previews": 1,
+    "standard_png_count": 28,
+    "native_png_count": 28,
+    "groups": {
+      "shrine_terrain": 10,
+      "puppet_angbiao": 6,
+      "ground_fire": 11,
+      "map_preview": 1
+    }
+  },
+  "additional_exact_svg_compositions": 3,
+  "additional_rendered_png_compositions": 2,
+  "primary_catalog": "metadata/catalog.json",
+  "render_contract": "metadata/render-contract.json",
+  "compatibility_mapping": "metadata/r4-mapping.json",
+  "validation": "圖像與檔案驗證已完成；未連接遊戲原始碼，未宣稱遊戲內測試通過。"
+}

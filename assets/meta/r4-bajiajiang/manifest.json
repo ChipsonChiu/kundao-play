@@ -1,0 +1,310 @@
+{
+  "package": "kundao-R4-bajiajiang-eight-sprites-20261107",
+  "base_revision": "R4",
+  "date": "2026-11-07",
+  "scope": "八家將獨立人物圖，共 8 張。",
+  "sprite_count": 8,
+  "source_asset_id": "event_bajiajiang_patrol",
+  "source_master_sha256": "cd240e3d7d70338a3b0ff2d8a0b3fa65082a783efdae1f100094b430575c5c04",
+  "numbering": "原合圖由上到下，每列由左到右，01 至 08。",
+  "processing_note": "以 R4 合圖為參考逐位透明編修，保留既有角色造型；不是逐像素無損切片。",
+  "anchor_note": "錨點為畫布中心 x=256 與共同腳底基線 y=592。",
+  "assets": [
+    {
+      "id": "event_bajiajiang_patrol_01",
+      "file": "event_bajiajiang_patrol_01.png",
+      "name": "八家將 01",
+      "appearance": "黑帽紅衣・長棒與米色扇",
+      "source_position": {
+        "row": 1,
+        "column": "left"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        65,
+        59,
+        447,
+        592
+      ],
+      "sha256": "0f5aafd31947a1efe23b80399926a5129a1c9359bf984dd0263ce7de3d95e6e9",
+      "native_generation_size": [
+        1116,
+        1410
+      ],
+      "native_generation_sha256": "ef8d69d38b703220edf473aabcd1d21c134f0b0c564e0d013de3f290f5b5d1c5",
+      "source_visible_bounds": [
+        171,
+        12,
+        461,
+        406
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_02",
+      "file": "event_bajiajiang_patrol_02.png",
+      "name": "八家將 02",
+      "appearance": "金帽灰衣・長棒與米色扇",
+      "source_position": {
+        "row": 1,
+        "column": "right"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        72,
+        59,
+        440,
+        592
+      ],
+      "sha256": "4befb6991338d0ca05b228fe3a28bdd2691ee046967e9b8e693d4ec8119b32b1",
+      "native_generation_size": [
+        1091,
+        1442
+      ],
+      "native_generation_sha256": "28e696ef0bddd8141f2e45fa975b789e88565a31043aee115d5fd94e0295887c",
+      "source_visible_bounds": [
+        572,
+        13,
+        849,
+        407
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_03",
+      "file": "event_bajiajiang_patrol_03.png",
+      "name": "八家將 03",
+      "appearance": "白高帽米衣・圓頭短柄法器",
+      "source_position": {
+        "row": 2,
+        "column": "left"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        80,
+        59,
+        432,
+        592
+      ],
+      "sha256": "1a6f8597b6651be7b88dbdfd0dbe2578fe87b6bb21bf6fbf2e249f36312ac694",
+      "native_generation_size": [
+        1069,
+        1471
+      ],
+      "native_generation_sha256": "15981751d5a21ad9875b6c07b0896c2b39893b8da6683f0453701966a90908ef",
+      "source_visible_bounds": [
+        191,
+        391,
+        454,
+        786
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_04",
+      "file": "event_bajiajiang_patrol_04.png",
+      "name": "八家將 04",
+      "appearance": "黑高帽灰衣・長方法板與黑扇",
+      "source_position": {
+        "row": 2,
+        "column": "right"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        88,
+        99,
+        423,
+        592
+      ],
+      "sha256": "bc7bd4682846fe9b5353b9a186fa3c99547dd46d09b84b22dee9db2bff0fc655",
+      "native_generation_size": [
+        1122,
+        1402
+      ],
+      "native_generation_sha256": "ba877025ac46f94bfe8f44dcaba90cbef31be289164e22e3a26ef5acccb548ef",
+      "source_visible_bounds": [
+        585,
+        422,
+        844,
+        787
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_05",
+      "file": "event_bajiajiang_patrol_05.png",
+      "name": "八家將 05",
+      "appearance": "金帽米衣・木桶與米色扇",
+      "source_position": {
+        "row": 3,
+        "column": "left"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        79,
+        103,
+        432,
+        592
+      ],
+      "sha256": "c93ec74bdf46d19c05fa4417da313115c3b963d3e49073f47f00eb1e88c53779",
+      "native_generation_size": [
+        1122,
+        1402
+      ],
+      "native_generation_sha256": "d27ffa4b6907767da7390180a3fc8920530613ce1e5aa9e7a94019904d069485",
+      "source_visible_bounds": [
+        188,
+        789,
+        459,
+        1151
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_06",
+      "file": "event_bajiajiang_patrol_06.png",
+      "name": "八家將 06",
+      "appearance": "紅帽紅衣・火盆與米色扇",
+      "source_position": {
+        "row": 3,
+        "column": "right"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        57,
+        102,
+        454,
+        592
+      ],
+      "sha256": "2ef4ae1706aeb70d9fd88a0053d1c9dad84ebb0e8c68dbf1b9a7532cc75dc1f0",
+      "native_generation_size": [
+        1122,
+        1402
+      ],
+      "native_generation_sha256": "bf6d68d41683026d212c4efa51cac5df2840d9b72816d240732c3bb11ad8ee42",
+      "source_visible_bounds": [
+        541,
+        789,
+        848,
+        1152
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_07",
+      "file": "event_bajiajiang_patrol_07.png",
+      "name": "八家將 07",
+      "appearance": "黑帽青衣・雙圓法器與米色扇",
+      "source_position": {
+        "row": 4,
+        "column": "left"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        66,
+        90,
+        446,
+        592
+      ],
+      "sha256": "96a99647a96d586fdc24662a45c7f8783d0ce657a3d0c681786bf0334dadb21e",
+      "native_generation_size": [
+        1144,
+        1375
+      ],
+      "native_generation_sha256": "b0f8dbb3dca348bca40f817f9c45ea21f597cba88f9b7c780cdcffb92264898e",
+      "source_visible_bounds": [
+        171,
+        1154,
+        457,
+        1526
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    },
+    {
+      "id": "event_bajiajiang_patrol_08",
+      "file": "event_bajiajiang_patrol_08.png",
+      "name": "八家將 08",
+      "appearance": "金帽灰衣・曲首法器與米色扇",
+      "source_position": {
+        "row": 4,
+        "column": "right"
+      },
+      "w": 512,
+      "h": 640,
+      "anchor": [
+        0.5,
+        0.925
+      ],
+      "foot_baseline_y": 592,
+      "visible_bounds_alpha_gt_8": [
+        48,
+        87,
+        464,
+        592
+      ],
+      "sha256": "7fcd4e2e852f3e2bf3530c8dc3da22b731bf144ba022d0e5e1c320d3d72c0ea7",
+      "native_generation_size": [
+        1178,
+        1335
+      ],
+      "native_generation_sha256": "b5136956722fcd8be2d81ebc53bd34af86fbf99085c00af0f63bf2f81e0a606a",
+      "source_visible_bounds": [
+        544,
+        1153,
+        851,
+        1527
+      ],
+      "method": "imagegen_individual_transparent_extraction_then_proportional_export",
+      "integration_status": "art_delivered_game_integration_not_performed"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "source": "背景設定.md（2026-11-07 / v0.88）",
+  "source_section": "8.4／9.8",
+  "implementation_status": "art_data_contract_only_not_game_code",
+  "party_selection": {
+    "source": "current_life_beast_party",
+    "slots_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "lookup_key": "beast_id",
+    "result_field": "mirror_id"
+  },
+  "mapping": [
+    {
+      "beast_id": "beast_banyan_king",
+      "miniboss_id": "miniboss_banyan_king",
+      "name": "樹王公",
+      "mirror_id": "boss_xinmo_beast_banyan_king",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_banyan_king",
+      "mirror_image_action": "retain",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_tiger_king",
+      "miniboss_id": "miniboss_tiger_king",
+      "name": "虎精王",
+      "mirror_id": "boss_xinmo_beast_tiger_king",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_tiger_king",
+      "mirror_image_action": "retain",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_moshenzai_king",
+      "miniboss_id": "miniboss_moshenzai_king",
+      "name": "魔神仔頭目",
+      "mirror_id": "boss_xinmo_beast_moshenzai_king",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_moshenzai_king",
+      "mirror_image_action": "retain",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_ghostfire_king",
+      "miniboss_id": "miniboss_ghostfire_king",
+      "name": "燐火王",
+      "mirror_id": "boss_xinmo_beast_ghostfire_king",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_ghostfire_king",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_shishi_gong",
+      "miniboss_id": "miniboss_shishi_gong",
+      "name": "石獅公",
+      "mirror_id": "boss_xinmo_beast_shishi_gong",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_shishi_gong",
+      "mirror_image_action": "retain",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_shuigui_tou",
+      "miniboss_id": "miniboss_shuigui_tou",
+      "name": "水鬼頭",
+      "mirror_id": "boss_xinmo_beast_shuigui_tou",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_shuigui_tou",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_mukengniao_wang",
+      "miniboss_id": "miniboss_mukengniao_wang",
+      "name": "墓坑鳥王",
+      "mirror_id": "boss_xinmo_beast_mukengniao_wang",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_mukengniao_wang",
+      "mirror_image_action": "retain",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_feilu_wang",
+      "miniboss_id": "miniboss_feilu_wang",
+      "name": "飛顱妖王",
+      "mirror_id": "boss_xinmo_beast_feilu_wang",
+      "base_image_action": "retain",
+      "base_image_source_id": "beast_feilu_wang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_zhugao_gui",
+      "miniboss_id": "miniboss_zhugao_gui",
+      "name": "竹篙鬼",
+      "mirror_id": "boss_xinmo_beast_zhugao_gui",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_zhugao_gui",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_zhiren_bingzhang",
+      "miniboss_id": "miniboss_zhiren_bingzhang",
+      "name": "紙人兵長",
+      "mirror_id": "boss_xinmo_beast_zhiren_bingzhang",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_zhiren_bingzhang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_gundi_mo",
+      "miniboss_id": "miniboss_gundi_mo",
+      "name": "滾地魔",
+      "mirror_id": "boss_xinmo_beast_gundi_mo",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_gundi_mo",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_she_langjun",
+      "miniboss_id": "miniboss_she_langjun",
+      "name": "蛇郎君",
+      "mirror_id": "boss_xinmo_beast_she_langjun",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_she_langjun",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_diniu_wang",
+      "miniboss_id": "miniboss_diniu_wang",
+      "name": "地牛",
+      "mirror_id": "boss_xinmo_beast_diniu_wang",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_diniu_wang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_kenghun",
+      "miniboss_id": "miniboss_kenghun",
+      "name": "礦坑亡魂",
+      "mirror_id": "boss_xinmo_beast_kenghun",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_kenghun",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_tiandeng_yao",
+      "miniboss_id": "miniboss_tiandeng_yao",
+      "name": "天燈妖",
+      "mirror_id": "boss_xinmo_beast_tiandeng_yao",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_tiandeng_yao",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_jinmei_wang",
+      "miniboss_id": "miniboss_jinmei_wang",
+      "name": "金魅王",
+      "mirror_id": "boss_xinmo_beast_jinmei_wang",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_jinmei_wang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_yigui_jiang",
+      "miniboss_id": "miniboss_yigui_jiang",
+      "name": "疫鬼將",
+      "mirror_id": "boss_xinmo_beast_yigui_jiang",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_yigui_jiang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_shayu_jing",
+      "miniboss_id": "miniboss_shayu_jing",
+      "name": "鯊魚精",
+      "mirror_id": "boss_xinmo_beast_shayu_jing",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_shayu_jing",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_wangchuan_zhio_bing",
+      "miniboss_id": "miniboss_wangchuan_zhio_bing",
+      "name": "王船紙偶兵",
+      "mirror_id": "boss_xinmo_beast_wangchuan_zhio_bing",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_wangchuan_zhio_bing",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_haiweng_jing",
+      "miniboss_id": "miniboss_haiweng_jing",
+      "name": "海翁精",
+      "mirror_id": "boss_xinmo_beast_haiweng_jing",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_haiweng_jing",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_mihou_wang",
+      "miniboss_id": "miniboss_mihou_wang",
+      "name": "獼猴王",
+      "mirror_id": "boss_xinmo_beast_mihou_wang",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_mihou_wang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_mangshen_po",
+      "miniboss_id": "miniboss_mangshen_po",
+      "name": "芒神婆",
+      "mirror_id": "boss_xinmo_beast_mangshen_po",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_mangshen_po",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_shihu_wang",
+      "miniboss_id": "miniboss_shihu_wang",
+      "name": "石虎王",
+      "mirror_id": "boss_xinmo_beast_shihu_wang",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_shihu_wang",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    },
+    {
+      "beast_id": "beast_diehou",
+      "miniboss_id": "miniboss_diehou",
+      "name": "蝶后",
+      "mirror_id": "boss_xinmo_beast_diehou",
+      "base_image_action": "alias",
+      "base_image_source_id": "miniboss_diehou",
+      "mirror_image_action": "edit",
+      "mirror_standard_size": [
+        64,
+        64
+      ],
+      "status": "active_v088"
+    }
+  ],
+  "named_fallbacks_from_section_7_2": [
+    {
+      "slot_zero_based": 0,
+      "alias_id": "miniboss_mirror_banyan_king",
+      "source_id": "boss_xinmo_beast_banyan_king"
+    },
+    {
+      "slot_zero_based": 1,
+      "alias_id": "miniboss_mirror_tiger_king",
+      "source_id": "boss_xinmo_beast_tiger_king"
+    },
+    {
+      "slot_zero_based": 2,
+      "alias_id": "miniboss_mirror_moshenzai_king",
+      "source_id": "boss_xinmo_beast_moshenzai_king"
+    }
+  ],
+  "notes": [
+    "本表提供24種本世靈獸至鏡像素材的完整對應；前3隻的選取必須由遊戲程式依當前隊伍決定。",
+    "具名3中首領保留為7.2表的素材別名；是否用於空隊伍或未對應狀況由遊戲端決定，未在此聲稱已實作。",
+    "舊世殘魂為鏡界額外隱藏中首領，未列入前六關24種鏡像對應。",
+    "擴充候選靈獸未列入當前鏡像對應，不自動加入正式捕捉名單。"
+  ]
+}

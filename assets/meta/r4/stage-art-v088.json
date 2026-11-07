@@ -1,0 +1,243 @@
+{
+  "reviewed_at_jst": "2026-11-07",
+  "note": "八位藝術家僅供色彩與空間參照。使用者最新要求優先：全部新素材的畫法均鎖定原包實圖，不採獨立油畫、水彩或水墨畫風。色票為設計參考值，不是館藏色彩採樣。原作未下載、裁切或重用像素；不表示聯名或藝術家授權。",
+  "sources": [
+    {
+      "artist": "陳澄波",
+      "work": "淡水風景（淡水）",
+      "date": "1935",
+      "institution": "國立臺灣美術館／文化部典藏網",
+      "url": "https://collections.culture.tw/Object?RNO=MDc4MDAyMTY&SYSUID=12",
+      "grounding": "暖磚紅、赭色與藍紫夜色，以及台灣街巷層次；畫法固定原包粗棕線與平塗，不使用油彩筆觸。",
+      "stage": "stage_fucheng_scene",
+      "palette": [
+        "#A4513D",
+        "#56714D",
+        "#B89963",
+        "#C9B994",
+        "#47483D"
+      ],
+      "previous_stage_reference": "stage_chiayi_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "郭雪湖",
+      "work": "南街殷賑",
+      "date": "1930",
+      "institution": "臺北市立美術館藏／國家文化記憶庫／廣達文教基金會",
+      "url": "https://tcmb.culture.tw/zh-tw/detail?id=CA04_060_P045_040_e_t4&indexCode=Taifuten_object",
+      "secondary_url": "https://iic.quanta-edu.org/exhibition/25/exhibition_exhibits_info/60?hide=1",
+      "grounding": "唯一作品參照《南街殷賑》；使用街屋密度、縱深、紅綠赭色與廟街配置。依v0.88改編為中元夜，畫法固定原包粗棕線與平塗。",
+      "stage": "stage_dadaocheng_scene",
+      "palette": [
+        "#A24631",
+        "#387A6A",
+        "#B3944D",
+        "#E4D4B3",
+        "#3D535B"
+      ],
+      "reference_lock": "郭雪湖｜南街殷賑｜1930｜唯一作品參照",
+      "scene_role": "隱藏關慶中元正式美術；夜景為遊戲設定改編，不表示原作為夜景。",
+      "previous_stage_reference": "stage_dadaocheng_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "楊三郎",
+      "work": "山與海（九份風光）",
+      "date": "典藏詮釋2025，作品年代頁面未標",
+      "institution": "國立臺灣美術館／文化部典藏網",
+      "url": "https://collections.culture.tw/Object?RNO=MTEwMDAxMzg%3D&SYSUID=12",
+      "grounding": "海藍、青綠、赭色與磚紅的港灣光色配置，轉譯東港迎王場域；畫法固定原包粗棕線平塗。",
+      "stage": "stage_donggang_scene",
+      "palette": [
+        "#637347",
+        "#879571",
+        "#8AA5AD",
+        "#B46F54",
+        "#D5C5A1"
+      ],
+      "previous_stage_reference": "stage_beihai_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "席德進",
+      "work": "風景（臺北北門）",
+      "date": "1975",
+      "institution": "國立臺灣美術館／文化部典藏網",
+      "url": "https://collections.culture.tw/Object?RNO=MDgyMDA0MzU&SYSUID=12",
+      "grounding": "淡藍灰與低彩草木色、留白感與空間層次，轉譯大坑霧林步道；不切換為水彩畫法。",
+      "stage": "stage_dakeng_scene",
+      "palette": [
+        "#8A9DA1",
+        "#B6C2BC",
+        "#995C48",
+        "#E0DBCB",
+        "#515D55"
+      ],
+      "previous_stage_reference": "stage_tamsui_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "藍蔭鼎",
+      "work": "農家秋日",
+      "date": "1951",
+      "institution": "國立臺灣美術館／文化部典藏網",
+      "url": "https://collections.culture.tw/Object?RNO=MDg5MDAwMDM&SYSUID=12",
+      "grounding": "農村陶土色、草木綠與淡紫灰遠山的配色，轉譯鶯歌舊聚落；不切換為水彩畫法。",
+      "stage": "stage_yingge_scene",
+      "palette": [
+        "#7D8960",
+        "#B1946A",
+        "#B0ABA9",
+        "#A75C45",
+        "#D9CEAD"
+      ],
+      "previous_stage_reference": "stage_yingge_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "陳進",
+      "work": "農村（農家餘韻）",
+      "date": "約1960",
+      "institution": "屏東縣政府文化處／文化部典藏網",
+      "url": "https://collections.culture.tw/pthg_collectionsweb/Collection?GID=M4MBMXME",
+      "grounding": "安靜日常庭院、低彩礦物色的空間與色彩秩序；鏡界反射本世地景。人物不入此背景，粗棕線平塗與原包一致。",
+      "stage": "stage_jingjie_scene",
+      "palette": [
+        "#799080",
+        "#BCB3A1",
+        "#B2816E",
+        "#CEC4AC",
+        "#565E54"
+      ],
+      "previous_stage_reference": "stage_village_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "林玉山",
+      "work": "蓮池",
+      "date": "1930",
+      "institution": "國立臺灣美術館／文化部典藏網",
+      "url": "https://collections.culture.tw/Object?RNO=MDg4MDE3MDE&SYSUID=12",
+      "grounding": "荷塘青綠、植物錯落與水岸空間；捨泥金華麗效果，維持原包粗棕線與平塗。",
+      "stage": "stage_jiantan_scene",
+      "palette": [
+        "#567154",
+        "#91A387",
+        "#A69B74",
+        "#DFD6C3",
+        "#493F35"
+      ],
+      "previous_stage_reference": "stage_jiantan_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    },
+    {
+      "artist": "江兆申",
+      "work": "簾外斜陽",
+      "date": "1992",
+      "institution": "國立臺灣美術館／文化部典藏網",
+      "url": "https://collections.culture.tw/Object?RNO=MDg4MDAwMzI%3D&SYSUID=12",
+      "grounding": "灰綠山嵐層次、疏密留白與土赭色，轉譯平溪礦坑；不切換為水墨寫實畫法。",
+      "stage": "stage_pingxi_scene",
+      "palette": [
+        "#586357",
+        "#879184",
+        "#B6BAB0",
+        "#D3D2BF",
+        "#4E5047"
+      ],
+      "previous_stage_reference": "stage_mountain_scene",
+      "drawing_style": "原包粗棕線、圓潤形體、平塗低彩、少量紙面肌理"
+    }
+  ],
+  "architecture_sources": [
+    {
+      "url": "https://web.arte.gov.tw/architecture/04-6.html",
+      "institution": "國立臺灣藝術教育館",
+      "finding": "剪黏為陶瓷片嵌灰泥的傳統建築裝飾，可與泥塑、交趾陶並存。此次只用少量點綴，保留材料與輪廓。"
+    },
+    {
+      "url": "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2002.007.0009.0068",
+      "institution": "國立臺灣歷史博物館",
+      "finding": "龍山寺典藏照片記載燕脊、剪黏與八卦竹節窗，也出現石燈籠；因此應區分具體造型，不將所有石燈誤判日本文化。"
+    }
+  ],
+  "revision": "R4 / v0.88",
+  "latest_revision_note": "七正式鯤身加慶中元；原有2關、首頁及5補充概念亦一併依原包圖像重繪。",
+  "actual_style_reference_asset_ids": [
+    "shrine",
+    "terrain_tree_b",
+    "landmark_jiantan",
+    "terrain_path_tile"
+  ],
+  "game_implementation_verification": "背景文件稱v0.88全部實作；本交付只核對文件與美術，未取得遊戲程式驗證接入。",
+  "active_stage_mapping": [
+    {
+      "stage": "鶯歌",
+      "id": "stage_yingge_scene",
+      "artist": "藍蔭鼎",
+      "action": "replace"
+    },
+    {
+      "stage": "劍潭",
+      "id": "stage_jiantan_scene",
+      "artist": "林玉山",
+      "action": "replace"
+    },
+    {
+      "stage": "府城",
+      "id": "stage_fucheng_scene",
+      "artist": "陳澄波",
+      "action": "generate"
+    },
+    {
+      "stage": "平溪",
+      "id": "stage_pingxi_scene",
+      "artist": "江兆申",
+      "action": "generate"
+    },
+    {
+      "stage": "東港",
+      "id": "stage_donggang_scene",
+      "artist": "楊三郎",
+      "action": "generate"
+    },
+    {
+      "stage": "大坑",
+      "id": "stage_dakeng_scene",
+      "artist": "席德進",
+      "action": "generate"
+    },
+    {
+      "stage": "鏡界",
+      "id": "stage_jingjie_scene",
+      "artist": "陳進",
+      "action": "generate"
+    },
+    {
+      "stage": "慶中元",
+      "id": "stage_dadaocheng_scene",
+      "artist": "郭雪湖",
+      "action": "replace",
+      "alias": "stage_zhongyuan_scene"
+    }
+  ],
+  "supplementary_scene_ids": [
+    "stage_chiayi_scene",
+    "stage_beihai_scene",
+    "stage_tamsui_scene",
+    "stage_village_scene",
+    "stage_mountain_scene"
+  ],
+  "alias_geometry": {
+    "stage_zhongyuan_scene": {
+      "source": "stage_dadaocheng_scene",
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "note": "同一原生圖以1536×1024輸出；保留燈篙與供桌完整構圖，不裁成16:9。"
+    }
+  },
+  "selected_scene_count": 16
+}

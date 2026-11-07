@@ -1,0 +1,172 @@
+{
+ "sword": {
+  "1": {
+   "shared": "icon_w_sword_1"
+  },
+  "5": {
+   "yang": "icon_w_sword_5",
+   "yin": "icon_w_sword_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_sword_7",
+   "yin": "icon_w_sword_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_sword_yang",
+   "yin": "icon_w_sword_yin"
+  }
+ },
+ "bell": {
+  "1": {
+   "shared": "icon_w_bell_1"
+  },
+  "5": {
+   "yang": "icon_w_bell_5",
+   "yin": "icon_w_bell_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_bell_7",
+   "yin": "icon_w_bell_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_bell_yang",
+   "yin": "icon_w_bell_yin"
+  }
+ },
+ "gourd": {
+  "1": {
+   "shared": "icon_w_gourd_1"
+  },
+  "5": {
+   "yang": "icon_w_gourd_5",
+   "yin": "icon_w_gourd_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_gourd_7",
+   "yin": "icon_w_gourd_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_gourd_yang",
+   "yin": "icon_w_gourd_yin"
+  }
+ },
+ "seal": {
+  "1": {
+   "shared": "icon_w_seal_1"
+  },
+  "5": {
+   "yang": "icon_w_seal_5",
+   "yin": "icon_w_seal_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_seal_7",
+   "yin": "icon_w_seal_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_seal_yang",
+   "yin": "icon_w_seal_yin"
+  }
+ },
+ "mirror": {
+  "1": {
+   "shared": "icon_w_mirror_1"
+  },
+  "5": {
+   "yang": "icon_w_mirror_5",
+   "yin": "icon_w_mirror_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_mirror_7",
+   "yin": "icon_w_mirror_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_mirror_yang",
+   "yin": "icon_w_mirror_yin"
+  }
+ },
+ "fu": {
+  "1": {
+   "shared": "icon_w_fu_1"
+  },
+  "5": {
+   "yang": "icon_w_fu_5",
+   "yin": "icon_w_fu_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_fu_7",
+   "yin": "icon_w_fu_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_fu_yang",
+   "yin": "icon_w_fu_yin"
+  }
+ },
+ "ding": {
+  "1": {
+   "shared": "icon_w_ding_1"
+  },
+  "5": {
+   "yang": "icon_w_ding_5",
+   "yin": "icon_w_ding_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_ding_7",
+   "yin": "icon_w_ding_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_ding_yang",
+   "yin": "icon_w_ding_yin"
+  }
+ },
+ "qin": {
+  "1": {
+   "shared": "icon_w_qin_1"
+  },
+  "5": {
+   "yang": "icon_w_qin_5",
+   "yin": "icon_w_qin_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_qin_7",
+   "yin": "icon_w_qin_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_qin_yang",
+   "yin": "icon_w_qin_yin"
+  }
+ },
+ "ta": {
+  "1": {
+   "shared": "icon_w_ta_1"
+  },
+  "5": {
+   "yang": "icon_w_ta_5",
+   "yin": "icon_w_ta_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_ta_7",
+   "yin": "icon_w_ta_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_ta_yang",
+   "yin": "icon_w_ta_yin"
+  }
+ },
+ "biao": {
+  "1": {
+   "shared": "icon_w_biao_1"
+  },
+  "5": {
+   "yang": "icon_w_biao_5",
+   "yin": "icon_w_biao_5_yin"
+  },
+  "7": {
+   "yang": "icon_w_biao_7",
+   "yin": "icon_w_biao_7_yin"
+  },
+  "endpoint": {
+   "yang": "icon_w_biao_yang",
+   "yin": "icon_w_biao_yin"
+  }
+ }
+}

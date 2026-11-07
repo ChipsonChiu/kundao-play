@@ -1,0 +1,1455 @@
+{
+  "reviewed_unique_masters": 766,
+  "small_native_master_count": 87,
+  "original_attachment_extracted_masters_viewed": 59,
+  "confirmed_unique_master_count": 13,
+  "affected_catalog_ids": 14,
+  "source_sheet": "work/crop_fix_20261107/source_sheets/C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+  "root_cause": "舊source_box裁切不完整或帶入鄰格；之後包上3px透明margin，故只測PNG外框透明無法發現。缺損已在master，標準PNG只是沿用。",
+  "records": [
+    {
+      "id": "enemy_moshenzai",
+      "aliases": [
+        "enemy_moshenzai"
+      ],
+      "master": "masters/enemy_moshenzai.png",
+      "category": "creature",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "紫色斗篷右側與手部輪廓遭舊裁切框切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        830,
+        40,
+        917,
+        148
+      ],
+      "suggested_full_reference_crop": [
+        834,
+        42,
+        927,
+        139
+      ],
+      "native_dimensions": [
+        88,
+        92
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          85,
+          89
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 54,
+          "T": 14,
+          "B": 10
+        },
+        "edge_run_ratio": {
+          "L": 0.058,
+          "R": 0.628,
+          "T": 0.171,
+          "B": 0.122
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 54,
+          "T": 14,
+          "B": 10
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          85,
+          89
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 54,
+          "T": 14,
+          "B": 10
+        },
+        "edge_run_ratio": {
+          "L": 0.058,
+          "R": 0.628,
+          "T": 0.171,
+          "B": 0.122
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 54,
+          "T": 14,
+          "B": 10
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        96,
+        96
+      ],
+      "standard_alpha32_bbox": [
+        5,
+        3,
+        91,
+        93
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 6,
+        "R": 57,
+        "T": 15,
+        "B": 11
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "enemy_jinmei",
+      "aliases": [
+        "enemy_jinmei"
+      ],
+      "master": "masters/enemy_jinmei.png",
+      "category": "creature",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "右側草帽、臉側與軀幹輪廓遭舊裁切框切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        916,
+        39,
+        1008,
+        149
+      ],
+      "suggested_full_reference_crop": [
+        924,
+        36,
+        1018,
+        143
+      ],
+      "native_dimensions": [
+        88,
+        99
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          85,
+          96
+        ],
+        "edge_runs": {
+          "L": 7,
+          "R": 38,
+          "T": 12,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.075,
+          "R": 0.409,
+          "T": 0.146,
+          "B": 0.183
+        },
+        "edge_counts": {
+          "L": 7,
+          "R": 38,
+          "T": 12,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          85,
+          96
+        ],
+        "edge_runs": {
+          "L": 7,
+          "R": 38,
+          "T": 12,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.075,
+          "R": 0.409,
+          "T": 0.146,
+          "B": 0.183
+        },
+        "edge_counts": {
+          "L": 7,
+          "R": 38,
+          "T": 12,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        96,
+        96
+      ],
+      "standard_alpha32_bbox": [
+        8,
+        3,
+        87,
+        93
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 7,
+        "R": 37,
+        "T": 12,
+        "B": 15
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "enemy_banyan",
+      "aliases": [
+        "enemy_banyan"
+      ],
+      "master": "masters/enemy_banyan.png",
+      "category": "creature",
+      "defect_type": "neighbor_contamination",
+      "side": "L",
+      "defect": "左側殘留相鄰老虎的褐色圖形；完整樹精可在原sheet重新分離",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        1107,
+        32,
+        1206,
+        150
+      ],
+      "suggested_full_reference_crop": [
+        1112,
+        32,
+        1209,
+        138
+      ],
+      "native_dimensions": [
+        105,
+        99
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          102,
+          96
+        ],
+        "edge_runs": {
+          "L": 26,
+          "R": 16,
+          "T": 10,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.28,
+          "R": 0.172,
+          "T": 0.101,
+          "B": 0.071
+        },
+        "edge_counts": {
+          "L": 26,
+          "R": 28,
+          "T": 10,
+          "B": 13
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          102,
+          96
+        ],
+        "edge_runs": {
+          "L": 26,
+          "R": 16,
+          "T": 10,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.28,
+          "R": 0.172,
+          "T": 0.101,
+          "B": 0.071
+        },
+        "edge_counts": {
+          "L": 26,
+          "R": 28,
+          "T": 10,
+          "B": 13
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        112,
+        112
+      ],
+      "standard_alpha32_bbox": [
+        4,
+        10,
+        108,
+        108
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 28,
+        "R": 18,
+        "T": 11,
+        "B": 7
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "terrain_bush",
+      "aliases": [
+        "terrain_bush"
+      ],
+      "master": "masters/terrain_bush.png",
+      "category": "terrain",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "花叢右側葉團外輪廓遭垂直切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        512,
+        737,
+        581,
+        804
+      ],
+      "suggested_full_reference_crop": [
+        509,
+        733,
+        593,
+        806
+      ],
+      "native_dimensions": [
+        75,
+        70
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          72,
+          67
+        ],
+        "edge_runs": {
+          "L": 8,
+          "R": 41,
+          "T": 9,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.125,
+          "R": 0.641,
+          "T": 0.13,
+          "B": 0.101
+        },
+        "edge_counts": {
+          "L": 9,
+          "R": 41,
+          "T": 9,
+          "B": 12
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          72,
+          67
+        ],
+        "edge_runs": {
+          "L": 8,
+          "R": 41,
+          "T": 9,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.125,
+          "R": 0.641,
+          "T": 0.13,
+          "B": 0.101
+        },
+        "edge_counts": {
+          "L": 9,
+          "R": 41,
+          "T": 9,
+          "B": 12
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        96,
+        80
+      ],
+      "standard_alpha32_bbox": [
+        8,
+        3,
+        88,
+        77
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 12,
+        "R": 48,
+        "T": 11,
+        "B": 9
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "terrain_stump",
+      "aliases": [
+        "terrain_stump"
+      ],
+      "master": "masters/terrain_stump.png",
+      "category": "terrain",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "樹樁右側根部及輪廓被切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        700,
+        744,
+        760,
+        810
+      ],
+      "suggested_full_reference_crop": [
+        697,
+        746,
+        768,
+        807
+      ],
+      "native_dimensions": [
+        64,
+        53
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          61,
+          50
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 16,
+          "T": 14,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.106,
+          "R": 0.34,
+          "T": 0.241,
+          "B": 0.121
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 16,
+          "T": 14,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          61,
+          50
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 16,
+          "T": 14,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.106,
+          "R": 0.34,
+          "T": 0.241,
+          "B": 0.121
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 16,
+          "T": 14,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        72,
+        72
+      ],
+      "standard_alpha32_bbox": [
+        3,
+        16,
+        69,
+        69
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 6,
+        "R": 19,
+        "T": 17,
+        "B": 8
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "terrain_fence",
+      "aliases": [
+        "terrain_fence"
+      ],
+      "master": "masters/terrain_fence.png",
+      "category": "terrain",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "右端木桿及兩條橫桿端點輪廓被切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        1123,
+        746,
+        1181,
+        809
+      ],
+      "suggested_full_reference_crop": [
+        1125,
+        753,
+        1189,
+        806
+      ],
+      "native_dimensions": [
+        60,
+        45
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          57,
+          42
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 25,
+          "T": 7,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.154,
+          "R": 0.641,
+          "T": 0.13,
+          "B": 0.148
+        },
+        "edge_counts": {
+          "L": 11,
+          "R": 25,
+          "T": 19,
+          "B": 22
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          57,
+          42
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 25,
+          "T": 7,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.154,
+          "R": 0.641,
+          "T": 0.13,
+          "B": 0.148
+        },
+        "edge_counts": {
+          "L": 11,
+          "R": 25,
+          "T": 19,
+          "B": 22
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        160,
+        128
+      ],
+      "standard_alpha32_bbox": [
+        4,
+        14,
+        156,
+        124
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 18,
+        "R": 72,
+        "T": 20,
+        "B": 22
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "terrain_reed",
+      "aliases": [
+        "terrain_reed"
+      ],
+      "master": "masters/terrain_reed.png",
+      "category": "terrain",
+      "defect_type": "neighbor_contamination",
+      "side": "L",
+      "defect": "左側帶入相鄰綠草叢的獨立殘片",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        640,
+        720,
+        709,
+        804
+      ],
+      "suggested_full_reference_crop": [
+        643,
+        717,
+        708,
+        803
+      ],
+      "native_dimensions": [
+        73,
+        84
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          70,
+          81
+        ],
+        "edge_runs": {
+          "L": 30,
+          "R": 2,
+          "T": 3,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.385,
+          "R": 0.026,
+          "T": 0.045,
+          "B": 0.104
+        },
+        "edge_counts": {
+          "L": 30,
+          "R": 2,
+          "T": 3,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          70,
+          81
+        ],
+        "edge_runs": {
+          "L": 30,
+          "R": 2,
+          "T": 3,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.385,
+          "R": 0.026,
+          "T": 0.045,
+          "B": 0.104
+        },
+        "edge_counts": {
+          "L": 30,
+          "R": 2,
+          "T": 3,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        64,
+        96
+      ],
+      "standard_alpha32_bbox": [
+        2,
+        24,
+        62,
+        94
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 28,
+        "R": 3,
+        "T": 3,
+        "B": 14
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "npc_cat",
+      "aliases": [
+        "npc_cat"
+      ],
+      "master": "masters/npc_cat.png",
+      "category": "npc",
+      "defect_type": "crop",
+      "side": "L",
+      "defect": "黑白廟貓尾尖左端被切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        635,
+        49,
+        716,
+        149
+      ],
+      "suggested_full_reference_crop": [
+        626,
+        48,
+        718,
+        150
+      ],
+      "native_dimensions": [
+        81,
+        93
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          78,
+          90
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 5,
+          "T": 6,
+          "B": 4
+        },
+        "edge_run_ratio": {
+          "L": 0.069,
+          "R": 0.057,
+          "T": 0.08,
+          "B": 0.053
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 5,
+          "T": 6,
+          "B": 4
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          78,
+          90
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 5,
+          "T": 6,
+          "B": 4
+        },
+        "edge_run_ratio": {
+          "L": 0.069,
+          "R": 0.057,
+          "T": 0.08,
+          "B": 0.053
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 5,
+          "T": 6,
+          "B": 4
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        256,
+        320
+      ],
+      "standard_alpha32_bbox": [
+        9,
+        35,
+        247,
+        311
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 21,
+        "R": 17,
+        "T": 19,
+        "B": 12
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "beast_dragon_jade",
+      "aliases": [
+        "beast_dragon_jade"
+      ],
+      "master": "masters/beast_dragon_jade.png",
+      "category": "beast",
+      "defect_type": "crop",
+      "side": "L",
+      "defect": "青龍左下尾圈弧形輪廓被切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        414,
+        173,
+        568,
+        294
+      ],
+      "suggested_full_reference_crop": [
+        403,
+        168,
+        560,
+        296
+      ],
+      "native_dimensions": [
+        147,
+        124
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          144,
+          121
+        ],
+        "edge_runs": {
+          "L": 25,
+          "R": 4,
+          "T": 6,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.212,
+          "R": 0.034,
+          "T": 0.043,
+          "B": 0.057
+        },
+        "edge_counts": {
+          "L": 30,
+          "R": 4,
+          "T": 6,
+          "B": 10
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          144,
+          121
+        ],
+        "edge_runs": {
+          "L": 25,
+          "R": 4,
+          "T": 6,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.212,
+          "R": 0.034,
+          "T": 0.043,
+          "B": 0.057
+        },
+        "edge_counts": {
+          "L": 30,
+          "R": 4,
+          "T": 6,
+          "B": 10
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        128,
+        128
+      ],
+      "standard_alpha32_bbox": [
+        4,
+        24,
+        124,
+        124
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 22,
+        "R": 5,
+        "T": 6,
+        "B": 17
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "fx_zone_miasma",
+      "aliases": [
+        "trial_zhongkui_sha",
+        "fx_zone_miasma"
+      ],
+      "master": "masters/fx_zone_miasma.png",
+      "category": "fx",
+      "defect_type": "crop",
+      "side": "L",
+      "defect": "紫色瘴氣左下淡煙團被切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        812,
+        449,
+        912,
+        544
+      ],
+      "suggested_full_reference_crop": [
+        800,
+        458,
+        907,
+        543
+      ],
+      "native_dimensions": [
+        96,
+        84
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          93,
+          81
+        ],
+        "edge_runs": {
+          "L": 13,
+          "R": 8,
+          "T": 2,
+          "B": 5
+        },
+        "edge_run_ratio": {
+          "L": 0.167,
+          "R": 0.103,
+          "T": 0.022,
+          "B": 0.056
+        },
+        "edge_counts": {
+          "L": 24,
+          "R": 8,
+          "T": 4,
+          "B": 5
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          93,
+          81
+        ],
+        "edge_runs": {
+          "L": 13,
+          "R": 8,
+          "T": 2,
+          "B": 5
+        },
+        "edge_run_ratio": {
+          "L": 0.167,
+          "R": 0.103,
+          "T": 0.022,
+          "B": 0.056
+        },
+        "edge_counts": {
+          "L": 24,
+          "R": 8,
+          "T": 4,
+          "B": 5
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        128,
+        128
+      ],
+      "standard_alpha32_bbox": [
+        4,
+        12,
+        124,
+        116
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 18,
+        "R": 11,
+        "T": 2,
+        "B": 7
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "fx_dust_puff",
+      "aliases": [
+        "fx_dust_puff"
+      ],
+      "master": "masters/fx_dust_puff.png",
+      "category": "fx",
+      "defect_type": "crop",
+      "side": "T",
+      "defect": "最上方煙塵隆起被水平切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        668,
+        957,
+        769,
+        1020
+      ],
+      "suggested_full_reference_crop": [
+        659,
+        948,
+        759,
+        1012
+      ],
+      "native_dimensions": [
+        92,
+        56
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          89,
+          53
+        ],
+        "edge_runs": {
+          "L": 14,
+          "R": 1,
+          "T": 24,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.28,
+          "R": 0.02,
+          "T": 0.279,
+          "B": 0.081
+        },
+        "edge_counts": {
+          "L": 14,
+          "R": 1,
+          "T": 24,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          89,
+          53
+        ],
+        "edge_runs": {
+          "L": 14,
+          "R": 1,
+          "T": 24,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.28,
+          "R": 0.02,
+          "T": 0.279,
+          "B": 0.081
+        },
+        "edge_counts": {
+          "L": 14,
+          "R": 1,
+          "T": 24,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        256,
+        256
+      ],
+      "standard_alpha32_bbox": [
+        9,
+        59,
+        247,
+        197
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 40,
+        "R": 4,
+        "T": 68,
+        "B": 19
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "icon_stat_spirit",
+      "aliases": [
+        "icon_stat_spirit"
+      ],
+      "master": "masters/icon_stat_spirit.png",
+      "category": "icon",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "蓮花最右瓣尖約2px外輪廓被切除",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        1297,
+        583,
+        1341,
+        632
+      ],
+      "suggested_full_reference_crop": [
+        1295,
+        584,
+        1348,
+        630
+      ],
+      "native_dimensions": [
+        46,
+        42
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          43,
+          39
+        ],
+        "edge_runs": {
+          "L": 4,
+          "R": 10,
+          "T": 2,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.111,
+          "R": 0.278,
+          "T": 0.05,
+          "B": 0.2
+        },
+        "edge_counts": {
+          "L": 4,
+          "R": 10,
+          "T": 2,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          43,
+          39
+        ],
+        "edge_runs": {
+          "L": 4,
+          "R": 10,
+          "T": 2,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.111,
+          "R": 0.278,
+          "T": 0.05,
+          "B": 0.2
+        },
+        "edge_counts": {
+          "L": 4,
+          "R": 10,
+          "T": 2,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        256,
+        256
+      ],
+      "standard_alpha32_bbox": [
+        9,
+        21,
+        247,
+        235
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 28,
+        "R": 62,
+        "T": 12,
+        "B": 47
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    },
+    {
+      "id": "btn_upgrade",
+      "aliases": [
+        "btn_upgrade"
+      ],
+      "master": "masters/btn_upgrade.png",
+      "category": "ui",
+      "defect_type": "crop",
+      "side": "R",
+      "defect": "升級按鈕右外框約2px被切除，非自然直邊誤判",
+      "confidence_basis": "原始完整sheet與現有master逐張目視直接比對",
+      "original_source": "C621BC33-DB4C-4A27-87B6-48C9B4AD94F4.jpeg",
+      "old_source_box": [
+        216,
+        849,
+        316,
+        915
+      ],
+      "suggested_full_reference_crop": [
+        214,
+        850,
+        322,
+        913
+      ],
+      "native_dimensions": [
+        103,
+        54
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          100,
+          51
+        ],
+        "edge_runs": {
+          "L": 26,
+          "R": 32,
+          "T": 20,
+          "B": 78
+        },
+        "edge_run_ratio": {
+          "L": 0.542,
+          "R": 0.667,
+          "T": 0.206,
+          "B": 0.804
+        },
+        "edge_counts": {
+          "L": 26,
+          "R": 32,
+          "T": 29,
+          "B": 78
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          100,
+          51
+        ],
+        "edge_runs": {
+          "L": 26,
+          "R": 32,
+          "T": 20,
+          "B": 78
+        },
+        "edge_run_ratio": {
+          "L": 0.542,
+          "R": 0.667,
+          "T": 0.206,
+          "B": 0.804
+        },
+        "edge_counts": {
+          "L": 26,
+          "R": 32,
+          "T": 29,
+          "B": 78
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "standard_dimensions": [
+        320,
+        100
+      ],
+      "standard_alpha32_bbox": [
+        67,
+        4,
+        253,
+        96
+      ],
+      "standard_tight_bbox_edge_runs": {
+        "L": 50,
+        "R": 62,
+        "T": 39,
+        "B": 150
+      },
+      "qa_sheets": [],
+      "master_damaged_before_export": true
+    }
+  ]
+}

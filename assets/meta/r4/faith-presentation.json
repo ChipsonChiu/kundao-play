@@ -1,0 +1,50 @@
+{
+  "cultural_scope": "台灣信仰文化",
+  "active_descent_deities": [
+    "deity_zhongtan",
+    "deity_guandi",
+    "deity_baosheng",
+    "deity_mazu",
+    "deity_xuantian",
+    "deity_zhongkui",
+    "deity_wangye",
+    "deity_tudigong"
+  ],
+  "mediator": "deity_guanyin",
+  "representation": "法器與非人形光影；不畫神明本尊",
+  "dashiye": {
+    "asset": "deity_dashiye",
+    "representation": "不可攻擊的普渡紙紮道具；可見紙面與竹架，並非神明角色"
+  },
+  "xie_fan": {
+    "side": "玩家神明候選",
+    "npc_ids_are_compatibility_aliases": true
+  },
+  "yin_faith_ids": [
+    "faith_youyinggong",
+    "faith_dazhongye",
+    "faith_guniangmiao",
+    "faith_shibawangong"
+  ],
+  "yin_rule": "只畫廟影與燈籠，不畫神像或遺骸",
+  "ancestral_pacts": {
+    "contexts": [
+      "排灣族",
+      "魯凱族",
+      "邵族",
+      "達悟族",
+      "泰雅族",
+      "賽德克族",
+      "太魯閣族",
+      "賽夏族"
+    ],
+    "out_of_run_only": true,
+    "enemy_allowed": false,
+    "capture_allowed": false,
+    "refine_allowed": false,
+    "monster_compendium_allowed": false,
+    "saisiyat_depiction": "text_only_no_image",
+    "authorization_statement": "背景設定記載已洽詢並獲授權；本次未取得或獨立查核授權文件。"
+  },
+  "bajiajiang": "八名人間扮將者的遊戲化隊伍，不是神明本尊肖像；不是特定堂口臉譜重建。"
+}

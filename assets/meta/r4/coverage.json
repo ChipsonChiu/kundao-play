@@ -1,0 +1,77 @@
+{
+  "revision": "R4",
+  "setting_version": "v0.88 / 2026-11-07",
+  "source_sha256": "be69c85939f600a532791008bbdbc86c3fd2f6ee74c08ac842c199686f55fe7b",
+  "previous_ids_reviewed": 619,
+  "original_r2_ids_preserved": 611,
+  "total_asset_ids": 835,
+  "png_files": 1601,
+  "selected_independent_imagegen_outputs": 237,
+  "selected_outputs_by_group": {
+    "root": 47,
+    "figures": 100,
+    "stages": 47,
+    "objects": 43
+  },
+  "methods": {
+    "r4_retained_after_review": 542,
+    "r4_imagegen_selected": 237,
+    "r4_alias_geometry_only": 56
+  },
+  "replaced_previous_ids": 52,
+  "new_ids": 216,
+  "categories": {
+    "NPC": 7,
+    "中首領": 30,
+    "主角": 24,
+    "介面": 18,
+    "其他": 5,
+    "召喚物": 5,
+    "圖示": 112,
+    "地形物件": 49,
+    "地標": 7,
+    "地表貼片": 8,
+    "尪仔標": 4,
+    "局外場景": 2,
+    "投射物": 33,
+    "按鈕": 13,
+    "法寶": 70,
+    "渡劫": 35,
+    "特效與狀態": 122,
+    "祖靈盟約": 7,
+    "神明": 26,
+    "精怪": 75,
+    "道具": 56,
+    "開場": 4,
+    "關卡場景": 14,
+    "陣頭事件": 1,
+    "陰神信仰": 4,
+    "靈獸": 34,
+    "首領與鏡像": 70
+  },
+  "pending_generation": {
+    "root": [],
+    "figures": [],
+    "stages": [],
+    "objects": []
+  },
+  "unresolved_asset_ids": [],
+  "missing_requirements": [],
+  "intentional_no_image": [
+    {
+      "id": "pact_saisiyat_text_only",
+      "name": "賽夏族・矮靈文字入口",
+      "category": "祖靈盟約",
+      "action": "intentional_no_image",
+      "status": "out_of_run_text_only",
+      "source_section": "5",
+      "note": "嚴格依原文不描繪矮靈，不產生人物、怪物或替代形象。以文字卡片呈現，不算缺圖。"
+    }
+  ],
+  "image_count_note": "獨立生成包含必要狀態與鏡像變體；不把別名、縮放副本、保留圖計為新圖。",
+  "game_execution_verified": false,
+  "complete": true,
+  "standard_png_files": 835,
+  "unique_native_png_files": 766,
+  "native_storage_note": "相同 SHA-256 的原生圖共用一份母圖，catalog.master 指向實際檔案；所有標準尺寸 ID 仍各有 PNG。"
+}

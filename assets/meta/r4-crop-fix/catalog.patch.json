@@ -1,0 +1,1267 @@
+[
+  {
+    "id": "enemy_moshenzai",
+    "canonical_repair_id": "enemy_moshenzai",
+    "name": "魔神仔",
+    "file": "enemy_moshenzai.png",
+    "master": "masters/enemy_moshenzai.png",
+    "w": 96,
+    "h": 96,
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "content_bounds": [
+      5,
+      6,
+      91,
+      89
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "依完整原圖修復魔神仔右側被切斷的頭罩、肩部及下襬輪廓，保留原款造型並抽取真正透明背景。",
+    "original_master": "masters/enemy_moshenzai.png",
+    "original_standard_sha256": "e1dfb5697660710d4380b8eccf037ee5f18908e2944e27fd35241b97e84ce24a",
+    "original_master_sha256": "2241a9d9329b0e94618efd90e7cfde30f9dccd2e15bfc8f81cbf34d335c56b91",
+    "sha256": "db2aec0b67ee95935211bb1506167e5809a7c8f8281a6043880a484c59b35e65",
+    "master_sha256": "a74b5b498c519d765186b6b73ce73839e6af4e6ea194a17da82bea81820681db",
+    "geometry_export": {
+      "crop": [
+        205,
+        223,
+        1047,
+        1040
+      ],
+      "resized_wh": [
+        88,
+        85
+      ],
+      "paste_xy": [
+        4,
+        5
+      ],
+      "minimum_outer_padding_px": 4,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.404839
+  },
+  {
+    "id": "enemy_jinmei",
+    "canonical_repair_id": "enemy_jinmei",
+    "name": "金魅",
+    "file": "enemy_jinmei.png",
+    "master": "masters/enemy_jinmei.png",
+    "w": 96,
+    "h": 96,
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "content_bounds": [
+      8,
+      5,
+      88,
+      91
+    ],
+    "native_source_size": [
+      1312,
+      1199
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回原本在來源切格 x1008 截斷的右側草帽與右側身體；以完整原始畫稿保留金魅的草帽、紅領巾、黃色短衣、手持掃帚與原姿勢。",
+    "original_master": "masters/enemy_jinmei.png",
+    "original_standard_sha256": "b854186f79ccc9d644c21a4dad3d1a51d936c018707864a4ac5df8fe46073dca",
+    "original_master_sha256": "3351f5b267431c5441fd1c255d77ea276a5e46427fb26ff1f99b1ee22f677b10",
+    "sha256": "1b47c938a89d9e148a9b117cff9ea299510072a3ac3e7cb84438cffe88ca60d6",
+    "master_sha256": "eb7edbfc2131378512815e1b190f33f7e3b9e0bc9094c91f5322f02c93160d70",
+    "geometry_export": {
+      "crop": [
+        280,
+        201,
+        964,
+        937
+      ],
+      "resized_wh": [
+        82,
+        88
+      ],
+      "paste_xy": [
+        7,
+        4
+      ],
+      "minimum_outer_padding_px": 4,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.430773
+  },
+  {
+    "id": "enemy_banyan",
+    "canonical_repair_id": "enemy_banyan",
+    "name": "榕樹精",
+    "file": "enemy_banyan.png",
+    "master": "masters/enemy_banyan.png",
+    "w": 112,
+    "h": 112,
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "content_bounds": [
+      6,
+      5,
+      106,
+      107
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "依完整來源重新抽取榕樹精，移除原 native 左邊混入的鄰格虎爺殘片，保留樹冠、臉、樹枝手與根腳完整輪廓。",
+    "original_master": "masters/enemy_banyan.png",
+    "original_standard_sha256": "9de73ee38e6acca81ed5da58b4246d26a8af5bc8ef2d8f4a2f0761a8f3a55f0c",
+    "original_master_sha256": "ec133a22898338872315bab7b1266162c8aae6414f4c6f22869acf365a83c956",
+    "sha256": "08f7d1d68616a2798904b41cbabd8958774fbd5b87c5d3baab034caa013883db",
+    "master_sha256": "8d263fd85eeebb908d912e5aa394779cc540f112edb17a62ba8c1b7cb3a3a357",
+    "geometry_export": {
+      "crop": [
+        205,
+        192,
+        1022,
+        1025
+      ],
+      "resized_wh": [
+        102,
+        104
+      ],
+      "paste_xy": [
+        5,
+        4
+      ],
+      "minimum_outer_padding_px": 4,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.33809
+  },
+  {
+    "id": "terrain_bush",
+    "canonical_repair_id": "terrain_bush",
+    "name": "開花灌木",
+    "file": "terrain_bush.png",
+    "master": "masters/terrain_bush.png",
+    "w": 96,
+    "h": 80,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      7,
+      4,
+      88,
+      76
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "依完整原圖補回開花灌木右側圓葉叢，保留四朵白花與黃色花心的既有配置，抽取真正透明背景。",
+    "original_master": "masters/terrain_bush.png",
+    "original_standard_sha256": "e765956abf599c1708d32462d375effc76d093f6a63b103d461c46548fea79ea",
+    "original_master_sha256": "2b66f660d137ed76e624f53eb0552b11b4bc36955569d1ae58abf95ad719b551",
+    "sha256": "c28447243309398084a1b0f670e06df1cfd53e868bfe330cb59ae8fc4b916d55",
+    "master_sha256": "a1f6e0e25160ad023df3dadfda918afc1a18fe4cf18092c684172d6516cabbcd",
+    "geometry_export": {
+      "crop": [
+        105,
+        178,
+        1098,
+        1067
+      ],
+      "resized_wh": [
+        83,
+        74
+      ],
+      "paste_xy": [
+        6,
+        3
+      ],
+      "minimum_outer_padding_px": 3,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.390365
+  },
+  {
+    "id": "terrain_stump",
+    "canonical_repair_id": "terrain_stump",
+    "name": "樹樁",
+    "file": "terrain_stump.png",
+    "master": "masters/terrain_stump.png",
+    "w": 72,
+    "h": 72,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      3,
+      11,
+      69,
+      61
+    ],
+    "native_source_size": [
+      1378,
+      1141
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回原本在來源切格 x760 截斷的樹樁右側根部與完整外輪廓。",
+    "original_master": "masters/terrain_stump.png",
+    "original_standard_sha256": "751b05ea3234e5cb82ed70d05357b14d922fda72892fe4cc3796a0455bf39a31",
+    "original_master_sha256": "7d9e08a0ff8472e3f49a478590f4638b5faae3bde6b419c4da5d639963c8dc2c",
+    "sha256": "705761737b8f168b0212a24cb89b1a36c54408ee40a67acf6c50d8dfcaad6ff1",
+    "master_sha256": "3caad37aa8ffc274bd8c44aa52c5a7a76d9a73e74236c0eb1dec9102ea808253",
+    "geometry_export": {
+      "crop": [
+        309,
+        277,
+        1057,
+        841
+      ],
+      "resized_wh": [
+        66,
+        50
+      ],
+      "paste_xy": [
+        3,
+        11
+      ],
+      "minimum_outer_padding_px": 3,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.529514
+  },
+  {
+    "id": "terrain_fence",
+    "canonical_repair_id": "terrain_fence",
+    "name": "木柵欄",
+    "file": "terrain_fence.png",
+    "master": "masters/terrain_fence.png",
+    "w": 160,
+    "h": 128,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      7,
+      19,
+      153,
+      109
+    ],
+    "native_source_size": [
+      1296,
+      1214
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回原本在來源切格 x1181 截斷的右側木樁與上下橫桿端點。",
+    "original_master": "masters/terrain_fence.png",
+    "original_standard_sha256": "59fbbc25a0fa7f3479c42a14e35a299f028fcc376d6c53670f788ea2f16c4e0a",
+    "original_master_sha256": "e2c1fc235c58eb036bdb5a7dbbf98d443e0f219a29f4fa3434854ffdfe5a3b99",
+    "sha256": "13bfd6c26540b4262e9760b71be49c75d59e1f2ba26a5ee4878ee92bd3a3dd7e",
+    "master_sha256": "48eeeda7a15167d6a9d82b7302c53bb8212de2b85d3e5d42683d840eeccfd41a",
+    "geometry_export": {
+      "crop": [
+        235,
+        389,
+        1061,
+        906
+      ],
+      "resized_wh": [
+        150,
+        94
+      ],
+      "paste_xy": [
+        5,
+        17
+      ],
+      "minimum_outer_padding_px": 5,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.475977
+  },
+  {
+    "id": "terrain_reed",
+    "canonical_repair_id": "terrain_reed",
+    "name": "蘆葦",
+    "file": "terrain_reed.png",
+    "master": "masters/terrain_reed.png",
+    "w": 64,
+    "h": 96,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      4,
+      13,
+      60,
+      84
+    ],
+    "native_source_size": [
+      1312,
+      1199
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "移除舊切格左側誤收的鄰格草叢殘片；保留蘆葦本體完整葉片、莖與淡褐花穗。",
+    "original_master": "masters/terrain_reed.png",
+    "original_standard_sha256": "82716a417148a44e5900ffd3a3c87db13e822ce8be962f02f22977c9d2683767",
+    "original_master_sha256": "d50b18880b3876c2595ead7029c7e6eac2a2db94ecfb5375fb7628d85a79af6a",
+    "sha256": "072f73f07bac29a967d61fec2b2304200d2d61336ff8c1f86d9919409fb7929f",
+    "master_sha256": "338ae0ebec1ad1af5b035a602baa6ab8c24734d02fb3b4c6fa772d76fe75aa43",
+    "geometry_export": {
+      "crop": [
+        346,
+        159,
+        1033,
+        1006
+      ],
+      "resized_wh": [
+        58,
+        72
+      ],
+      "paste_xy": [
+        3,
+        12
+      ],
+      "minimum_outer_padding_px": 3,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.583822
+  },
+  {
+    "id": "npc_cat",
+    "canonical_repair_id": "npc_cat",
+    "name": "廟貓",
+    "file": "npc_cat.png",
+    "master": "masters/npc_cat.png",
+    "w": 256,
+    "h": 320,
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "content_bounds": [
+      12,
+      31,
+      244,
+      289
+    ],
+    "native_source_size": [
+      1199,
+      1312
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回舊取框切掉的左側尾尖，保留完整廟貓。",
+    "original_master": "masters/npc_cat.png",
+    "original_standard_sha256": "9fffab969bdd16f6e45802c4b2e68df49eb87e0d0fc27502d4227354010de402",
+    "original_master_sha256": "1f8ded63494c789ba331481ed36fad325534ef85c3b31fd6d7c32029b7712b2e",
+    "sha256": "dd090c47c1e3dc45d189dc30681f779a0c05837f94c361fca968a591680e7c90",
+    "master_sha256": "ace9e3987b60bec40b353d9d5756a0727f04dea4a01f207fda41242e176f0be4",
+    "geometry_export": {
+      "crop": [
+        126,
+        195,
+        958,
+        1119
+      ],
+      "resized_wh": [
+        238,
+        264
+      ],
+      "paste_xy": [
+        9,
+        28
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.447668
+  },
+  {
+    "id": "beast_dragon_jade",
+    "canonical_repair_id": "beast_dragon_jade",
+    "name": "青玉龍・參考圖擴充",
+    "file": "beast_dragon_jade.png",
+    "master": "masters/beast_dragon_jade.png",
+    "w": 128,
+    "h": 128,
+    "anchor": [
+      0.5,
+      0.95
+    ],
+    "content_bounds": [
+      6,
+      14,
+      122,
+      114
+    ],
+    "native_source_size": [
+      1420,
+      1108
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回舊取框切掉的左下尾圈，保留完整蜷曲外形。",
+    "original_master": "masters/beast_dragon_jade.png",
+    "original_standard_sha256": "d702647af796b8ea6bff9abeae4a6c369e9c8f1bcca4b6d53b1ef96c6c96c27e",
+    "original_master_sha256": "62dd4925e3728a8f3ecd89af7b88413990c1dc310a57832c93f38277db92fd72",
+    "sha256": "8d8c1d9f84d8ce2d17a291ef4043a03ebbbe17cf308728a0ba24d6c2e5dc778b",
+    "master_sha256": "1b5aef1616448190394bd45a5d8f0d7f31ab86784298dc82a808db421e028e6a",
+    "geometry_export": {
+      "crop": [
+        145,
+        50,
+        1278,
+        1027
+      ],
+      "resized_wh": [
+        118,
+        102
+      ],
+      "paste_xy": [
+        5,
+        13
+      ],
+      "minimum_outer_padding_px": 5,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.503845
+  },
+  {
+    "id": "fx_zone_miasma",
+    "canonical_repair_id": "fx_zone_miasma",
+    "name": "陰・瘴氣",
+    "file": "fx_zone_miasma.png",
+    "master": "masters/fx_zone_miasma.png",
+    "w": 128,
+    "h": 128,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      6,
+      17,
+      122,
+      110
+    ],
+    "native_source_size": [
+      1407,
+      1118
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回舊取框切掉的左下煙霧，供fx_zone_miasma與trial_zhongkui_sha共用。",
+    "original_master": "masters/fx_zone_miasma.png",
+    "original_standard_sha256": "cdfd047c7ac753c34403773fd17434437a45ab0d0886cd4d30cbeb1ff3e58afd",
+    "original_master_sha256": "edeba6290132a4d0b843e2b48e4f5114edb035c0b8965e830bd43af195972e5a",
+    "sha256": "b57b63196be87b201a61bc730be5f53a9304bcd250a0cd3db6bae35ae18bdf99",
+    "master_sha256": "809368dfe8dfb04e7243ca4b088007a5c20be6582692c2ecea7e83e4dfccae5f",
+    "geometry_export": {
+      "crop": [
+        205,
+        138,
+        1259,
+        988
+      ],
+      "resized_wh": [
+        118,
+        95
+      ],
+      "paste_xy": [
+        5,
+        16
+      ],
+      "minimum_outer_padding_px": 5,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.546753
+  },
+  {
+    "id": "trial_zhongkui_sha",
+    "canonical_repair_id": "fx_zone_miasma",
+    "name": "trial_zhongkui_sha",
+    "file": "trial_zhongkui_sha.png",
+    "master": "masters/fx_zone_miasma.png",
+    "w": 128,
+    "h": 128,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      6,
+      17,
+      122,
+      110
+    ],
+    "native_source_size": [
+      1407,
+      1118
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回舊取框切掉的左下煙霧，供fx_zone_miasma與trial_zhongkui_sha共用。",
+    "original_master": "masters/fx_zone_miasma.png",
+    "original_standard_sha256": "8b60a791225452802afbfa20da30e62e4b147e42f1d1252c808bf45cea5f5c9b",
+    "original_master_sha256": "edeba6290132a4d0b843e2b48e4f5114edb035c0b8965e830bd43af195972e5a",
+    "sha256": "b57b63196be87b201a61bc730be5f53a9304bcd250a0cd3db6bae35ae18bdf99",
+    "master_sha256": "809368dfe8dfb04e7243ca4b088007a5c20be6582692c2ecea7e83e4dfccae5f",
+    "geometry_export": {
+      "crop": [
+        205,
+        138,
+        1259,
+        988
+      ],
+      "resized_wh": [
+        118,
+        95
+      ],
+      "paste_xy": [
+        5,
+        16
+      ],
+      "minimum_outer_padding_px": 5,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.546753
+  },
+  {
+    "id": "fx_dust_puff",
+    "canonical_repair_id": "fx_dust_puff",
+    "name": "塵煙小",
+    "file": "fx_dust_puff.png",
+    "master": "masters/fx_dust_puff.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      12,
+      57,
+      244,
+      199
+    ],
+    "native_source_size": [
+      1590,
+      989
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補回舊取框切掉的頂端煙塵突起。",
+    "original_master": "masters/fx_dust_puff.png",
+    "original_standard_sha256": "14fb2007e2aa5d2c97059d4d0ac360d16037e9fb0bb1fd383c615de4837eeae3",
+    "original_master_sha256": "c09aa4a0f4402390eb81b1b4c41bc00d383d9d237419938982120c7d772b3e75",
+    "sha256": "c107e7c93d4a99fd26cab9b2e43a345e5f904388fa4b5bcc7b9e1a0310fe09d7",
+    "master_sha256": "b85f82b059fd90649c18f59966fe8f708c3320f1a07ff925f7bd90a664dceec3",
+    "geometry_export": {
+      "crop": [
+        176,
+        121,
+        1402,
+        881
+      ],
+      "resized_wh": [
+        238,
+        148
+      ],
+      "paste_xy": [
+        9,
+        54
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.652069
+  },
+  {
+    "id": "icon_stat_spirit",
+    "canonical_repair_id": "icon_stat_spirit",
+    "name": "靈力",
+    "file": "icon_stat_spirit.png",
+    "master": "masters/icon_stat_spirit.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      12,
+      35,
+      244,
+      221
+    ],
+    "native_source_size": [
+      1346,
+      1168
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補齊右側蓮瓣尖。",
+    "original_master": "masters/icon_stat_spirit.png",
+    "original_standard_sha256": "b7ed649e9afbaabbe36b7df6637457be481ce3938a8f568557396f9d5090aea9",
+    "original_master_sha256": "cd1dc5ae1ca1a605b6d89a09a94676d26da43bbb260d1fc5a43feb507526813e",
+    "sha256": "5c2511a84d45b8443f8e16074ee37b5424f27f64eb5a3eabf839e2779d38013f",
+    "master_sha256": "886d5949566d5ed7a0f21e34dae130345f1176767a6e1b449bc5869b2a9eb4fd",
+    "geometry_export": {
+      "crop": [
+        218,
+        214,
+        1120,
+        941
+      ],
+      "resized_wh": [
+        238,
+        192
+      ],
+      "paste_xy": [
+        9,
+        32
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.549942
+  },
+  {
+    "id": "btn_upgrade",
+    "canonical_repair_id": "btn_upgrade",
+    "name": "升級按鈕",
+    "file": "btn_upgrade.png",
+    "master": "masters/btn_upgrade.png",
+    "w": 320,
+    "h": 100,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      55,
+      6,
+      264,
+      94
+    ],
+    "native_source_size": [
+      1732,
+      908
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "source_crop_or_neighbor_fragment",
+    "repair_description": "補齊右側按鈕外框。",
+    "original_master": "masters/btn_upgrade.png",
+    "original_standard_sha256": "b3b427dbfe5dd71dadf0068630a2618d0bc70a0d393950f1bf5c8a3f22a7e5ee",
+    "original_master_sha256": "e7e63e76dcfe3de270cf402a17f1c296c91fcd172307f5c5fa510d26d0b77531",
+    "sha256": "d09b05e8ab76c89c5b51e93588d03a997dfde28c93836a7a5be1213a1faa4177",
+    "master_sha256": "8645c11c74fe4de1701635464bdc73110ab7bd3226d32f745d9d161af8f8c613",
+    "geometry_export": {
+      "crop": [
+        211,
+        179,
+        1511,
+        741
+      ],
+      "resized_wh": [
+        213,
+        92
+      ],
+      "paste_xy": [
+        53,
+        4
+      ],
+      "minimum_outer_padding_px": 4,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": true,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.437281
+  },
+  {
+    "id": "item_incense_bowl",
+    "canonical_repair_id": "item_incense_bowl",
+    "name": "香碗",
+    "file": "item_incense_bowl.png",
+    "master": "masters/item_incense_bowl.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      29,
+      12,
+      226,
+      244
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "僅依既有 master 清除香碗外圍白／淡粉原紙殘片；保留土金色圓碗、底座與原三柱香。未找回或宣稱使用原完整 sheet。",
+    "original_master": "masters/item_incense_bowl.png",
+    "original_standard_sha256": "109c38457b7e41243202edd8f5537efaa10fbd2d186d8f1a65771cdc64902044",
+    "original_master_sha256": "1c04697e9f899fe9c1309e417ea585c001a37fab421fe20f44b1d63961cb4e63",
+    "sha256": "2ae6d8e06e5a9a5d1cd3d3c96c8bf29365282512de2cf6cb14e27bfcb632a9de",
+    "master_sha256": "f51d2626bb8fe98ac354071b88b22ecc605168e6c7fa2cce84eadea7091ee500",
+    "geometry_export": {
+      "crop": [
+        224,
+        149,
+        1018,
+        1082
+      ],
+      "resized_wh": [
+        203,
+        238
+      ],
+      "paste_xy": [
+        26,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.522964
+  },
+  {
+    "id": "item_candle",
+    "canonical_repair_id": "item_candle",
+    "name": "紅燭",
+    "file": "item_candle.png",
+    "master": "masters/item_candle.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      49,
+      12,
+      206,
+      244
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "僅依既有 master 清除紅燭外圍不規則白紙片；保留原紅色蠟身、奶白蠟緣、橘金火焰與燭底。未使用未找回之原 sheet。",
+    "original_master": "masters/item_candle.png",
+    "original_standard_sha256": "8d6c581791248f25dbff9dd18602ba52a0018fdd87cdbaa672444603359474e9",
+    "original_master_sha256": "9b9f721f417c45f61552204b9a56ec39955911b3bdf0bcd55ed3dbcd4e25425c",
+    "sha256": "efba01eec63ca54f24840719dbbc01a940c1117d9411386c976cc1f04ca6df52",
+    "master_sha256": "6fc398bf2519dc3037fcadee227a938f17c12ab940c35b1bf82e896c3e4e33b8",
+    "geometry_export": {
+      "crop": [
+        327,
+        173,
+        916,
+        1035
+      ],
+      "resized_wh": [
+        163,
+        238
+      ],
+      "paste_xy": [
+        46,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.632446
+  },
+  {
+    "id": "item_incense_sticks",
+    "canonical_repair_id": "item_incense_sticks",
+    "name": "香束",
+    "file": "item_incense_sticks.png",
+    "master": "masters/item_incense_sticks.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      45,
+      12,
+      211,
+      244
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "僅依既有 master 清除香束及金碗外圍白紙殘留；保留金色矮碗、底座與原三柱香。未使用未找回之原 sheet。",
+    "original_master": "masters/item_incense_sticks.png",
+    "original_standard_sha256": "4d18f646f2b17d21805bf4093a9a024f0029dcb6fc688125eb194c62a50df5c8",
+    "original_master_sha256": "93cbf2abd50bda732b1188e82b77b7fde1c049f485ba94b93079290eac6371db",
+    "sha256": "f3121a0a42867361ce5a48ec4928e7003791133d55e7c5fdcc556ea6fc8ab6b2",
+    "master_sha256": "666be1915817338a11e9614bd8578d0ef156f8ed37ead7130f64c41f7a5a00fe",
+    "geometry_export": {
+      "crop": [
+        252,
+        101,
+        995,
+        1132
+      ],
+      "resized_wh": [
+        172,
+        238
+      ],
+      "paste_xy": [
+        42,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.588409
+  },
+  {
+    "id": "item_fortune_cup",
+    "canonical_repair_id": "item_fortune_cup",
+    "name": "籤筒",
+    "file": "item_fortune_cup.png",
+    "master": "masters/item_fortune_cup.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      42,
+      12,
+      213,
+      244
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "僅依既有 master 清除籤筒周邊不規則白／粉紙片；保留棕色筒身、淡金面板與頂部既有金色形狀配置，不新增飾樣。未使用未找回之原 sheet。",
+    "original_master": "masters/item_fortune_cup.png",
+    "original_standard_sha256": "bb736947c59c7ba1b3c48ca1b666bdc4580cee36d55ec99611b58993d59e340a",
+    "original_master_sha256": "4384a30465ef8e6b2ea240364d515e3bc4fc97f889c8646439489507b81d7a5a",
+    "sha256": "5f6414bb24afa2d92d4dcd59a16232ee883050d1d37dd77c155a5c530ce99784",
+    "master_sha256": "504c5e19239e19fc3109a0df4c99d5234bc2fb6d8c266faed6d0d3dfd32f86bc",
+    "geometry_export": {
+      "crop": [
+        295,
+        171,
+        948,
+        1048
+      ],
+      "resized_wh": [
+        177,
+        238
+      ],
+      "paste_xy": [
+        39,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.515915
+  },
+  {
+    "id": "item_medicine_ticket",
+    "canonical_repair_id": "item_medicine_ticket",
+    "name": "大龍峒藥籤",
+    "file": "item_medicine_ticket.png",
+    "master": "masters/item_medicine_ticket.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      29,
+      12,
+      226,
+      244
+    ],
+    "native_source_size": [
+      1254,
+      1254
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "僅依既有 master 清除藥籤外圍白紙殘片；保留斜置黃金色長籤與原頂部小環，字樣清晰化為繁體單字『藥』，不新增其他字。未使用未找回之原 sheet。",
+    "original_master": "masters/item_medicine_ticket.png",
+    "original_standard_sha256": "10c48b532cfb8c1f4369217e0050b35b3c31a7aada4eab403f32c997c72fcbd1",
+    "original_master_sha256": "1f5554c8631bf4ed83fc3f8ed2c5f7e515263e4e534e9b0eac2bc6528591df4f",
+    "sha256": "532c9b4b5643fd31002f6e69795389c7d2b1e6a0834f948a1bf262efe84622f5",
+    "master_sha256": "8f422451a57597d7231092a3d57328f1b56eb64667cead93b3482d5e503a7e45",
+    "geometry_export": {
+      "crop": [
+        272,
+        196,
+        1006,
+        1056
+      ],
+      "resized_wh": [
+        203,
+        238
+      ],
+      "paste_xy": [
+        26,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.594833
+  },
+  {
+    "id": "item_herb",
+    "canonical_repair_id": "item_herb",
+    "name": "藥草",
+    "file": "item_herb.png",
+    "master": "masters/item_herb.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      38,
+      12,
+      217,
+      244
+    ],
+    "native_source_size": [
+      1158,
+      1359
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "依現有R4母圖移除藥草輪廓外白色殘片，保留綠葉、枝梗與手繪色調。",
+    "original_master": "masters/item_herb.png",
+    "original_standard_sha256": "36c83bcddc898ae1cb500a16fba9855f425a99eba68c2a526e9c2758f6cc9bb6",
+    "original_master_sha256": "a1c7ce6e43d6281bea588755580024d3b124a9f3c792357451238b4c3ab6c54b",
+    "sha256": "1219cff061e523a1b335d1dd724f05eed33f803617aff0eea77d24ff55b06ebd",
+    "master_sha256": "3270dd620f2cda4aad4c7b7a2779318a666bf1546cf07a3c153d234b5c7314f3",
+    "geometry_export": {
+      "crop": [
+        172,
+        112,
+        1010,
+        1188
+      ],
+      "resized_wh": [
+        185,
+        238
+      ],
+      "paste_xy": [
+        35,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.64917
+  },
+  {
+    "id": "item_oranges",
+    "canonical_repair_id": "item_oranges",
+    "name": "供品橘子",
+    "file": "item_oranges.png",
+    "master": "masters/item_oranges.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      15,
+      12,
+      240,
+      244
+    ],
+    "native_source_size": [
+      1303,
+      1207
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "依現有R4母圖移除供果與盤外白色殘片，保留3顆橘子、供盤與內部高光。",
+    "original_master": "masters/item_oranges.png",
+    "original_standard_sha256": "82de90eb0529d52d89b231bd945c6f602f27664d04bed468b48f8f9e4496c573",
+    "original_master_sha256": "7827a6a4ce6d667023ce587e0392aeb95569c54e9fd4d39529a153e7883d8233",
+    "sha256": "771d1af49937428524329d8820b9a3cefd380b2651896f0397871c63e243748b",
+    "master_sha256": "8b18c0135f848105576f9f14724a9f73fbcd2d95f96500c9010ee89af4457df3",
+    "geometry_export": {
+      "crop": [
+        250,
+        176,
+        1053,
+        1005
+      ],
+      "resized_wh": [
+        231,
+        238
+      ],
+      "paste_xy": [
+        12,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.398163
+  },
+  {
+    "id": "item_potion",
+    "canonical_repair_id": "item_potion",
+    "name": "藥葫蘆",
+    "file": "item_potion.png",
+    "master": "masters/item_potion.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      35,
+      12,
+      221,
+      244
+    ],
+    "native_source_size": [
+      1269,
+      1240
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "依現有R4母圖清理紅藥葫蘆外圍白色殘片，保留瓶身內部高光、紅色束口與原黃色頸環。",
+    "original_master": "masters/item_potion.png",
+    "original_standard_sha256": "d72f4d06b771ba5d49fade297e0c3159b1ffb8e206f202acfb0a89781cc836d6",
+    "original_master_sha256": "d61878da0832b9b2b2b3836451d06c69acf1f9255d58a9a502b5f85de1e2045d",
+    "sha256": "8bdf3ceba92b89224c067a3e2c93ac6b98fc79e102e65e1e162d747111c36727",
+    "master_sha256": "123589c969f9d7a3e9a1b14eb06d677d1a35ec0eb9fcb2a7a88457fab3f0b3f5",
+    "geometry_export": {
+      "crop": [
+        252,
+        173,
+        946,
+        1034
+      ],
+      "resized_wh": [
+        192,
+        238
+      ],
+      "paste_xy": [
+        32,
+        9
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.517059
+  },
+  {
+    "id": "item_rice",
+    "canonical_repair_id": "item_rice",
+    "name": "供品米飯",
+    "file": "item_rice.png",
+    "master": "masters/item_rice.png",
+    "w": 256,
+    "h": 256,
+    "anchor": [
+      0.5,
+      0.5
+    ],
+    "content_bounds": [
+      12,
+      17,
+      244,
+      238
+    ],
+    "native_source_size": [
+      1322,
+      1190
+    ],
+    "revision": "R4-crop-fix-20261107",
+    "repair_type": "background_remnant_cleanup",
+    "repair_description": "依現有R4母圖移除碗外右下白片，保留碗內完整白米、碗緣與碗身。",
+    "original_master": "masters/item_rice.png",
+    "original_standard_sha256": "d4cea4d9adeabce4f034ae4da07cda3c4d671480c1f728fb8e879dedeaf31aab",
+    "original_master_sha256": "097cfd9fc4e46deb0833d3bf9e63711ba2b5b377d524fab2074cba0a3c260bfb",
+    "sha256": "7792a84938d7967599c93c1b9d0e46dfc9645945d279a6ddd4f0fa0d585101ca",
+    "master_sha256": "b50a6c740d349efdab7891ab9e0b8d0791a649ba3dbea1245b7a5636d3309c3f",
+    "geometry_export": {
+      "crop": [
+        300,
+        268,
+        1020,
+        956
+      ],
+      "resized_wh": [
+        238,
+        227
+      ],
+      "paste_xy": [
+        9,
+        14
+      ],
+      "minimum_outer_padding_px": 9,
+      "process": "geometry_only_crop_contain_transparent_padding"
+    },
+    "source_art_recovered": false,
+    "integration_status": "asset_repaired_current_game_not_supplied",
+    "method": "r4_crop_fix_imagegen",
+    "qa_status": "passed_visual_source_and_export_review",
+    "has_transparent_pixels": true,
+    "alpha_zero_fraction": 0.416122
+  }
+]
