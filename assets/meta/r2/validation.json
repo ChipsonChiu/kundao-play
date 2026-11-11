@@ -1,0 +1,155 @@
+{
+  "asset_ids": 611,
+  "standard_png_count": 611,
+  "master_png_count": 611,
+  "errors": [],
+  "error_count": 0,
+  "transparent_standard_png_count": 603,
+  "opaque_texture_or_backdrop_ids": [
+    "stage_jiantan_bg_tile",
+    "title_bg",
+    "terrain_grass_tile_b",
+    "stage_yingge_bg_tile",
+    "terrain_path_tile",
+    "terrain_stone_floor",
+    "terrain_water_edge",
+    "terrain_water_tile"
+  ],
+  "edge_review_ids": [],
+  "identical_standard_png_alias_groups": [
+    [
+      "player_jian",
+      "player_jian_male"
+    ],
+    [
+      "player_fu",
+      "player_fu_male"
+    ],
+    [
+      "tree_canopy",
+      "terrain_tree_a"
+    ],
+    [
+      "player_jitong",
+      "player_jitong_male"
+    ],
+    [
+      "fx_ta_pillar",
+      "fx_ta_pillar_1"
+    ],
+    [
+      "fx_fu_boom",
+      "fx_spark",
+      "fx_hit_pop"
+    ],
+    [
+      "ui_card_class",
+      "ui_card_yang"
+    ],
+    [
+      "boss_xinmo_fu",
+      "boss_xinmo_fu_male"
+    ],
+    [
+      "boss_tianmo_fu",
+      "boss_tianmo_fu_male"
+    ],
+    [
+      "boss_xinmo_jian",
+      "boss_xinmo_jian_male"
+    ],
+    [
+      "boss_tianmo_jian",
+      "boss_tianmo_jian_male"
+    ],
+    [
+      "boss_xinmo_yao",
+      "boss_xinmo_yao_male"
+    ],
+    [
+      "boss_tianmo_yao",
+      "boss_tianmo_yao_male"
+    ],
+    [
+      "boss_xinmo_jitong",
+      "boss_xinmo_jitong_male"
+    ],
+    [
+      "boss_tianmo_jitong",
+      "boss_tianmo_jitong_male"
+    ],
+    [
+      "fx_ta_pillar_1_yang",
+      "fx_ta_pillar_yang"
+    ],
+    [
+      "fx_ta_pillar_1_yin",
+      "fx_ta_pillar_yin"
+    ],
+    [
+      "fx_ding_cloud_yin",
+      "fx_zone_poison"
+    ],
+    [
+      "player_songjiang_male",
+      "player_songjiang"
+    ],
+    [
+      "player_oushi_male",
+      "player_oushi"
+    ],
+    [
+      "boss_xinmo_songjiang_male",
+      "boss_xinmo_songjiang"
+    ],
+    [
+      "boss_tianmo_songjiang_male",
+      "boss_tianmo_songjiang"
+    ],
+    [
+      "boss_xinmo_oushi_male",
+      "boss_xinmo_oushi"
+    ],
+    [
+      "boss_tianmo_oushi_male",
+      "boss_tianmo_oushi"
+    ]
+  ],
+  "method_counts": {
+    "alias": 19,
+    "reference_sheet_extracted": 107,
+    "preserved_previous_pack": 394,
+    "component_composite": 12,
+    "generated_sheet_extracted": 54,
+    "color_and_component_variant": 2,
+    "painted_component": 2,
+    "alias_variant": 1,
+    "mirror_variant": 20
+  },
+  "category_counts": {
+    "主角": 19,
+    "精怪": 16,
+    "中首領": 8,
+    "首領與鏡像": 49,
+    "靈獸": 17,
+    "其他": 5,
+    "道具": 47,
+    "圖示": 101,
+    "地表貼片": 2,
+    "地標": 2,
+    "投射物": 30,
+    "特效與狀態": 101,
+    "開場": 4,
+    "按鈕": 13,
+    "介面": 16,
+    "法寶": 70,
+    "渡劫": 35,
+    "尪仔標": 4,
+    "地形物件": 36,
+    "召喚物": 5,
+    "NPC": 9,
+    "神明": 22
+  },
+  "runtime_test_performed_this_round": false,
+  "visual_review": "主角、神明、物件與特效聯絡表已檢視；機器檢查不等同逐幀動畫與所有細節的美術驗收。"
+}

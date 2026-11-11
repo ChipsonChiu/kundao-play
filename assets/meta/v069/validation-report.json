@@ -1,0 +1,272 @@
+{
+  "checked_date": "2026-11-06",
+  "scope": "靜態檔案與選圖資料檢查；非遊戲執行或AI生成檢查",
+  "status": "PASS",
+  "asset_ids": 391,
+  "baseline_ids": 283,
+  "baseline_ids_preserved": 283,
+  "new_ids": 108,
+  "runtime_png_1x": 391,
+  "runtime_png_2x": 391,
+  "master_png": 391,
+  "png_files_opened_and_checked": 1173,
+  "svg_files": 133,
+  "errors": [],
+  "warnings": [],
+  "opaque_runtime_images": [
+    "stage_jiantan_bg_tile",
+    "title_bg",
+    "terrain_grass_tile_b",
+    "stage_yingge_bg_tile",
+    "terrain_path_tile",
+    "terrain_stone_floor",
+    "terrain_water_edge"
+  ],
+  "pagoda_floor_checks": [
+    {
+      "id": "fx_ta_pillar_1",
+      "storeys": 1,
+      "tagged_layers": 1,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_2",
+      "storeys": 2,
+      "tagged_layers": 2,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_3",
+      "storeys": 3,
+      "tagged_layers": 3,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_4",
+      "storeys": 4,
+      "tagged_layers": 4,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_5",
+      "storeys": 5,
+      "tagged_layers": 5,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_6",
+      "storeys": 6,
+      "tagged_layers": 6,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_7",
+      "storeys": 7,
+      "tagged_layers": 7,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_8",
+      "storeys": 8,
+      "tagged_layers": 8,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_9",
+      "storeys": 9,
+      "tagged_layers": 9,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_1_yang",
+      "storeys": 1,
+      "tagged_layers": 1,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_2_yang",
+      "storeys": 2,
+      "tagged_layers": 2,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_3_yang",
+      "storeys": 3,
+      "tagged_layers": 3,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_4_yang",
+      "storeys": 4,
+      "tagged_layers": 4,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_5_yang",
+      "storeys": 5,
+      "tagged_layers": 5,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_6_yang",
+      "storeys": 6,
+      "tagged_layers": 6,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_7_yang",
+      "storeys": 7,
+      "tagged_layers": 7,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_8_yang",
+      "storeys": 8,
+      "tagged_layers": 8,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_9_yang",
+      "storeys": 9,
+      "tagged_layers": 9,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_1_yin",
+      "storeys": 1,
+      "tagged_layers": 1,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_2_yin",
+      "storeys": 2,
+      "tagged_layers": 2,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_3_yin",
+      "storeys": 3,
+      "tagged_layers": 3,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_4_yin",
+      "storeys": 4,
+      "tagged_layers": 4,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_5_yin",
+      "storeys": 5,
+      "tagged_layers": 5,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_6_yin",
+      "storeys": 6,
+      "tagged_layers": 6,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_7_yin",
+      "storeys": 7,
+      "tagged_layers": 7,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_8_yin",
+      "storeys": 8,
+      "tagged_layers": 8,
+      "pass": true
+    },
+    {
+      "id": "fx_ta_pillar_9_yin",
+      "storeys": 9,
+      "tagged_layers": 9,
+      "pass": true
+    }
+  ],
+  "tile_edge_checks": [
+    {
+      "id": "terrain_grass_tile_b",
+      "repeat_axes": "xy",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_grass_tile_b@2x",
+      "repeat_axes": "xy",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "stage_yingge_bg_tile",
+      "repeat_axes": "xy",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "stage_yingge_bg_tile@2x",
+      "repeat_axes": "xy",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_path_tile",
+      "repeat_axes": "y",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_path_tile@2x",
+      "repeat_axes": "y",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_stone_floor",
+      "repeat_axes": "xy",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_stone_floor@2x",
+      "repeat_axes": "xy",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_water_edge",
+      "repeat_axes": "x",
+      "matching_edge_pixels": true
+    },
+    {
+      "id": "terrain_water_edge@2x",
+      "repeat_axes": "x",
+      "matching_edge_pixels": true
+    }
+  ],
+  "font_files_included": [],
+  "reference_image_files": [],
+  "reference_image_downloads": 0,
+  "reference_source_pages": 44,
+  "runtime_integration": "未修改；未啟動原遊戲驗證新圖選擇",
+  "manual_visual_review": [
+    "previews/01_core.jpg",
+    "previews/02_towers.jpg",
+    "previews/03_polarity.jpg",
+    "previews/04_terrain.jpg",
+    "previews/07_ui_sizes.png",
+    "previews/09_scene_art_proof.jpg",
+    "previews/08_tile_repeat.jpg"
+  ],
+  "asset_status_counts": {
+    "既有主美術重採樣": 225,
+    "向量重繪／附件主美術合成": 131,
+    "陰陽陽路相容圖": 1,
+    "陰陽形態識別強化": 18,
+    "塔層重繪": 7,
+    "附件主美術構圖編修": 4,
+    "地形貼片重繪": 5
+  },
+  "source_asset_validator": {
+    "status": "PASS",
+    "items": 391,
+    "missing": 0,
+    "bad_size_or_format": 0
+  },
+  "offline_gallery_javascript_syntax": "node --check: PASS",
+  "offline_gallery_interaction_automated_test": "未執行"
+}

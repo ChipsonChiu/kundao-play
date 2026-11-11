@@ -1,0 +1,740 @@
+id,file,status,source
+player_jian,player_jian.webp,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+player_jian,player_jian@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+player_fu,player_fu.webp,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+player_fu,player_fu@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+enemy_shangui,enemy_shangui.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_shangui,enemy_shangui@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_moshenzai,enemy_moshenzai.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_moshenzai,enemy_moshenzai@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_jinmei,enemy_jinmei.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_jinmei,enemy_jinmei@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_tiger,enemy_tiger.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_tiger,enemy_tiger@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_banyan,enemy_banyan.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_banyan,enemy_banyan@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_ghostfire,enemy_ghostfire.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_ghostfire,enemy_ghostfire@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_ghost,enemy_ghost.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_ghost,enemy_ghost@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_sha,enemy_sha.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_sha,enemy_sha@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_kite,enemy_kite.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_kite,enemy_kite@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+miniboss_banyan_king,miniboss_banyan_king.webp,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+miniboss_banyan_king,miniboss_banyan_king@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+miniboss_tiger_king,miniboss_tiger_king.webp,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+miniboss_tiger_king,miniboss_tiger_king@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+miniboss_moshenzai_king,miniboss_moshenzai_king@2x.png,新增或改格式（R2 無此檔）,衍生
+miniboss_ghostfire_king,miniboss_ghostfire_king@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_yingge,boss_yingge@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_banyan_king,beast_banyan_king@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_tiger_king,beast_tiger_king@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_moshenzai_king,beast_moshenzai_king@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_ghostfire_king,beast_ghostfire_king@2x.png,新增或改格式（R2 無此檔）,衍生
+tree_canopy,tree_canopy@2x.png,新增或改格式（R2 無此檔）,衍生
+tree_trunk,tree_trunk@2x.png,新增或改格式（R2 無此檔）,衍生
+shrine,shrine@2x.png,新增或改格式（R2 無此檔）,衍生
+shrine_used,shrine_used@2x.png,新增或改格式（R2 無此檔）,衍生
+rock_yingge,rock_yingge@2x.png,新增或改格式（R2 無此檔）,衍生
+xp_small,xp_small@2x.png,新增或改格式（R2 無此檔）,衍生
+xp_mid,xp_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+xp_big,xp_big@2x.png,新增或改格式（R2 無此檔）,衍生
+item_zhaojun,item_zhaojun@2x.png,新增或改格式（R2 無此檔）,衍生
+item_huiqi,item_huiqi@2x.png,新增或改格式（R2 無此檔）,衍生
+item_pingan,item_pingan@2x.png,新增或改格式（R2 無此檔）,衍生
+item_chest,item_chest.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_chest,item_chest@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_fu,item_fu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_yujian,icon_passive_yujian@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_jinzhong,icon_passive_jinzhong@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_naqi,icon_passive_naqi@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_wufang,icon_passive_wufang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_mingxin,icon_passive_mingxin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_fulu,icon_passive_fulu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_shenxing,icon_passive_shenxing@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_tiebu,icon_passive_tiebu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_huichun,icon_passive_huichun@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_zhaojun,icon_passive_zhaojun@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_yinqi,icon_dao_yinqi@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_canhun,icon_dao_canhun@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_pingan,icon_dao_pingan@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_suzhou,icon_dao_suzhou@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_rongcuo,icon_dao_rongcuo@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_sixuan,icon_dao_sixuan@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_dao_dianming,icon_dao_dianming@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_sanqi,icon_innate_sanqi@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_junchen,icon_innate_junchen@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_zifu,icon_innate_zifu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_riyue,icon_innate_riyue@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_huotan,icon_innate_huotan@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_wenqu,icon_innate_wenqu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_jiyue,icon_innate_jiyue@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_innate_shapolang,icon_innate_shapolang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_root_lei,icon_root_lei@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_root_bing,icon_root_bing@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_root_feng,icon_root_feng@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_root_an,icon_root_an@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_root_guang,icon_root_guang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_1,icon_bless_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_2,icon_bless_2@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_3,icon_bless_3@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_4,icon_bless_4@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_5,icon_bless_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_6,icon_bless_6@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_7,icon_bless_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_8,icon_bless_8@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_9,icon_bless_9@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_10,icon_bless_10@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_bless_11,icon_bless_11@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_cup_sheng,icon_cup_sheng.webp,新增或改格式（R2 無此檔）,衍生
+icon_cup_sheng,icon_cup_sheng@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_cup_xiao,icon_cup_xiao.webp,新增或改格式（R2 無此檔）,衍生
+icon_cup_xiao,icon_cup_xiao@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_cup_yin,icon_cup_yin.webp,新增或改格式（R2 無此檔）,衍生
+icon_cup_yin,icon_cup_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+stage_jiantan_bg_tile,stage_jiantan_bg_tile@2x.png,新增或改格式（R2 無此檔）,衍生
+landmark_jiantan,landmark_jiantan@2x.png,新增或改格式（R2 無此檔）,衍生
+enemy_shuigui,enemy_shuigui@2x.png,新增或改格式（R2 無此檔）,衍生
+enemy_renmianyu,enemy_renmianyu@2x.png,新增或改格式（R2 無此檔）,衍生
+enemy_shishi,enemy_shishi@2x.png,新增或改格式（R2 無此檔）,衍生
+enemy_mukengniao,enemy_mukengniao@2x.png,新增或改格式（R2 無此檔）,衍生
+enemy_feilu,enemy_feilu@2x.png,新增或改格式（R2 無此檔）,衍生
+enemy_jianling,enemy_jianling@2x.png,新增或改格式（R2 無此檔）,衍生
+miniboss_shishi_gong,miniboss_shishi_gong@2x.png,新增或改格式（R2 無此檔）,衍生
+miniboss_shuigui_tou,miniboss_shuigui_tou@2x.png,新增或改格式（R2 無此檔）,衍生
+miniboss_mukengniao_wang,miniboss_mukengniao_wang@2x.png,新增或改格式（R2 無此檔）,衍生
+miniboss_feilu_wang,miniboss_feilu_wang@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_jiantan_yujing,boss_jiantan_yujing@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_shishi_gong,beast_shishi_gong@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_shuigui_tou,beast_shuigui_tou@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_mukengniao_wang,beast_mukengniao_wang@2x.png,新增或改格式（R2 無此檔）,衍生
+beast_feilu_wang,beast_feilu_wang@2x.png,新增或改格式（R2 無此檔）,衍生
+player_yao,player_yao.webp,新增或改格式（R2 無此檔）,R2 player_yao_female（少女藥師，Dong 2026-11-06 定為青年設定）
+player_yao,player_yao@2x.png,新增或改格式（R2 無此檔）,R2 player_yao_female（少女藥師，Dong 2026-11-06 定為青年設定）
+player_jitong,player_jitong@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+proj_biao_back,proj_biao_back@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_biao_huojianqiang,proj_biao_huojianqiang@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_biao_qiankunquan,proj_biao_qiankunquan@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_biao_fenghuolun,proj_biao_fenghuolun@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_biao_hit,fx_biao_hit@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_ding_bomb,proj_ding_bomb.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_ding_bomb,proj_ding_bomb@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ding_cloud,fx_ding_cloud.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ding_cloud,fx_ding_cloud@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_qin_wave,proj_qin_wave.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_qin_wave,proj_qin_wave@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ta_pillar,fx_ta_pillar.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar,fx_ta_pillar@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_sword,proj_sword@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_sword_shark,proj_sword_shark@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_bell_ring,fx_bell_ring.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_bell_ring,fx_bell_ring@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_gourd_mist,fx_gourd_mist.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_gourd_mist,fx_gourd_mist@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_seal_stamp,fx_seal_stamp.webp,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp,fx_seal_stamp@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_mirror_beam,fx_mirror_beam.webp,新增或改格式（R2 無此檔）,v0.79 程式生成：柔邊寬光束（核心偏白、外圈漸隱、尾端淡出）
+fx_mirror_beam,fx_mirror_beam@2x.png,新增或改格式（R2 無此檔）,v0.79 程式生成：柔邊寬光束（核心偏白、外圈漸隱、尾端淡出）
+proj_fu,proj_fu.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_fu,proj_fu@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_fu_boom,fx_fu_boom.webp,新增或改格式（R2 無此檔）,衍生
+fx_fu_boom,fx_fu_boom@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_taiji_fu,fx_taiji_fu@2x.png,新增或改格式（R2 無此檔）,衍生
+title_logo,title_logo.png,取代 R2,透明素材表／v0.69 包
+title_logo,title_logo@2x.png,新增或改格式（R2 無此檔）,衍生
+title_bg,title_bg@2x.png,新增或改格式（R2 無此檔）,衍生
+title_paper,title_paper@2x.png,新增或改格式（R2 無此檔）,衍生
+title_lantern,title_lantern@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_primary,btn_primary@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_primary_pressed,btn_primary_pressed@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_secondary,btn_secondary@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_disabled,btn_disabled@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_round_god,btn_round_god@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_round_lock,btn_round_lock@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_round_lock_hot,btn_round_lock_hot@2x.png,新增或改格式（R2 無此檔）,衍生
+btn_pause,btn_pause@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_panel_paper,ui_panel_paper@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_hud_frame,ui_hud_frame@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_hp_bar,ui_hp_bar@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_xp_bar,ui_xp_bar@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_card_class,ui_card_class@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_1,icon_w_sword_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_5,icon_w_sword_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_5_yin,icon_w_sword_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_7,icon_w_sword_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_7_yin,icon_w_sword_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_yang,icon_w_sword_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_sword_yin,icon_w_sword_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_1,icon_w_bell_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_5,icon_w_bell_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_5_yin,icon_w_bell_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_7,icon_w_bell_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_7_yin,icon_w_bell_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_yang,icon_w_bell_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_bell_yin,icon_w_bell_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_1,icon_w_gourd_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_5,icon_w_gourd_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_5_yin,icon_w_gourd_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_7,icon_w_gourd_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_7_yin,icon_w_gourd_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_yang,icon_w_gourd_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_gourd_yin,icon_w_gourd_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_1,icon_w_seal_1.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_1,icon_w_seal_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_5,icon_w_seal_5.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_5,icon_w_seal_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_5_yin,icon_w_seal_5_yin.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_5_yin,icon_w_seal_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_7,icon_w_seal_7.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_7,icon_w_seal_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_7_yin,icon_w_seal_7_yin.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_7_yin,icon_w_seal_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_yang,icon_w_seal_yang.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_yang,icon_w_seal_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_seal_yin,icon_w_seal_yin.png,取代 R2,透明素材表／v0.69 包
+icon_w_seal_yin,icon_w_seal_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_1,icon_w_mirror_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_5,icon_w_mirror_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_5_yin,icon_w_mirror_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_7,icon_w_mirror_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_7_yin,icon_w_mirror_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_yang,icon_w_mirror_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_mirror_yin,icon_w_mirror_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_1,icon_w_fu_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_5,icon_w_fu_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_5_yin,icon_w_fu_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_7,icon_w_fu_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_7_yin,icon_w_fu_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_yang,icon_w_fu_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_fu_yin,icon_w_fu_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_1,icon_w_ding_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_5,icon_w_ding_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_5_yin,icon_w_ding_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_7,icon_w_ding_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_7_yin,icon_w_ding_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_yang,icon_w_ding_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ding_yin,icon_w_ding_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_1,icon_w_qin_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_5,icon_w_qin_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_5_yin,icon_w_qin_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_7,icon_w_qin_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_7_yin,icon_w_qin_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_yang,icon_w_qin_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_qin_yin,icon_w_qin_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_1,icon_w_ta_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_5,icon_w_ta_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_5_yin,icon_w_ta_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_7,icon_w_ta_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_7_yin,icon_w_ta_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_yang,icon_w_ta_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_ta_yin,icon_w_ta_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_1,icon_w_biao_1@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_5,icon_w_biao_5@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_5_yin,icon_w_biao_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_7,icon_w_biao_7@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_7_yin,icon_w_biao_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_yang,icon_w_biao_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_w_biao_yin,icon_w_biao_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_fushi,icon_talent_fushi@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_shuangfu,icon_talent_shuangfu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_leifu,icon_talent_leifu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_chiling,icon_talent_chiling@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_jianqi,icon_talent_jianqi@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_shuangjian,icon_talent_shuangjian@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_qixing,icon_talent_qixing@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_zhanyao,icon_talent_zhanyao@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_altar,icon_altar@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_guohuo_field,trial_guohuo_field@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_guohuo_coal,trial_guohuo_coal@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_daoti_ladder,trial_daoti_ladder@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_daoti_blade,trial_daoti_blade@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qixing_lamp_off,trial_qixing_lamp_off@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qixing_lamp_on,trial_qixing_lamp_on@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qixing_floor,trial_qixing_floor@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qianggu_tower,trial_qianggu_tower@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qianggu_ring,trial_qianggu_ring@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_zhongkui_mask,trial_zhongkui_mask@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_zhongkui_sha,trial_zhongkui_sha@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_zhongkui_path,trial_zhongkui_path@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_leijie_cloud,trial_leijie_cloud@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_leijie_mark,trial_leijie_mark@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_leijie_bolt,trial_leijie_bolt@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_dajie_gate,trial_dajie_gate@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_banner_small,trial_banner_small@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_banner_mid,trial_banner_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_banner_late,trial_banner_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_guohuo_field_mid,trial_guohuo_field_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_guohuo_field_late,trial_guohuo_field_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_daoti_ladder_mid,trial_daoti_ladder_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_daoti_ladder_late,trial_daoti_ladder_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qixing_floor_mid,trial_qixing_floor_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qixing_floor_late,trial_qixing_floor_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qianggu_tower_mid,trial_qianggu_tower_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qianggu_tower_late,trial_qianggu_tower_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qianggu_ring_mid,trial_qianggu_ring_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_qianggu_ring_late,trial_qianggu_ring_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_zhongkui_path_mid,trial_zhongkui_path_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_zhongkui_path_late,trial_zhongkui_path_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_leijie_cloud_mid,trial_leijie_cloud_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_leijie_cloud_late,trial_leijie_cloud_late@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_dajie_gate_mid,trial_dajie_gate_mid@2x.png,新增或改格式（R2 無此檔）,衍生
+trial_dajie_gate_late,trial_dajie_gate_late@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_fu,boss_xinmo_fu@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_tianmo_fu,boss_tianmo_fu@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_xinmo_jian,boss_xinmo_jian@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_tianmo_jian,boss_tianmo_jian@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_xinmo_yao,boss_xinmo_yao@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_tianmo_yao,boss_tianmo_yao@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_xinmo_jitong,boss_xinmo_jitong@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_tianmo_jitong,boss_tianmo_jitong@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_xinmo_beast_banyan_king,boss_xinmo_beast_banyan_king@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_tiger_king,boss_xinmo_beast_tiger_king@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_moshenzai_king,boss_xinmo_beast_moshenzai_king@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_ghostfire_king,boss_xinmo_beast_ghostfire_king@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_shishi_gong,boss_xinmo_beast_shishi_gong@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_shuigui_tou,boss_xinmo_beast_shuigui_tou@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_mukengniao_wang,boss_xinmo_beast_mukengniao_wang@2x.png,新增或改格式（R2 無此檔）,衍生
+boss_xinmo_beast_feilu_wang,boss_xinmo_beast_feilu_wang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_mirror_shatter,fx_mirror_shatter@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_mirror_floor,fx_mirror_floor@2x.png,新增或改格式（R2 無此檔）,衍生
+player_tangki_ready,player_tangki_ready@2x.png,新增或改格式（R2 無此檔）,衍生
+player_tangki_throw,player_tangki_throw@2x.png,新增或改格式（R2 無此檔）,衍生
+player_tangki_recoil,player_tangki_recoil@2x.png,新增或改格式（R2 無此檔）,衍生
+card_angbiao_spear,card_angbiao_spear@2x.png,新增或改格式（R2 無此檔）,衍生
+card_angbiao_ring,card_angbiao_ring@2x.png,新增或改格式（R2 無此檔）,衍生
+card_angbiao_wheel,card_angbiao_wheel@2x.png,新增或改格式（R2 無此檔）,衍生
+card_angbiao_back,card_angbiao_back@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_angbiao_spear,proj_angbiao_spear@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_angbiao_ring,proj_angbiao_ring@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_angbiao_wheel,proj_angbiao_wheel@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_angbiao_spear,fx_angbiao_spear@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_angbiao_ring,fx_angbiao_ring@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_angbiao_wheel,fx_angbiao_wheel@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_liandan,icon_passive_liandan@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_qingxin,icon_passive_qingxin@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_passive_zhenhun,icon_passive_zhenhun@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_miaoshou,icon_talent_miaoshou@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_jinzhen,icon_talent_jinzhen@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_danhuo,icon_talent_danhuo@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_talent_jiuku,icon_talent_jiuku@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp_yang,fx_seal_stamp_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp_yang,fx_seal_stamp_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp_yin,fx_seal_stamp_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp_yin,fx_seal_stamp_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_1,fx_ta_pillar_1.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_1,fx_ta_pillar_1@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_2,fx_ta_pillar_2.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_2,fx_ta_pillar_2@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_3,fx_ta_pillar_3.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_3,fx_ta_pillar_3@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_4,fx_ta_pillar_4.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_4,fx_ta_pillar_4@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_5,fx_ta_pillar_5.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_5,fx_ta_pillar_5@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_6,fx_ta_pillar_6.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_6,fx_ta_pillar_6@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_7,fx_ta_pillar_7.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_7,fx_ta_pillar_7@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_8,fx_ta_pillar_8.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_8,fx_ta_pillar_8@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_9,fx_ta_pillar_9.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_9,fx_ta_pillar_9@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_1_yang,fx_ta_pillar_1_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_1_yang,fx_ta_pillar_1_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_2_yang,fx_ta_pillar_2_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_2_yang,fx_ta_pillar_2_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_3_yang,fx_ta_pillar_3_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_3_yang,fx_ta_pillar_3_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_4_yang,fx_ta_pillar_4_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_4_yang,fx_ta_pillar_4_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_5_yang,fx_ta_pillar_5_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_5_yang,fx_ta_pillar_5_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_6_yang,fx_ta_pillar_6_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_6_yang,fx_ta_pillar_6_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_7_yang,fx_ta_pillar_7_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_7_yang,fx_ta_pillar_7_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_8_yang,fx_ta_pillar_8_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_8_yang,fx_ta_pillar_8_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_9_yang,fx_ta_pillar_9_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_9_yang,fx_ta_pillar_9_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_1_yin,fx_ta_pillar_1_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_1_yin,fx_ta_pillar_1_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_2_yin,fx_ta_pillar_2_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_2_yin,fx_ta_pillar_2_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_3_yin,fx_ta_pillar_3_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_3_yin,fx_ta_pillar_3_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_4_yin,fx_ta_pillar_4_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_4_yin,fx_ta_pillar_4_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_5_yin,fx_ta_pillar_5_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_5_yin,fx_ta_pillar_5_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_6_yin,fx_ta_pillar_6_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_6_yin,fx_ta_pillar_6_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_7_yin,fx_ta_pillar_7_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_7_yin,fx_ta_pillar_7_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_8_yin,fx_ta_pillar_8_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_8_yin,fx_ta_pillar_8_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_9_yin,fx_ta_pillar_9_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_9_yin,fx_ta_pillar_9_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_ding_bomb_yang,proj_ding_bomb_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_ding_bomb_yang,proj_ding_bomb_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ding_cloud_yang,fx_ding_cloud_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ding_cloud_yang,fx_ding_cloud_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_ding_bomb_yin,proj_ding_bomb_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_ding_bomb_yin,proj_ding_bomb_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ding_cloud_yin,fx_ding_cloud_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_ding_cloud_yin,fx_ding_cloud_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_bell_ring_yang,fx_bell_ring_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_bell_ring_yang,fx_bell_ring_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_gourd_mist_yang,fx_gourd_mist_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_gourd_mist_yang,fx_gourd_mist_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_mirror_beam_yang,fx_mirror_beam_yang.webp,新增或改格式（R2 無此檔）,v0.79 程式生成：柔邊寬光束（核心偏白、外圈漸隱、尾端淡出）
+fx_mirror_beam_yang,fx_mirror_beam_yang@2x.png,新增或改格式（R2 無此檔）,v0.79 程式生成：柔邊寬光束（核心偏白、外圈漸隱、尾端淡出）
+proj_qin_wave_yang,proj_qin_wave_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_qin_wave_yang,proj_qin_wave_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_bell_ring_yin,fx_bell_ring_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_bell_ring_yin,fx_bell_ring_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_gourd_mist_yin,fx_gourd_mist_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_gourd_mist_yin,fx_gourd_mist_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_mirror_beam_yin,fx_mirror_beam_yin.webp,新增或改格式（R2 無此檔）,v0.79 程式生成：柔邊寬光束（核心偏白、外圈漸隱、尾端淡出）
+fx_mirror_beam_yin,fx_mirror_beam_yin@2x.png,新增或改格式（R2 無此檔）,v0.79 程式生成：柔邊寬光束（核心偏白、外圈漸隱、尾端淡出）
+proj_qin_wave_yin,proj_qin_wave_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_qin_wave_yin,proj_qin_wave_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_sword_yang,proj_sword_yang.webp,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：既有素材保留；本輪未宣稱重新生成。 R2 調整透明安全邊，標準畫布尺寸不變。
+proj_sword_yang,proj_sword_yang@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：既有素材保留；本輪未宣稱重新生成。 R2 調整透明安全邊，標準畫布尺寸不變。
+proj_fu_yang,proj_fu_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_fu_yang,proj_fu_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_biao_back_yang,proj_biao_back_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_fu_boom_yang,fx_fu_boom_yang.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_fu_boom_yang,fx_fu_boom_yang@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_biao_hit_yang,fx_biao_hit_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_sword_yin,proj_sword_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_fu_yin,proj_fu_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_fu_yin,proj_fu_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_biao_back_yin,proj_biao_back_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_fu_boom_yin,fx_fu_boom_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_fu_boom_yin,fx_fu_boom_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_biao_hit_yin,fx_biao_hit_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_badge_yang,ui_badge_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_polarity_frame_yang,ui_polarity_frame_yang@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：既有素材保留；本輪未宣稱重新生成。 R2 調整透明安全邊，標準畫布尺寸不變。
+ui_badge_yin,ui_badge_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_polarity_frame_yin,ui_polarity_frame_yin@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：既有素材保留；本輪未宣稱重新生成。 R2 調整透明安全邊，標準畫布尺寸不變。
+proj_enemy_seed,proj_enemy_seed@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_enemy_fire,proj_enemy_fire@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_enemy_water,proj_enemy_water@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_enemy_metal,proj_enemy_metal@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_enemy_yin,proj_enemy_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_enemy_pellet,proj_enemy_pellet@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_friendly_pellet,proj_friendly_pellet@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_vein,fx_vein.webp,新增或改格式（R2 無此檔）,衍生
+fx_vein,fx_vein@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_vein_01,fx_vein_01.webp,新增或改格式（R2 無此檔）,衍生
+fx_vein_01,fx_vein_01@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_vein_02,fx_vein_02.webp,新增或改格式（R2 無此檔）,衍生
+fx_vein_02,fx_vein_02@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_vein_03,fx_vein_03.webp,新增或改格式（R2 無此檔）,衍生
+fx_vein_03,fx_vein_03@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_root,fx_root@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_zone_spike,fx_zone_spike@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_zone_ice,fx_zone_ice.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_ice,fx_zone_ice@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_poison,fx_zone_poison.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_poison,fx_zone_poison@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_miasma,fx_zone_miasma.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_zone_miasma,fx_zone_miasma@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_spark,fx_spark.png,取代 R2,透明素材表／v0.69 包
+fx_spark,fx_spark@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_hit_pop,fx_hit_pop.png,取代 R2,透明素材表／v0.69 包
+fx_hit_pop,fx_hit_pop@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_shield,fx_shield@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_bite,fx_bite@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_slash,fx_slash@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_lightning_arc,fx_lightning_arc@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_telegraph,fx_telegraph.webp,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：既有素材保留；本輪未宣稱重新生成。 R2 調整透明安全邊，標準畫布尺寸不變。
+fx_telegraph,fx_telegraph@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：既有素材保留；本輪未宣稱重新生成。 R2 調整透明安全邊，標準畫布尺寸不變。
+fx_bellwave,fx_bellwave.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_bellwave,fx_bellwave@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_water_wave,fx_water_wave.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_water_wave,fx_water_wave@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+terrain_rock,terrain_rock.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_rock,terrain_rock@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_boulder_big,terrain_boulder_big@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+terrain_tree_a,terrain_tree_a@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_tree_b,terrain_tree_b@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_tree_c,terrain_tree_c@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_bush,terrain_bush.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_bush,terrain_bush@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_stump,terrain_stump.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_stump,terrain_stump@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_trunk_wide,terrain_trunk_wide@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_grass,terrain_grass.webp,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+terrain_grass,terrain_grass@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+terrain_reed,terrain_reed@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_lantern_pole,terrain_lantern_pole@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_shrine_wall,terrain_shrine_wall@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_grass_tile_b,terrain_grass_tile_b@2x.png,新增或改格式（R2 無此檔）,衍生
+stage_yingge_bg_tile,stage_yingge_bg_tile@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_path_tile,terrain_path_tile@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_stone_floor,terrain_stone_floor@2x.png,新增或改格式（R2 無此檔）,衍生
+terrain_water_edge,terrain_water_edge@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_pangen,icon_skill_pangen@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_puyao,icon_skill_puyao@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_milu,icon_skill_milu@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_linyan,icon_skill_linyan@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_saoling,icon_skill_saoling@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_zhensha,icon_skill_zhensha@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_tuozhuai,icon_skill_tuozhuai@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_beiming,icon_skill_beiming@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_chongzhuang,icon_skill_chongzhuang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_zone_fire,fx_zone_fire.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_fire,fx_zone_fire@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_levelup_rise,fx_levelup_rise.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_levelup_rise,fx_levelup_rise@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_slash_yang,fx_slash_yang.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_slash_yang,fx_slash_yang@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_fireball_yang,fx_fireball_yang@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_earth_eruption,fx_earth_eruption@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_slash_yin,fx_slash_yin.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_slash_yin,fx_slash_yin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_fireball_yin,fx_fireball_yin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_curse_papers,fx_curse_papers@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+landscape_dragon_vein,landscape_dragon_vein@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：圖鑑山水插畫，不作地圖上的等比例龍脈物件。
+terrain_fallen_log,terrain_fallen_log@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_bamboo,terrain_bamboo@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_fence,terrain_fence@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_stone_lantern,terrain_stone_lantern@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_stele,terrain_stele@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_gate,terrain_gate@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_logs,terrain_logs@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：採既有完整去背版本，避免接觸的總覽圖物件被截斷。
+terrain_water_tile,terrain_water_tile@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp_water,fx_seal_stamp_water.webp,新增或改格式（R2 無此檔）,衍生
+fx_seal_stamp_water,fx_seal_stamp_water@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_yang,fx_ta_pillar_yang.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_yang,fx_ta_pillar_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_yin,fx_ta_pillar_yin.webp,新增或改格式（R2 無此檔）,衍生
+fx_ta_pillar_yin,fx_ta_pillar_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+proj_fire,proj_fire.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+proj_fire,proj_fire@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_pulse_yang,fx_pulse_yang.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_pulse_yang,fx_pulse_yang@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_pulse_yin,fx_pulse_yin.webp,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_pulse_yin,fx_pulse_yin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_contact_shadow,fx_contact_shadow@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_stun,icon_status_stun@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_root,icon_status_root@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_confuse,icon_status_confuse@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_slow,icon_status_slow@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_burn,icon_status_burn@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_mark,icon_status_mark@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_shield,icon_status_shield@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_status_heal,icon_status_heal@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_shuiren,icon_skill_shuiren@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_fangun,icon_skill_fangun@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_skill_zhenfeng,icon_skill_zhenfeng@2x.png,新增或改格式（R2 無此檔）,衍生
+ally_wuying_east,ally_wuying_east@2x.png,新增或改格式（R2 無此檔）,衍生
+ally_wuying_south,ally_wuying_south@2x.png,新增或改格式（R2 無此檔）,衍生
+ally_wuying_center,ally_wuying_center@2x.png,新增或改格式（R2 無此檔）,衍生
+ally_wuying_west,ally_wuying_west@2x.png,新增或改格式（R2 無此檔）,衍生
+ally_wuying_north,ally_wuying_north@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_card_yang,ui_card_yang@2x.png,新增或改格式（R2 無此檔）,衍生
+ui_card_yin,ui_card_yin@2x.png,新增或改格式（R2 無此檔）,衍生
+fx_lotus_bloom,fx_lotus_bloom@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_dust_cloud,fx_dust_cloud@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_ground_crater,fx_ground_crater@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_zone_fire_yang,fx_zone_fire_yang.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_fire_yang,fx_zone_fire_yang@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_fire_yin,fx_zone_fire_yin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+fx_zone_fire_yin,fx_zone_fire_yin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖裁切（邊框連通法去背，內部淺色保留）
+ui_arrow_vein,ui_arrow_vein@2x.png,新增或改格式（R2 無此檔）,衍生
+icon_elem_mu,icon_elem_mu.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_mu,icon_elem_mu@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_huo,icon_elem_huo.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_huo,icon_elem_huo@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_tu,icon_elem_tu.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_tu,icon_elem_tu@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_jin,icon_elem_jin.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_jin,icon_elem_jin@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_shui,icon_elem_shui.webp,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+icon_elem_shui,icon_elem_shui@2x.png,新增或改格式（R2 無此檔）,Dong 2026-11-06 構想圖（介面元素）裁切
+player_jian_male,player_jian_male@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：沿用已去背的同風格主角原件，避免附件中相鄰人物重疊造成截斷。
+player_fu_male,player_fu_male@2x.png,新增或改格式（R2 無此檔）,R2 preserved_previous_pack：沿用已去背的同風格主角原件，避免附件中相鄰人物重疊造成截斷。
+npc_elder,npc_elder@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+npc_temple_attendant,npc_temple_attendant@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+npc_villager,npc_villager@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+npc_cat,npc_cat@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+enemy_ghost_maiden,enemy_ghost_maiden@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_dragon_jade,beast_dragon_jade@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_fox,beast_fox@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_qilin,beast_qilin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_tortoise,beast_tortoise@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_phoenix,beast_phoenix@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_dragon_blue,beast_dragon_blue@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_golden_toad,beast_golden_toad@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+beast_crane,beast_crane@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_lantern,item_yin_lantern@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_soul_jar,item_yin_soul_jar@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_scroll,item_yin_scroll@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_beads,item_yin_beads@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_censer,item_yin_censer@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_mirror,item_yin_mirror@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yin_tablet,item_yin_tablet@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_gourd,item_yang_gourd@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_bell,item_yang_bell@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_sword,item_yang_sword@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_mirror,item_yang_mirror@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_lotus,item_yang_lotus@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_peach,item_yang_peach@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_yang_ruyi,item_yang_ruyi@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_hp,icon_stat_hp@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_attack,icon_stat_attack@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_defense,icon_stat_defense@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_speed,icon_stat_speed@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_spirit,icon_stat_spirit@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_water,icon_stat_water@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_wood,icon_stat_wood@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_earth,icon_stat_earth@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_stat_taiji,icon_stat_taiji@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_swordburst,icon_skill_swordburst@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_talisman,icon_skill_talisman@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_soulflame,icon_skill_soulflame@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_protection,icon_skill_protection@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_healing,icon_skill_healing@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_vortex,icon_skill_vortex@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+icon_skill_dragon,icon_skill_dragon@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_bridge,terrain_bridge@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_tree_pine,terrain_tree_pine@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_tree_round,terrain_tree_round@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_small_shrine,terrain_small_shrine@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+terrain_straw_hut,terrain_straw_hut@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+btn_confirm,btn_confirm@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+btn_cancel,btn_cancel@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+btn_upgrade,btn_upgrade@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+btn_enhance,btn_enhance@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+btn_deploy,btn_deploy@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+ui_frame_portrait,ui_frame_portrait@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+ui_frame_landscape,ui_frame_landscape@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+ui_cloud,ui_cloud@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+ui_scroll,ui_scroll@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_ingot_small,item_ingot_small@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_ingot_medium,item_ingot_medium@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_ingot_stack,item_ingot_stack@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_coin,item_coin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_soulflame,item_soulflame@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_crystal,item_crystal@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_gourd_red,item_gourd_red@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+item_money_pouch,item_money_pouch@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_aura_yang,fx_aura_yang@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_aura_yin,fx_aura_yin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_smoke_gray,fx_smoke_gray@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_dust_puff,fx_dust_puff@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_wind_dash,fx_wind_dash@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_light_star,fx_light_star@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_pillar_yang,fx_pillar_yang@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+fx_pillar_yin,fx_pillar_yin@2x.png,新增或改格式（R2 無此檔）,R2 reference_sheet_extracted：依使用者附件逐件分離；不含總覽標題與圖外文字。
+player_jian_female,player_jian_female@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：完整少女角色加桃木劍；避免相鄰總覽角色的武器裁切。
+player_fu_female,player_fu_female@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+player_yao_male,player_yao_male@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+player_yao_female,player_yao_female@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：綠衣、藥草、藥袋的少女藥師造型。
+deity_zhongtan,deity_zhongtan.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_zhongtan,deity_zhongtan@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_guandi,deity_guandi.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_guandi,deity_guandi@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_baosheng,deity_baosheng.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_baosheng,deity_baosheng@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_mazu,deity_mazu.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_mazu,deity_mazu@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_xuantian,deity_xuantian.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_xuantian,deity_xuantian@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_zhongkui,deity_zhongkui.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_zhongkui,deity_zhongkui@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_wangye,deity_wangye.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_wangye,deity_wangye@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_tudigong,deity_tudigong.webp,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_tudigong,deity_tudigong@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_wenchang,deity_wenchang@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_chenghuang,deity_chenghuang@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_yuhuang,deity_yuhuang@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_taishang,deity_taishang@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_caishen,deity_caishen@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_zhusheng,deity_zhusheng@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_guanyin,deity_guanyin@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_shennong,deity_shennong@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：藥草冠、杖與綠衣的遊戲概念造型。
+deity_guangze,deity_guangze@2x.png,新增或改格式（R2 無此檔）,R2 color_and_component_variant：青年神將的紅金遊戲概念；尚非考據定稿。
+deity_leizu,deity_leizu@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_huxian,deity_huxian@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_dashiye,deity_dashiye@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：遊戲風格化角色設計；非宗教神像考據定稿。新增 deity_ 前綴供本素材包使用，沒有修改遊戲規則。
+deity_pangu,deity_pangu@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：持斧的原創壯士概念造型。
+npc_niutou,npc_niutou@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+npc_mamian,npc_mamian@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+beast_huye,beast_huye@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+deity_huye,deity_huye@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+item_incense_bowl,item_incense_bowl@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：補充單件裁切，已移除總覽標題線；來源解析度有限。
+item_candle,item_candle@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：附加的參考圖單件裁切；原總覽下緣略貼邊，不作高解析重繪宣稱。
+item_incense_sticks,item_incense_sticks@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：補充單件裁切，已移除總覽標題線；來源解析度有限。
+item_bun,item_bun@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_rice,item_rice@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_oranges,item_oranges@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_fortune_cup,item_fortune_cup@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_herb,item_herb@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_potion,item_potion@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_medicine_ticket,item_medicine_ticket@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_book_blue,item_book_blue@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_book_red,item_book_red@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_fortune_scroll,item_fortune_scroll@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+terrain_incense_altar,terrain_incense_altar@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：補充單件裁切，已移除總覽標題線；來源解析度有限。
+terrain_temple_gold,terrain_temple_gold@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：補充單件裁切，已移除總覽標題線；來源解析度有限。
+terrain_signpost,terrain_signpost@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+terrain_memorial,terrain_memorial@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+terrain_brazier,terrain_brazier@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_chest_gold,item_chest_gold@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+fx_portal_blue,fx_portal_blue@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+terrain_flower_arch,terrain_flower_arch@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+terrain_cave,terrain_cave@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+icon_buff_up,icon_buff_up@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+icon_debuff_down,icon_debuff_down@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+icon_notice,icon_notice@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+icon_question,icon_question@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+icon_dialogue,icon_dialogue@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted
+item_rattan_shield,item_rattan_shield@2x.png,新增或改格式（R2 無此檔）,R2 painted_component：依企劃藤牌裝備製作的繪製零件，並非獨立AI生成。
+player_jitong_male,player_jitong_male@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：保留發標托腕姿勢，加尪仔標。
+player_songjiang_male,player_songjiang_male@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：宋江陣武者概念：藤牌、銅鈴、赭黃紅色武服與白褲。
+player_songjiang,player_songjiang@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+item_glove_puppet_wusheng,item_glove_puppet_wusheng@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：神將造型縮製為武生戲偶，獨立物件。
+player_oushi_male,player_oushi_male@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：企劃 Phase 3 候選；紫靛戲服搭配掌中戲偶與操偶道具。
+player_oushi_female,player_oushi_female@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：企劃 Phase 3 候選；紫靛戲服搭配掌中戲偶與操偶道具。
+player_oushi,player_oushi@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+item_pangu_axe,item_pangu_axe@2x.png,新增或改格式（R2 無此檔）,R2 painted_component：手繪式零件，非獨立AI文生圖。
+npc_xie_jiangjun,npc_xie_jiangjun@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：黑白法袍與高帽的冥府角色概念，非宗教神像定稿。
+npc_fan_jiangjun,npc_fan_jiangjun@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：黑白法袍與高帽的冥府角色概念，非宗教神像定稿。
+npc_panguan,npc_panguan@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：持功過冊的冥府判官概念。
+boss_shenyuan_jumang,boss_shenyuan_jumang@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：原企劃後續章節概念；未加入現行遊戲。
+boss_nianshou,boss_nianshou@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：原企劃後續章節概念；未加入現行遊戲。
+boss_yigui_wang,boss_yigui_wang@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：原企劃後續章節概念；未加入現行遊戲。
+boss_chanchu,boss_chanchu@2x.png,新增或改格式（R2 無此檔）,R2 generated_sheet_extracted：原企劃後續章節概念；未加入現行遊戲。
+boss_lintoujie,boss_lintoujie@2x.png,新增或改格式（R2 無此檔）,R2 component_composite：冤魂少女造型，沒有描繪死亡過程或傷口；後續章節概念。
+boss_chenshouniang,boss_chenshouniang@2x.png,新增或改格式（R2 無此檔）,R2 color_and_component_variant：幽藍紫色守護靈概念，與林投姐共用基礎姿態。
+boss_moshenzai_wang,boss_moshenzai_wang@2x.png,新增或改格式（R2 無此檔）,R2 alias_variant：沿用該妖族的斗笠提燈輪廓；非新的獨立原畫。
+boss_xinmo_jian_male,boss_xinmo_jian_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_jian_male,boss_tianmo_jian_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_jian_female,boss_xinmo_jian_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_jian_female,boss_tianmo_jian_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_fu_male,boss_xinmo_fu_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_fu_male,boss_tianmo_fu_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_fu_female,boss_xinmo_fu_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_fu_female,boss_tianmo_fu_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_yao_male,boss_xinmo_yao_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_yao_male,boss_tianmo_yao_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_yao_female,boss_xinmo_yao_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_yao_female,boss_tianmo_yao_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_songjiang_male,boss_xinmo_songjiang_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_songjiang_male,boss_tianmo_songjiang_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_songjiang,boss_xinmo_songjiang@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_tianmo_songjiang,boss_tianmo_songjiang@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_xinmo_jitong_male,boss_xinmo_jitong_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_jitong_male,boss_tianmo_jitong_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_oushi_male,boss_xinmo_oushi_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_oushi_male,boss_tianmo_oushi_male@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_oushi_female,boss_xinmo_oushi_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：依美術設定書：主角同輪廓的陰性鏡像衍生。
+boss_tianmo_oushi_female,boss_tianmo_oushi_female@2x.png,新增或改格式（R2 無此檔）,R2 mirror_variant：鏡像衍生，九枚雷記與重影；非另一位新神明。
+boss_xinmo_oushi,boss_xinmo_oushi@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。
+boss_tianmo_oushi,boss_tianmo_oushi@2x.png,新增或改格式（R2 無此檔）,R2 alias：相容別名，與來源共用造型。

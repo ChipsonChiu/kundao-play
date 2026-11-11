@@ -1,0 +1,60 @@
+[
+  {
+    "key": "jian",
+    "name": "劍印修士",
+    "status": "implemented",
+    "default_id": "player_jian",
+    "portrait_variants": [
+      "player_jian_male",
+      "player_jian_female"
+    ]
+  },
+  {
+    "key": "fu",
+    "name": "正一符師",
+    "status": "implemented",
+    "default_id": "player_fu",
+    "portrait_variants": [
+      "player_fu_male",
+      "player_fu_female"
+    ]
+  },
+  {
+    "key": "yao",
+    "name": "保生藥師",
+    "status": "implemented",
+    "default_id": "player_yao",
+    "portrait_variants": [
+      "player_yao_male",
+      "player_yao_female"
+    ]
+  },
+  {
+    "key": "songjiang",
+    "name": "宋江武者",
+    "status": "planned_phase2",
+    "default_id": "player_songjiang",
+    "portrait_variants": [
+      "player_songjiang_male"
+    ]
+  },
+  {
+    "key": "jitong",
+    "name": "乩童",
+    "status": "planned_phase2",
+    "default_id": "player_jitong",
+    "portrait_variants": [
+      "player_jitong_male"
+    ]
+  },
+  {
+    "key": "oushi",
+    "name": "偶師",
+    "status": "candidate_phase3",
+    "default_id": "player_oushi",
+    "portrait_variants": [
+      "player_oushi_male",
+      "player_oushi_female"
+    ]
+  }
+]

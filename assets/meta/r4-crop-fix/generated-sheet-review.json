@@ -1,0 +1,2251 @@
+{
+  "reviewed_count": 27,
+  "visible_cutout_residue_count": 9,
+  "uncertain_count": 1,
+  "no_confirmed_visual_defect_count": 17,
+  "original_sources_available": false,
+  "limitations": "本表只有現存master放大目視；未與找不到的生成sheet原圖比對。去背殘留與主體裁失分開分類。",
+  "records": [
+    {
+      "id": "npc_mamian",
+      "master": "masters/npc_mamian.png",
+      "source": "a_large_colorful_detailed_game_art_asset_sheet_i.png",
+      "source_box": [
+        1157,
+        350,
+        1245,
+        440
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        80,
+        85
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          77,
+          82
+        ],
+        "edge_runs": {
+          "L": 11,
+          "R": 14,
+          "T": 6,
+          "B": 10
+        },
+        "edge_run_ratio": {
+          "L": 0.139,
+          "R": 0.177,
+          "T": 0.081,
+          "B": 0.135
+        },
+        "edge_counts": {
+          "L": 11,
+          "R": 14,
+          "T": 6,
+          "B": 19
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          77,
+          82
+        ],
+        "edge_runs": {
+          "L": 8,
+          "R": 13,
+          "T": 5,
+          "B": 9
+        },
+        "edge_run_ratio": {
+          "L": 0.101,
+          "R": 0.165,
+          "T": 0.068,
+          "B": 0.122
+        },
+        "edge_counts": {
+          "L": 8,
+          "R": 13,
+          "T": 5,
+          "B": 16
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "npc_niutou",
+      "master": "masters/npc_niutou.png",
+      "source": "a_large_colorful_detailed_game_art_asset_sheet_i.png",
+      "source_box": [
+        1057,
+        354,
+        1154,
+        440
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        98,
+        82
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          95,
+          79
+        ],
+        "edge_runs": {
+          "L": 12,
+          "R": 9,
+          "T": 4,
+          "B": 12
+        },
+        "edge_run_ratio": {
+          "L": 0.158,
+          "R": 0.118,
+          "T": 0.043,
+          "B": 0.13
+        },
+        "edge_counts": {
+          "L": 12,
+          "R": 9,
+          "T": 8,
+          "B": 18
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          95,
+          79
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 8,
+          "T": 4,
+          "B": 10
+        },
+        "edge_run_ratio": {
+          "L": 0.132,
+          "R": 0.105,
+          "T": 0.043,
+          "B": 0.109
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 8,
+          "T": 8,
+          "B": 14
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "icon_buff_up",
+      "master": "masters/icon_buff_up.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1198,
+        892,
+        1248,
+        935
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        41,
+        40
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          38,
+          37
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 4,
+          "T": 5,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.147,
+          "R": 0.118,
+          "T": 0.143,
+          "B": 0.429
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 4,
+          "T": 5,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          38,
+          37
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 4,
+          "T": 5,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.147,
+          "R": 0.118,
+          "T": 0.143,
+          "B": 0.429
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 4,
+          "T": 5,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "icon_debuff_down",
+      "master": "masters/icon_debuff_down.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1257,
+        889,
+        1305,
+        935
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        38,
+        40
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          35,
+          37
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 3,
+          "T": 10,
+          "B": 6
+        },
+        "edge_run_ratio": {
+          "L": 0.147,
+          "R": 0.088,
+          "T": 0.312,
+          "B": 0.188
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 3,
+          "T": 12,
+          "B": 6
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          35,
+          37
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 3,
+          "T": 10,
+          "B": 6
+        },
+        "edge_run_ratio": {
+          "L": 0.147,
+          "R": 0.088,
+          "T": 0.312,
+          "B": 0.188
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 3,
+          "T": 12,
+          "B": 6
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "icon_dialogue",
+      "master": "masters/icon_dialogue.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1411,
+        887,
+        1471,
+        935
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        52,
+        45
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          49,
+          42
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 8,
+          "T": 14,
+          "B": 2
+        },
+        "edge_run_ratio": {
+          "L": 0.256,
+          "R": 0.205,
+          "T": 0.304,
+          "B": 0.043
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 8,
+          "T": 14,
+          "B": 2
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          49,
+          42
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 8,
+          "T": 14,
+          "B": 2
+        },
+        "edge_run_ratio": {
+          "L": 0.256,
+          "R": 0.205,
+          "T": 0.304,
+          "B": 0.043
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 8,
+          "T": 14,
+          "B": 2
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "icon_notice",
+      "master": "masters/icon_notice.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1310,
+        880,
+        1355,
+        938
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        26,
+        43
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          23,
+          40
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 5,
+          "T": 8,
+          "B": 4
+        },
+        "edge_run_ratio": {
+          "L": 0.054,
+          "R": 0.135,
+          "T": 0.4,
+          "B": 0.2
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 5,
+          "T": 8,
+          "B": 4
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          23,
+          40
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 5,
+          "T": 8,
+          "B": 4
+        },
+        "edge_run_ratio": {
+          "L": 0.054,
+          "R": 0.135,
+          "T": 0.4,
+          "B": 0.2
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 5,
+          "T": 8,
+          "B": 4
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "icon_question",
+      "master": "masters/icon_question.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1362,
+        881,
+        1405,
+        937
+      ],
+      "source_available": false,
+      "status": "uncertain_without_original_source",
+      "observation": "左側存在15/42px直邊；可能是字形的自然端面，缺原sheet，不能確認是裁切，建議不動。",
+      "dimensions": [
+        38,
+        48
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          35,
+          45
+        ],
+        "edge_runs": {
+          "L": 15,
+          "R": 7,
+          "T": 2,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.357,
+          "R": 0.167,
+          "T": 0.062,
+          "B": 0.219
+        },
+        "edge_counts": {
+          "L": 15,
+          "R": 7,
+          "T": 2,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          35,
+          45
+        ],
+        "edge_runs": {
+          "L": 15,
+          "R": 7,
+          "T": 2,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.357,
+          "R": 0.167,
+          "T": 0.062,
+          "B": 0.219
+        },
+        "edge_counts": {
+          "L": 15,
+          "R": 7,
+          "T": 2,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "terrain_brazier",
+      "master": "masters/terrain_brazier.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1153,
+        942,
+        1215,
+        1019
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        62,
+        78
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          59,
+          75
+        ],
+        "edge_runs": {
+          "L": 7,
+          "R": 6,
+          "T": 4,
+          "B": 1
+        },
+        "edge_run_ratio": {
+          "L": 0.097,
+          "R": 0.083,
+          "T": 0.071,
+          "B": 0.018
+        },
+        "edge_counts": {
+          "L": 7,
+          "R": 6,
+          "T": 4,
+          "B": 1
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          59,
+          75
+        ],
+        "edge_runs": {
+          "L": 7,
+          "R": 6,
+          "T": 4,
+          "B": 1
+        },
+        "edge_run_ratio": {
+          "L": 0.097,
+          "R": 0.083,
+          "T": 0.071,
+          "B": 0.018
+        },
+        "edge_counts": {
+          "L": 7,
+          "R": 6,
+          "T": 4,
+          "B": 1
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "terrain_cave",
+      "master": "masters/terrain_cave.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1432,
+        939,
+        1528,
+        1021
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        96,
+        83
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          93,
+          80
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 10,
+          "T": 3,
+          "B": 1
+        },
+        "edge_run_ratio": {
+          "L": 0.078,
+          "R": 0.13,
+          "T": 0.033,
+          "B": 0.011
+        },
+        "edge_counts": {
+          "L": 6,
+          "R": 10,
+          "T": 3,
+          "B": 1
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          93,
+          80
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 10,
+          "T": 3,
+          "B": 1
+        },
+        "edge_run_ratio": {
+          "L": 0.078,
+          "R": 0.13,
+          "T": 0.033,
+          "B": 0.011
+        },
+        "edge_counts": {
+          "L": 6,
+          "R": 10,
+          "T": 3,
+          "B": 1
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_1.png"
+    },
+    {
+      "id": "terrain_incense_altar",
+      "master": "masters/terrain_incense_altar.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        829,
+        963,
+        894,
+        1019
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        59,
+        49
+      ],
+      "a8": {
+        "bbox": [
+          0,
+          0,
+          59,
+          49
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 6,
+          "T": 3,
+          "B": 10
+        },
+        "edge_run_ratio": {
+          "L": 0.102,
+          "R": 0.122,
+          "T": 0.051,
+          "B": 0.169
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 6,
+          "T": 3,
+          "B": 10
+        },
+        "canvas_edge_counts": {
+          "L": 5,
+          "R": 6,
+          "T": 3,
+          "B": 10
+        }
+      },
+      "a32": {
+        "bbox": [
+          0,
+          0,
+          59,
+          49
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 6,
+          "T": 3,
+          "B": 10
+        },
+        "edge_run_ratio": {
+          "L": 0.102,
+          "R": 0.122,
+          "T": 0.051,
+          "B": 0.169
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 6,
+          "T": 3,
+          "B": 10
+        },
+        "canvas_edge_counts": {
+          "L": 5,
+          "R": 6,
+          "T": 3,
+          "B": 10
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "terrain_memorial",
+      "master": "masters/terrain_memorial.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        1075,
+        943,
+        1136,
+        1022
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        61,
+        67
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          58,
+          64
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 19,
+          "T": 5,
+          "B": 11
+        },
+        "edge_run_ratio": {
+          "L": 0.164,
+          "R": 0.311,
+          "T": 0.091,
+          "B": 0.2
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 19,
+          "T": 5,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          58,
+          64
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 19,
+          "T": 5,
+          "B": 11
+        },
+        "edge_run_ratio": {
+          "L": 0.164,
+          "R": 0.311,
+          "T": 0.091,
+          "B": 0.2
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 19,
+          "T": 5,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_book_blue",
+      "master": "masters/item_book_blue.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        555,
+        955,
+        622,
+        1015
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        67,
+        60
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          64,
+          57
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 4,
+          "T": 26,
+          "B": 12
+        },
+        "edge_run_ratio": {
+          "L": 0.111,
+          "R": 0.074,
+          "T": 0.426,
+          "B": 0.197
+        },
+        "edge_counts": {
+          "L": 6,
+          "R": 4,
+          "T": 26,
+          "B": 12
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          64,
+          57
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 4,
+          "T": 26,
+          "B": 12
+        },
+        "edge_run_ratio": {
+          "L": 0.111,
+          "R": 0.074,
+          "T": 0.426,
+          "B": 0.197
+        },
+        "edge_counts": {
+          "L": 6,
+          "R": 4,
+          "T": 26,
+          "B": 12
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_book_red",
+      "master": "masters/item_book_red.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        667,
+        956,
+        725,
+        1014
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        58,
+        58
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          55,
+          55
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 6,
+          "T": 8,
+          "B": 12
+        },
+        "edge_run_ratio": {
+          "L": 0.096,
+          "R": 0.115,
+          "T": 0.154,
+          "B": 0.231
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 6,
+          "T": 8,
+          "B": 12
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          55,
+          55
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 6,
+          "T": 8,
+          "B": 12
+        },
+        "edge_run_ratio": {
+          "L": 0.096,
+          "R": 0.115,
+          "T": 0.154,
+          "B": 0.231
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 6,
+          "T": 8,
+          "B": 12
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_bun",
+      "master": "masters/item_bun.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        207,
+        958,
+        264,
+        1015
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        59,
+        56
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          56,
+          53
+        ],
+        "edge_runs": {
+          "L": 4,
+          "R": 1,
+          "T": 7,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.08,
+          "R": 0.02,
+          "T": 0.132,
+          "B": 0.151
+        },
+        "edge_counts": {
+          "L": 4,
+          "R": 1,
+          "T": 7,
+          "B": 8
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          56,
+          53
+        ],
+        "edge_runs": {
+          "L": 4,
+          "R": 1,
+          "T": 7,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.08,
+          "R": 0.02,
+          "T": 0.132,
+          "B": 0.151
+        },
+        "edge_counts": {
+          "L": 4,
+          "R": 1,
+          "T": 7,
+          "B": 8
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_candle",
+      "master": "masters/item_candle.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        87,
+        965,
+        137,
+        1024
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "蠟燭四周帶不規則白／淡粉殘片，頂部與底部殘片有直線截面。",
+      "dimensions": [
+        56,
+        65
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          53,
+          62
+        ],
+        "edge_runs": {
+          "L": 3,
+          "R": 1,
+          "T": 21,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.051,
+          "R": 0.017,
+          "T": 0.42,
+          "B": 0.3
+        },
+        "edge_counts": {
+          "L": 4,
+          "R": 2,
+          "T": 41,
+          "B": 32
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          53,
+          62
+        ],
+        "edge_runs": {
+          "L": 3,
+          "R": 1,
+          "T": 21,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.051,
+          "R": 0.017,
+          "T": 0.42,
+          "B": 0.3
+        },
+        "edge_counts": {
+          "L": 4,
+          "R": 2,
+          "T": 41,
+          "B": 32
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_fortune_cup",
+      "master": "masters/item_fortune_cup.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        359,
+        954,
+        407,
+        1014
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "籤筒左側與右側有不屬物件輪廓的淺色殘片。",
+      "dimensions": [
+        54,
+        60
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          51,
+          57
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 2,
+          "T": 4,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.037,
+          "R": 0.037,
+          "T": 0.083,
+          "B": 0.146
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 2,
+          "T": 4,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          51,
+          57
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 2,
+          "T": 4,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.037,
+          "R": 0.037,
+          "T": 0.083,
+          "B": 0.146
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 2,
+          "T": 4,
+          "B": 7
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_fortune_scroll",
+      "master": "masters/item_fortune_scroll.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        720,
+        966,
+        779,
+        1011
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        60,
+        44
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          57,
+          41
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 1,
+          "T": 7,
+          "B": 17
+        },
+        "edge_run_ratio": {
+          "L": 0.053,
+          "R": 0.026,
+          "T": 0.13,
+          "B": 0.315
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 1,
+          "T": 10,
+          "B": 17
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          57,
+          41
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 1,
+          "T": 7,
+          "B": 17
+        },
+        "edge_run_ratio": {
+          "L": 0.053,
+          "R": 0.026,
+          "T": 0.13,
+          "B": 0.315
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 1,
+          "T": 10,
+          "B": 17
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_herb",
+      "master": "masters/item_herb.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        407,
+        959,
+        453,
+        1014
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "草藥右側有突出的白色不規則殘片。",
+      "dimensions": [
+        46,
+        54
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          43,
+          51
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 6,
+          "T": 3,
+          "B": 3
+        },
+        "edge_run_ratio": {
+          "L": 0.042,
+          "R": 0.125,
+          "T": 0.075,
+          "B": 0.075
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 6,
+          "T": 3,
+          "B": 3
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          43,
+          51
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 6,
+          "T": 3,
+          "B": 3
+        },
+        "edge_run_ratio": {
+          "L": 0.042,
+          "R": 0.125,
+          "T": 0.075,
+          "B": 0.075
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 6,
+          "T": 3,
+          "B": 3
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_2.png"
+    },
+    {
+      "id": "item_incense_bowl",
+      "master": "masters/item_incense_bowl.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        20,
+        964,
+        84,
+        1024
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "上方淡粉色矩形殘留達整幅寬度，香爐底下另帶不規則白塊。",
+      "dimensions": [
+        64,
+        60
+      ],
+      "a8": {
+        "bbox": [
+          0,
+          0,
+          64,
+          60
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 6,
+          "T": 64,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.1,
+          "R": 0.1,
+          "T": 1.0,
+          "B": 0.234
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 6,
+          "T": 64,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 10,
+          "R": 6,
+          "T": 64,
+          "B": 15
+        }
+      },
+      "a32": {
+        "bbox": [
+          0,
+          0,
+          64,
+          60
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 6,
+          "T": 64,
+          "B": 15
+        },
+        "edge_run_ratio": {
+          "L": 0.1,
+          "R": 0.1,
+          "T": 1.0,
+          "B": 0.234
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 6,
+          "T": 64,
+          "B": 15
+        },
+        "canvas_edge_counts": {
+          "L": 10,
+          "R": 6,
+          "T": 64,
+          "B": 15
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "item_incense_sticks",
+      "master": "masters/item_incense_sticks.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        137,
+        961,
+        194,
+        1024
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "香腳與容器四周帶白／淡粉殘留，主體完整性不因這些背景塊得到證明。",
+      "dimensions": [
+        54,
+        59
+      ],
+      "a8": {
+        "bbox": [
+          0,
+          0,
+          54,
+          59
+        ],
+        "edge_runs": {
+          "L": 1,
+          "R": 8,
+          "T": 5,
+          "B": 2
+        },
+        "edge_run_ratio": {
+          "L": 0.017,
+          "R": 0.136,
+          "T": 0.093,
+          "B": 0.037
+        },
+        "edge_counts": {
+          "L": 1,
+          "R": 9,
+          "T": 7,
+          "B": 4
+        },
+        "canvas_edge_counts": {
+          "L": 1,
+          "R": 9,
+          "T": 7,
+          "B": 4
+        }
+      },
+      "a32": {
+        "bbox": [
+          0,
+          0,
+          54,
+          59
+        ],
+        "edge_runs": {
+          "L": 1,
+          "R": 8,
+          "T": 5,
+          "B": 2
+        },
+        "edge_run_ratio": {
+          "L": 0.017,
+          "R": 0.136,
+          "T": 0.093,
+          "B": 0.037
+        },
+        "edge_counts": {
+          "L": 1,
+          "R": 9,
+          "T": 7,
+          "B": 4
+        },
+        "canvas_edge_counts": {
+          "L": 1,
+          "R": 9,
+          "T": 7,
+          "B": 4
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "item_medicine_ticket",
+      "master": "masters/item_medicine_ticket.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        502,
+        957,
+        558,
+        1014
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "符票左側有大片白色不規則殘留，與紙票邊框無連續關係。",
+      "dimensions": [
+        59,
+        57
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          56,
+          54
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 3,
+          "T": 5,
+          "B": 4
+        },
+        "edge_run_ratio": {
+          "L": 0.098,
+          "R": 0.059,
+          "T": 0.094,
+          "B": 0.075
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 3,
+          "T": 5,
+          "B": 5
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          56,
+          54
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 3,
+          "T": 5,
+          "B": 4
+        },
+        "edge_run_ratio": {
+          "L": 0.098,
+          "R": 0.059,
+          "T": 0.094,
+          "B": 0.075
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 3,
+          "T": 5,
+          "B": 5
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "item_oranges",
+      "master": "masters/item_oranges.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        313,
+        964,
+        361,
+        1014
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "供果碗兩旁與右上方有白色殘片。",
+      "dimensions": [
+        54,
+        50
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          51,
+          47
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 3,
+          "T": 7,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.136,
+          "R": 0.068,
+          "T": 0.146,
+          "B": 0.146
+        },
+        "edge_counts": {
+          "L": 6,
+          "R": 4,
+          "T": 7,
+          "B": 8
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          51,
+          47
+        ],
+        "edge_runs": {
+          "L": 6,
+          "R": 3,
+          "T": 7,
+          "B": 7
+        },
+        "edge_run_ratio": {
+          "L": 0.136,
+          "R": 0.068,
+          "T": 0.146,
+          "B": 0.146
+        },
+        "edge_counts": {
+          "L": 6,
+          "R": 4,
+          "T": 7,
+          "B": 8
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "item_potion",
+      "master": "masters/item_potion.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        450,
+        952,
+        507,
+        1015
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "紅色袋狀道具外圍有數處白色殘片與毛刺。",
+      "dimensions": [
+        60,
+        66
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          57,
+          63
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 2,
+          "T": 6,
+          "B": 1
+        },
+        "edge_run_ratio": {
+          "L": 0.033,
+          "R": 0.033,
+          "T": 0.111,
+          "B": 0.019
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 2,
+          "T": 6,
+          "B": 1
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          57,
+          63
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 2,
+          "T": 6,
+          "B": 1
+        },
+        "edge_run_ratio": {
+          "L": 0.033,
+          "R": 0.033,
+          "T": 0.111,
+          "B": 0.019
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 2,
+          "T": 6,
+          "B": 1
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "item_rice",
+      "master": "masters/item_rice.png",
+      "source": "a_colorful_high_detail_sprite_asset_sheet_collage.png",
+      "source_box": [
+        264,
+        968,
+        311,
+        1014
+      ],
+      "source_available": false,
+      "status": "visible_cutout_residue",
+      "observation": "飯碗右下方帶白色殘片，與碗輪廓分離。",
+      "dimensions": [
+        50,
+        45
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          47,
+          42
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 2,
+          "T": 5,
+          "B": 11
+        },
+        "edge_run_ratio": {
+          "L": 0.051,
+          "R": 0.051,
+          "T": 0.114,
+          "B": 0.25
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 2,
+          "T": 5,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          47,
+          42
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 2,
+          "T": 5,
+          "B": 11
+        },
+        "edge_run_ratio": {
+          "L": 0.051,
+          "R": 0.051,
+          "T": 0.114,
+          "B": 0.25
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 2,
+          "T": 5,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "boss_chanchu",
+      "master": "masters/boss_chanchu.png",
+      "source": "a_brightly_colored_cute_chibi_sticker_style_game.png",
+      "source_box": [
+        1081,
+        389,
+        1153,
+        472
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        72,
+        82
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          69,
+          79
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 9,
+          "T": 3,
+          "B": 6
+        },
+        "edge_run_ratio": {
+          "L": 0.132,
+          "R": 0.118,
+          "T": 0.045,
+          "B": 0.091
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 16,
+          "T": 3,
+          "B": 6
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          69,
+          79
+        ],
+        "edge_runs": {
+          "L": 10,
+          "R": 9,
+          "T": 3,
+          "B": 6
+        },
+        "edge_run_ratio": {
+          "L": 0.132,
+          "R": 0.118,
+          "T": 0.045,
+          "B": 0.091
+        },
+        "edge_counts": {
+          "L": 10,
+          "R": 16,
+          "T": 3,
+          "B": 6
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "boss_nianshou",
+      "master": "masters/boss_nianshou.png",
+      "source": "a_clean_colorful_chibi_cartoon_game_asset_sprite.png",
+      "source_box": [
+        1234,
+        365,
+        1343,
+        475
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        113,
+        112
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          110,
+          109
+        ],
+        "edge_runs": {
+          "L": 5,
+          "R": 4,
+          "T": 6,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.047,
+          "R": 0.038,
+          "T": 0.056,
+          "B": 0.075
+        },
+        "edge_counts": {
+          "L": 5,
+          "R": 4,
+          "T": 6,
+          "B": 9
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          110,
+          109
+        ],
+        "edge_runs": {
+          "L": 2,
+          "R": 1,
+          "T": 5,
+          "B": 6
+        },
+        "edge_run_ratio": {
+          "L": 0.019,
+          "R": 0.009,
+          "T": 0.047,
+          "B": 0.056
+        },
+        "edge_counts": {
+          "L": 2,
+          "R": 1,
+          "T": 5,
+          "B": 6
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    },
+    {
+      "id": "boss_shenyuan_jumang",
+      "master": "masters/boss_shenyuan_jumang.png",
+      "source": "a_large_colorful_detailed_game_art_asset_sheet_i.png",
+      "source_box": [
+        951,
+        354,
+        1061,
+        443
+      ],
+      "source_available": false,
+      "status": "no_confirmed_visual_defect",
+      "observation": "檢視目前master，未確認主體輪廓裁失或明顯外來殘片；未完成原sheet比對。",
+      "dimensions": [
+        104,
+        82
+      ],
+      "a8": {
+        "bbox": [
+          3,
+          3,
+          101,
+          79
+        ],
+        "edge_runs": {
+          "L": 9,
+          "R": 9,
+          "T": 7,
+          "B": 11
+        },
+        "edge_run_ratio": {
+          "L": 0.118,
+          "R": 0.118,
+          "T": 0.071,
+          "B": 0.112
+        },
+        "edge_counts": {
+          "L": 9,
+          "R": 9,
+          "T": 7,
+          "B": 11
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "a32": {
+        "bbox": [
+          3,
+          3,
+          101,
+          79
+        ],
+        "edge_runs": {
+          "L": 8,
+          "R": 8,
+          "T": 6,
+          "B": 8
+        },
+        "edge_run_ratio": {
+          "L": 0.105,
+          "R": 0.105,
+          "T": 0.061,
+          "B": 0.082
+        },
+        "edge_counts": {
+          "L": 8,
+          "R": 8,
+          "T": 6,
+          "B": 8
+        },
+        "canvas_edge_counts": {
+          "L": 0,
+          "R": 0,
+          "T": 0,
+          "B": 0
+        }
+      },
+      "qa_contact_sheet": "generated_sheet_masters_3.png"
+    }
+  ]
+}

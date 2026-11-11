@@ -1,0 +1,61 @@
+{
+  "base_revision": "R4 / v0.88",
+  "apply_mode": "手動選用新圖及合成圖層，本包不自動覆寫既有專案",
+  "mappings": [
+    {
+      "old_id": "shrine",
+      "new_asset": "composites/shrine_unoffered_28pct.png",
+      "note": "已包含精確28%陰影，不要重複疊加；亦提供自含SVG與正常亮度PNG分層來源。"
+    },
+    {
+      "old_id": "shrine_used",
+      "new_asset": "composites/shrine_offered_with_halo.png",
+      "note": "已包含暖光；亦可依render-contract自行合成亮燈基底與獨立halo。"
+    },
+    {
+      "old_id": "player_oushi_male",
+      "new_asset": "png/player_oushi_male_candidate_v1.png",
+      "note": "維持候選職業。"
+    },
+    {
+      "old_id": "player_oushi_female",
+      "new_asset": "png/player_oushi_female_candidate_v1.png",
+      "note": "維持候選職業。"
+    },
+    {
+      "old_id": "proj_angbiao_throw",
+      "new_asset": "png/angbiao_flight_v1.png",
+      "note": "去程與迴返可使用斜飛／側旋視角切換，物理參數維持既有設定。"
+    },
+    {
+      "old_id": "proj_angbiao_spear",
+      "new_asset": "png/angbiao_flight_v1.png",
+      "note": "僅兼容舊命名；新圖為尪仔標薄紙片。"
+    },
+    {
+      "old_id": "terrain_bridge_broken",
+      "new_asset": "png/terrain_bridge_collapsed.png",
+      "note": "完整／預警／崩落三態應一組採用相同尺寸與anchor。"
+    },
+    {
+      "old_id": "terrain_mine_collapse",
+      "new_asset": "png/terrain_mine_collapsed.png",
+      "note": "此新圖含整座坑口，標準520×400；舊圖為320×240石堆，不可沿用舊尺寸直接假定碰撞範圍相同。"
+    },
+    {
+      "old_id": "fx_sanmei_ignite",
+      "new_asset": "png/fx_sanmei_ignite.png",
+      "note": "三段共用256×96、anchor[0.5,0.875]；所有階段一起套用新anchor。"
+    },
+    {
+      "old_id": "fx_sanmei_sustain",
+      "new_asset": "png/fx_sanmei_sustain.png",
+      "note": "三段共用256×96、anchor[0.5,0.875]；所有階段一起套用新anchor。"
+    },
+    {
+      "old_id": "fx_sanmei_extinguish",
+      "new_asset": "png/fx_sanmei_extinguish.png",
+      "note": "三段共用256×96、anchor[0.5,0.875]；所有階段一起套用新anchor。"
+    }
+  ]
+}

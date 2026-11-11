@@ -1,0 +1,2 @@
+node --check: passed
+原版 validate-assets.js：共 437 項；缺檔 0；標準尺寸／格式不符 0；@2x 缺檔 0；@2x 尺寸／格式不符 0。

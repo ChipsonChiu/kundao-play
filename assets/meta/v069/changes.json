@@ -1,0 +1,2739 @@
+[
+  {
+    "id": "player_jian",
+    "name": "劍印修士",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/player_jian.png"
+  },
+  {
+    "id": "player_fu",
+    "name": "正一符師",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/player_fu.png"
+  },
+  {
+    "id": "enemy_shangui",
+    "name": "山鬼仔",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_shangui.png"
+  },
+  {
+    "id": "enemy_moshenzai",
+    "name": "魔神仔",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_moshenzai.png"
+  },
+  {
+    "id": "enemy_jinmei",
+    "name": "金魅",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_jinmei.png"
+  },
+  {
+    "id": "enemy_tiger",
+    "name": "虎精",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_tiger.png"
+  },
+  {
+    "id": "enemy_banyan",
+    "name": "榕樹精",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_banyan.png"
+  },
+  {
+    "id": "enemy_ghostfire",
+    "name": "鬼火",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_ghostfire.png"
+  },
+  {
+    "id": "enemy_ghost",
+    "name": "好兄弟",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_ghost.png"
+  },
+  {
+    "id": "enemy_sha",
+    "name": "瘴煞",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_sha.png"
+  },
+  {
+    "id": "enemy_kite",
+    "name": "鳶精",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_kite.png"
+  },
+  {
+    "id": "miniboss_banyan_king",
+    "name": "樹王公",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_banyan_king.png"
+  },
+  {
+    "id": "miniboss_tiger_king",
+    "name": "虎精王",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_tiger_king.png"
+  },
+  {
+    "id": "miniboss_moshenzai_king",
+    "name": "魔神仔頭目",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_moshenzai_king.png"
+  },
+  {
+    "id": "miniboss_ghostfire_king",
+    "name": "燐火王",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_ghostfire_king.png"
+  },
+  {
+    "id": "boss_yingge",
+    "name": "鸚哥精",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_yingge.png"
+  },
+  {
+    "id": "beast_banyan_king",
+    "name": "樹王公靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_banyan_king.png"
+  },
+  {
+    "id": "beast_tiger_king",
+    "name": "虎精王靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_tiger_king.png"
+  },
+  {
+    "id": "beast_moshenzai_king",
+    "name": "魔神仔頭目靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_moshenzai_king.png"
+  },
+  {
+    "id": "beast_ghostfire_king",
+    "name": "燐火王靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_ghostfire_king.png"
+  },
+  {
+    "id": "tree_canopy",
+    "name": "樹冠",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/tree_canopy.png"
+  },
+  {
+    "id": "tree_trunk",
+    "name": "樹幹",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/tree_trunk.png"
+  },
+  {
+    "id": "shrine",
+    "name": "土地公廟",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/shrine.png"
+  },
+  {
+    "id": "shrine_used",
+    "name": "土地公廟・已參拜",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/shrine_used.png"
+  },
+  {
+    "id": "rock_yingge",
+    "name": "鶯歌石",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/rock_yingge.png"
+  },
+  {
+    "id": "xp_small",
+    "name": "銀寶（1）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/xp_small.png"
+  },
+  {
+    "id": "xp_mid",
+    "name": "金寶（5）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/xp_mid.png"
+  },
+  {
+    "id": "xp_big",
+    "name": "聚寶（15）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/xp_big.png"
+  },
+  {
+    "id": "item_zhaojun",
+    "name": "招軍符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/item_zhaojun.png"
+  },
+  {
+    "id": "item_huiqi",
+    "name": "回氣籤",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/item_huiqi.png"
+  },
+  {
+    "id": "item_pingan",
+    "name": "平安符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/item_pingan.png"
+  },
+  {
+    "id": "item_chest",
+    "name": "寶箱",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/item_chest.png"
+  },
+  {
+    "id": "item_fu",
+    "name": "符道具",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/item_fu.png"
+  },
+  {
+    "id": "icon_passive_yujian",
+    "name": "御劍訣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_yujian.png"
+  },
+  {
+    "id": "icon_passive_jinzhong",
+    "name": "金鐘罩",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_jinzhong.png"
+  },
+  {
+    "id": "icon_passive_naqi",
+    "name": "納氣訣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_naqi.png"
+  },
+  {
+    "id": "icon_passive_wufang",
+    "name": "五方令",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_wufang.png"
+  },
+  {
+    "id": "icon_passive_mingxin",
+    "name": "明心訣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_mingxin.png"
+  },
+  {
+    "id": "icon_passive_fulu",
+    "name": "符籙訣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_fulu.png"
+  },
+  {
+    "id": "icon_passive_shenxing",
+    "name": "神行",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_shenxing.png"
+  },
+  {
+    "id": "icon_passive_tiebu",
+    "name": "鐵布衫",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_tiebu.png"
+  },
+  {
+    "id": "icon_passive_huichun",
+    "name": "回春訣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_huichun.png"
+  },
+  {
+    "id": "icon_passive_zhaojun",
+    "name": "招軍令",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_passive_zhaojun.png"
+  },
+  {
+    "id": "icon_dao_yinqi",
+    "name": "搶頭香",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_yinqi.png"
+  },
+  {
+    "id": "icon_dao_canhun",
+    "name": "回魂",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_canhun.png"
+  },
+  {
+    "id": "icon_dao_pingan",
+    "name": "安太歲",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_pingan.png"
+  },
+  {
+    "id": "icon_dao_suzhou",
+    "name": "通靈",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_suzhou.png"
+  },
+  {
+    "id": "icon_dao_rongcuo",
+    "name": "補運",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_rongcuo.png"
+  },
+  {
+    "id": "icon_dao_sixuan",
+    "name": "靈籤",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_sixuan.png"
+  },
+  {
+    "id": "icon_dao_dianming",
+    "name": "點命燈",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_dao_dianming.png"
+  },
+  {
+    "id": "icon_innate_sanqi",
+    "name": "三奇加會",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_sanqi.png"
+  },
+  {
+    "id": "icon_innate_junchen",
+    "name": "君臣慶會",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_junchen.png"
+  },
+  {
+    "id": "icon_innate_zifu",
+    "name": "紫府同宮",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_zifu.png"
+  },
+  {
+    "id": "icon_innate_riyue",
+    "name": "日月並明",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_riyue.png"
+  },
+  {
+    "id": "icon_innate_huotan",
+    "name": "火貪暴發",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_huotan.png"
+  },
+  {
+    "id": "icon_innate_wenqu",
+    "name": "文曲化科",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_wenqu.png"
+  },
+  {
+    "id": "icon_innate_jiyue",
+    "name": "機月同梁",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_jiyue.png"
+  },
+  {
+    "id": "icon_innate_shapolang",
+    "name": "殺破狼",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_innate_shapolang.png"
+  },
+  {
+    "id": "icon_root_lei",
+    "name": "隱雷靈根",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_root_lei.png"
+  },
+  {
+    "id": "icon_root_bing",
+    "name": "冰靈根",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_root_bing.png"
+  },
+  {
+    "id": "icon_root_feng",
+    "name": "風靈根",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_root_feng.png"
+  },
+  {
+    "id": "icon_root_an",
+    "name": "暗靈根",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_root_an.png"
+  },
+  {
+    "id": "icon_root_guang",
+    "name": "光靈根",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_root_guang.png"
+  },
+  {
+    "id": "icon_bless_1",
+    "name": "福德加身",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_1.png"
+  },
+  {
+    "id": "icon_bless_2",
+    "name": "腳力",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_2.png"
+  },
+  {
+    "id": "icon_bless_3",
+    "name": "聚財",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_3.png"
+  },
+  {
+    "id": "icon_bless_4",
+    "name": "威武",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_4.png"
+  },
+  {
+    "id": "icon_bless_5",
+    "name": "燒金",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_5.png"
+  },
+  {
+    "id": "icon_bless_6",
+    "name": "神行",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_6.png"
+  },
+  {
+    "id": "icon_bless_7",
+    "name": "金身",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_7.png"
+  },
+  {
+    "id": "icon_bless_8",
+    "name": "開示",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_8.png"
+  },
+  {
+    "id": "icon_bless_9",
+    "name": "平安",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_9.png"
+  },
+  {
+    "id": "icon_bless_10",
+    "name": "添香",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_10.png"
+  },
+  {
+    "id": "icon_bless_11",
+    "name": "香火",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_bless_11.png"
+  },
+  {
+    "id": "icon_cup_sheng",
+    "name": "聖筊・一凸一平",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "依使用者提供的半月木筊輪廓參照重繪；凸面亮脊、平面木紋；未使用參考圖像素。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_cup_xiao",
+    "name": "笑筊・兩平",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "依使用者提供的半月木筊輪廓參照重繪；凸面亮脊、平面木紋；未使用參考圖像素。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_cup_yin",
+    "name": "陰筊・兩凸",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "依使用者提供的半月木筊輪廓參照重繪；凸面亮脊、平面木紋；未使用參考圖像素。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "stage_jiantan_bg_tile",
+    "name": "劍潭地面貼片（可平鋪）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/stage_jiantan_bg_tile.png"
+  },
+  {
+    "id": "landmark_jiantan",
+    "name": "劍潭：潭中立劍（鄭成功擲劍傳說）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/landmark_jiantan.png"
+  },
+  {
+    "id": "enemy_shuigui",
+    "name": "水鬼，水陰",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_shuigui.png"
+  },
+  {
+    "id": "enemy_renmianyu",
+    "name": "人面魚，水陰，遠程",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_renmianyu.png"
+  },
+  {
+    "id": "enemy_shishi",
+    "name": "石獅，金陽",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_shishi.png"
+  },
+  {
+    "id": "enemy_mukengniao",
+    "name": "墓坑鳥，陰",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_mukengniao.png"
+  },
+  {
+    "id": "enemy_feilu",
+    "name": "飛顱妖，陰，飛行",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_feilu.png"
+  },
+  {
+    "id": "enemy_jianling",
+    "name": "劍靈，金陽",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/enemy_jianling.png"
+  },
+  {
+    "id": "miniboss_shishi_gong",
+    "name": "石獅公，金陽",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_shishi_gong.png"
+  },
+  {
+    "id": "miniboss_shuigui_tou",
+    "name": "水鬼頭，水陰",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_shuigui_tou.png"
+  },
+  {
+    "id": "miniboss_mukengniao_wang",
+    "name": "墓坑鳥王，陰",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_mukengniao_wang.png"
+  },
+  {
+    "id": "miniboss_feilu_wang",
+    "name": "飛顱妖王，陰，隱藏",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/miniboss_feilu_wang.png"
+  },
+  {
+    "id": "boss_jiantan_yujing",
+    "name": "劍潭魚精，水陰",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_jiantan_yujing.png"
+  },
+  {
+    "id": "beast_shishi_gong",
+    "name": "石獅公・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_shishi_gong.png"
+  },
+  {
+    "id": "beast_shuigui_tou",
+    "name": "水鬼頭・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_shuigui_tou.png"
+  },
+  {
+    "id": "beast_mukengniao_wang",
+    "name": "墓坑鳥王・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_mukengniao_wang.png"
+  },
+  {
+    "id": "beast_feilu_wang",
+    "name": "飛顱妖王・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/beast_feilu_wang.png"
+  },
+  {
+    "id": "player_yao",
+    "name": "保生藥師：起手藥鼎",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/player_yao.png"
+  },
+  {
+    "id": "player_jitong",
+    "name": "乩童：發標後托腕",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/player_jitong.png"
+  },
+  {
+    "id": "proj_biao_back",
+    "name": "尪仔標牌背（飛行中）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_biao_back.png"
+  },
+  {
+    "id": "proj_biao_huojianqiang",
+    "name": "火尖槍標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_biao_huojianqiang.png"
+  },
+  {
+    "id": "proj_biao_qiankunquan",
+    "name": "乾坤圈標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_biao_qiankunquan.png"
+  },
+  {
+    "id": "proj_biao_fenghuolun",
+    "name": "風火輪標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_biao_fenghuolun.png"
+  },
+  {
+    "id": "fx_biao_hit",
+    "name": "標命中特效",
+    "status": "陰陽陽路相容圖",
+    "notes": "",
+    "source": "fx_biao_hit_yang"
+  },
+  {
+    "id": "proj_ding_bomb",
+    "name": "丹丸",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ding_cloud",
+    "name": "藥霧範圍",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_qin_wave",
+    "name": "月琴音波",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar",
+    "name": "塔・一重相容預設",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "舊ID僅一重；其餘樓層與陰陽版本使用選圖對照，未修改遊戲程式。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_sword",
+    "name": "飛劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_sword.png"
+  },
+  {
+    "id": "proj_sword_shark",
+    "name": "鯊魚劍飛劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_sword_shark.png"
+  },
+  {
+    "id": "fx_bell_ring",
+    "name": "三清鈴震波",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_gourd_mist",
+    "name": "葫蘆霧",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_seal_stamp",
+    "name": "封印・封",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_mirror_beam",
+    "name": "八卦鏡光束",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_fu",
+    "name": "飛符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/proj_fu.png"
+  },
+  {
+    "id": "fx_fu_boom",
+    "name": "符爆",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_taiji_fu",
+    "name": "太極符・陰陽雙焰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "title_logo",
+    "name": "標題字樣（這一項允許文字）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/title_logo.png"
+  },
+  {
+    "id": "title_bg",
+    "name": "開場背景",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/title_bg.png"
+  },
+  {
+    "id": "title_paper",
+    "name": "面板紙（覆蓋在背景上放按鈕）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/title_paper.png"
+  },
+  {
+    "id": "title_lantern",
+    "name": "燈籠裝飾",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/title_lantern.png"
+  },
+  {
+    "id": "btn_primary",
+    "name": "主按鈕底",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_primary.png"
+  },
+  {
+    "id": "btn_primary_pressed",
+    "name": "主按鈕按下",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_primary_pressed.png"
+  },
+  {
+    "id": "btn_secondary",
+    "name": "副按鈕底",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_secondary.png"
+  },
+  {
+    "id": "btn_disabled",
+    "name": "停用",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_disabled.png"
+  },
+  {
+    "id": "btn_round_god",
+    "name": "手機降駕鍵",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_round_god.png"
+  },
+  {
+    "id": "btn_round_lock",
+    "name": "手機鎖定鍵",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_round_lock.png"
+  },
+  {
+    "id": "btn_round_lock_hot",
+    "name": "可收服時的鎖定鍵",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_round_lock_hot.png"
+  },
+  {
+    "id": "btn_pause",
+    "name": "暫停鍵",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/btn_pause.png"
+  },
+  {
+    "id": "ui_panel_paper",
+    "name": "選單面板",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/ui_panel_paper.png"
+  },
+  {
+    "id": "ui_hud_frame",
+    "name": "HUD 條框",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/ui_hud_frame.png"
+  },
+  {
+    "id": "ui_hp_bar",
+    "name": "血條",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/ui_hp_bar.png"
+  },
+  {
+    "id": "ui_xp_bar",
+    "name": "靈氣條",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/ui_xp_bar.png"
+  },
+  {
+    "id": "ui_card_class",
+    "name": "道途卡底",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/ui_card_class.png"
+  },
+  {
+    "id": "icon_w_sword_1",
+    "name": "桃木劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_1.png"
+  },
+  {
+    "id": "icon_w_sword_5",
+    "name": "七星劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_5.png"
+  },
+  {
+    "id": "icon_w_sword_5_yin",
+    "name": "鯊魚劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_5_yin.png"
+  },
+  {
+    "id": "icon_w_sword_7",
+    "name": "誅邪劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_7.png"
+  },
+  {
+    "id": "icon_w_sword_7_yin",
+    "name": "斷魂劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_7_yin.png"
+  },
+  {
+    "id": "icon_w_sword_yang",
+    "name": "軒轅劍",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_sword_yin",
+    "name": "斷魂劍・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_bell_1",
+    "name": "三清鈴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_bell_1.png"
+  },
+  {
+    "id": "icon_w_bell_5",
+    "name": "帝鐘",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_bell_5.png"
+  },
+  {
+    "id": "icon_w_bell_5_yin",
+    "name": "幽鈴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_bell_5_yin.png"
+  },
+  {
+    "id": "icon_w_bell_7",
+    "name": "落魂鐘",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_bell_7.png"
+  },
+  {
+    "id": "icon_w_bell_7_yin",
+    "name": "攝魂鈴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_bell_7_yin.png"
+  },
+  {
+    "id": "icon_w_bell_yang",
+    "name": "東皇鐘",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_bell_yin",
+    "name": "攝魂鈴・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_gourd_1",
+    "name": "酒葫蘆",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_gourd_1.png"
+  },
+  {
+    "id": "icon_w_gourd_5",
+    "name": "乾坤葫蘆",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_gourd_5.png"
+  },
+  {
+    "id": "icon_w_gourd_5_yin",
+    "name": "寒潭葫蘆",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_gourd_5_yin.png"
+  },
+  {
+    "id": "icon_w_gourd_7",
+    "name": "紫金葫蘆",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_gourd_7.png"
+  },
+  {
+    "id": "icon_w_gourd_7_yin",
+    "name": "玄冰葫蘆",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_gourd_7_yin.png"
+  },
+  {
+    "id": "icon_w_gourd_yang",
+    "name": "煉妖壺",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_gourd_yin",
+    "name": "玄冰葫蘆・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_seal_1",
+    "name": "法印",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "保留既有印鈕器物，正面增加「封」印面。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_w_seal_5",
+    "name": "城隍印",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "保留既有印鈕器物，正面增加「封」印面。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_w_seal_5_yin",
+    "name": "地府印",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "保留既有印鈕器物，正面增加「封」印面。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_w_seal_7",
+    "name": "龍印",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "保留既有印鈕器物，正面增加「封」印面。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_w_seal_7_yin",
+    "name": "幽冥印",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "保留既有印鈕器物，正面增加「封」印面。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_w_seal_yang",
+    "name": "崆峒印",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_seal_yin",
+    "name": "幽冥印・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_mirror_1",
+    "name": "銅鏡",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_mirror_1.png"
+  },
+  {
+    "id": "icon_w_mirror_5",
+    "name": "八卦鏡",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_mirror_5.png"
+  },
+  {
+    "id": "icon_w_mirror_5_yin",
+    "name": "陰陽鏡",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_mirror_5_yin.png"
+  },
+  {
+    "id": "icon_w_mirror_7",
+    "name": "照妖鏡",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_mirror_7.png"
+  },
+  {
+    "id": "icon_w_mirror_7_yin",
+    "name": "攝魂鏡",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_mirror_7_yin.png"
+  },
+  {
+    "id": "icon_w_mirror_yang",
+    "name": "崑崙鏡",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_mirror_yin",
+    "name": "攝魂鏡・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_fu_1",
+    "name": "黃紙朱砂符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_fu_1.png"
+  },
+  {
+    "id": "icon_w_fu_5",
+    "name": "五雷符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_fu_5.png"
+  },
+  {
+    "id": "icon_w_fu_5_yin",
+    "name": "幽火符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_fu_5_yin.png"
+  },
+  {
+    "id": "icon_w_fu_7",
+    "name": "雷霆符詔",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_fu_7.png"
+  },
+  {
+    "id": "icon_w_fu_7_yin",
+    "name": "幽冥符詔",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_fu_7_yin.png"
+  },
+  {
+    "id": "icon_w_fu_yang",
+    "name": "太極符",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_fu_yin",
+    "name": "幽冥符詔・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ding_1",
+    "name": "藥鼎",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_ding_1.png"
+  },
+  {
+    "id": "icon_w_ding_5",
+    "name": "丹鼎",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_ding_5.png"
+  },
+  {
+    "id": "icon_w_ding_5_yin",
+    "name": "毒鼎",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_ding_5_yin.png"
+  },
+  {
+    "id": "icon_w_ding_7",
+    "name": "寶鼎",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_ding_7.png"
+  },
+  {
+    "id": "icon_w_ding_7_yin",
+    "name": "蝕骨鼎",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_ding_7_yin.png"
+  },
+  {
+    "id": "icon_w_ding_yang",
+    "name": "神農鼎",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ding_yin",
+    "name": "蝕骨鼎・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_qin_1",
+    "name": "月琴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_qin_1.png"
+  },
+  {
+    "id": "icon_w_qin_5",
+    "name": "瑤琴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_qin_5.png"
+  },
+  {
+    "id": "icon_w_qin_5_yin",
+    "name": "哀弦琴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_qin_5_yin.png"
+  },
+  {
+    "id": "icon_w_qin_7",
+    "name": "九霄琴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_qin_7.png"
+  },
+  {
+    "id": "icon_w_qin_7_yin",
+    "name": "哀弦琴",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_qin_7_yin.png"
+  },
+  {
+    "id": "icon_w_qin_yang",
+    "name": "伏羲琴",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_qin_yin",
+    "name": "哀弦琴・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_1",
+    "name": "小塔",
+    "status": "塔層重繪",
+    "notes": "1層；",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_5",
+    "name": "鎮妖塔",
+    "status": "塔層重繪",
+    "notes": "5層；",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_5_yin",
+    "name": "黑塔",
+    "status": "塔層重繪",
+    "notes": "5層；",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_7",
+    "name": "七寶塔",
+    "status": "塔層重繪",
+    "notes": "7層；",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_7_yin",
+    "name": "鎮魂塔",
+    "status": "塔層重繪",
+    "notes": "7層；",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_yang",
+    "name": "昊天塔",
+    "status": "塔層重繪",
+    "notes": "9層；陰陽徽記。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_ta_yin",
+    "name": "鎮魂塔・本命",
+    "status": "塔層重繪",
+    "notes": "9層；陰陽徽記。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_biao_1",
+    "name": "尪仔標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_biao_1.png"
+  },
+  {
+    "id": "icon_w_biao_5",
+    "name": "三標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_biao_5.png"
+  },
+  {
+    "id": "icon_w_biao_5_yin",
+    "name": "血標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_biao_5_yin.png"
+  },
+  {
+    "id": "icon_w_biao_7",
+    "name": "五標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_biao_7.png"
+  },
+  {
+    "id": "icon_w_biao_7_yin",
+    "name": "血標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_w_biao_7_yin.png"
+  },
+  {
+    "id": "icon_w_biao_yang",
+    "name": "封神標",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_w_biao_yin",
+    "name": "血標・本命",
+    "status": "陰陽形態識別強化",
+    "notes": "保留器物本體差異，角落再加太陽或月牙識別；不只換色。",
+    "source": ""
+  },
+  {
+    "id": "icon_talent_fushi",
+    "name": "符使",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_fushi.png"
+  },
+  {
+    "id": "icon_talent_shuangfu",
+    "name": "雙符齊發",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_shuangfu.png"
+  },
+  {
+    "id": "icon_talent_leifu",
+    "name": "雷符",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_leifu.png"
+  },
+  {
+    "id": "icon_talent_chiling",
+    "name": "敕令",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_chiling.png"
+  },
+  {
+    "id": "icon_talent_jianqi",
+    "name": "劍氣外放",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_jianqi.png"
+  },
+  {
+    "id": "icon_talent_shuangjian",
+    "name": "雙劍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_shuangjian.png"
+  },
+  {
+    "id": "icon_talent_qixing",
+    "name": "護身劍陣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_qixing.png"
+  },
+  {
+    "id": "icon_talent_zhanyao",
+    "name": "斬妖",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_talent_zhanyao.png"
+  },
+  {
+    "id": "icon_altar",
+    "name": "渡劫香案",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/icon_altar.png"
+  },
+  {
+    "id": "trial_guohuo_field",
+    "name": "築基劫：過火炭火場",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_guohuo_field.png"
+  },
+  {
+    "id": "trial_guohuo_coal",
+    "name": "炭火塊",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_guohuo_coal.png"
+  },
+  {
+    "id": "trial_daoti_ladder",
+    "name": "金丹劫：刀梯",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_daoti_ladder.png"
+  },
+  {
+    "id": "trial_daoti_blade",
+    "name": "落刀",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_daoti_blade.png"
+  },
+  {
+    "id": "trial_qixing_lamp_off",
+    "name": "元嬰劫：七星燈（未亮）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_qixing_lamp_off.png"
+  },
+  {
+    "id": "trial_qixing_lamp_on",
+    "name": "七星燈（亮）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_qixing_lamp_on.png"
+  },
+  {
+    "id": "trial_qixing_floor",
+    "name": "踏罡七星陣",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "七座實體燈與石鋪軌跡；不是只有七點連線。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_qianggu_tower",
+    "name": "化神劫：搶孤棚",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_qianggu_tower.png"
+  },
+  {
+    "id": "trial_qianggu_ring",
+    "name": "搶孤供品圈",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "紅金地毯環與四方供品箱，環內透明。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_zhongkui_mask",
+    "name": "煉虛劫：跳鍾馗面具",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_zhongkui_mask.png"
+  },
+  {
+    "id": "trial_zhongkui_sha",
+    "name": "煞氣雲",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_zhongkui_sha.png"
+  },
+  {
+    "id": "trial_zhongkui_path",
+    "name": "鍾馗步道",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_zhongkui_path.png"
+  },
+  {
+    "id": "trial_leijie_cloud",
+    "name": "大乘劫：雷劫雲",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_leijie_cloud.png"
+  },
+  {
+    "id": "trial_leijie_mark",
+    "name": "落雷預告・雷紋金環",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_leijie_bolt",
+    "name": "雷柱",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_leijie_bolt.png"
+  },
+  {
+    "id": "trial_dajie_gate",
+    "name": "大劫（關卡首領登場）",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_dajie_gate.png"
+  },
+  {
+    "id": "trial_banner_small",
+    "name": "小境橫幅・初期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_banner_small.png"
+  },
+  {
+    "id": "trial_banner_mid",
+    "name": "小境橫幅・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_banner_mid.png"
+  },
+  {
+    "id": "trial_banner_late",
+    "name": "小境橫幅・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_banner_late.png"
+  },
+  {
+    "id": "trial_guohuo_field_mid",
+    "name": "築基劫：過火炭火場・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_guohuo_field_mid.png"
+  },
+  {
+    "id": "trial_guohuo_field_late",
+    "name": "築基劫：過火炭火場・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_guohuo_field_late.png"
+  },
+  {
+    "id": "trial_daoti_ladder_mid",
+    "name": "金丹劫：刀梯・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_daoti_ladder_mid.png"
+  },
+  {
+    "id": "trial_daoti_ladder_late",
+    "name": "金丹劫：刀梯・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_daoti_ladder_late.png"
+  },
+  {
+    "id": "trial_qixing_floor_mid",
+    "name": "踏罡七星陣_mid",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "七座實體燈與石鋪軌跡；不是只有七點連線。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_qixing_floor_late",
+    "name": "踏罡七星陣_late",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "七座實體燈與石鋪軌跡；不是只有七點連線。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_qianggu_tower_mid",
+    "name": "化神劫：搶孤棚・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_qianggu_tower_mid.png"
+  },
+  {
+    "id": "trial_qianggu_tower_late",
+    "name": "化神劫：搶孤棚・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_qianggu_tower_late.png"
+  },
+  {
+    "id": "trial_qianggu_ring_mid",
+    "name": "搶孤供品圈_mid",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "紅金地毯環與四方供品箱，環內透明。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_qianggu_ring_late",
+    "name": "搶孤供品圈_late",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "紅金地毯環與四方供品箱，環內透明。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "trial_zhongkui_path_mid",
+    "name": "鍾馗步道・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_zhongkui_path_mid.png"
+  },
+  {
+    "id": "trial_zhongkui_path_late",
+    "name": "鍾馗步道・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_zhongkui_path_late.png"
+  },
+  {
+    "id": "trial_leijie_cloud_mid",
+    "name": "大乘劫：雷劫雲・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_leijie_cloud_mid.png"
+  },
+  {
+    "id": "trial_leijie_cloud_late",
+    "name": "大乘劫：雷劫雲・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_leijie_cloud_late.png"
+  },
+  {
+    "id": "trial_dajie_gate_mid",
+    "name": "大劫（關卡首領登場）・中期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_dajie_gate_mid.png"
+  },
+  {
+    "id": "trial_dajie_gate_late",
+    "name": "大劫（關卡首領登場）・後期",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/trial_dajie_gate_late.png"
+  },
+  {
+    "id": "boss_xinmo_fu",
+    "name": "心魔・正一符師",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_fu.png"
+  },
+  {
+    "id": "boss_tianmo_fu",
+    "name": "天魔・正一符師",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_tianmo_fu.png"
+  },
+  {
+    "id": "boss_xinmo_jian",
+    "name": "心魔・劍印修士",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_jian.png"
+  },
+  {
+    "id": "boss_tianmo_jian",
+    "name": "天魔・劍印修士",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_tianmo_jian.png"
+  },
+  {
+    "id": "boss_xinmo_yao",
+    "name": "心魔・保生藥師",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_yao.png"
+  },
+  {
+    "id": "boss_tianmo_yao",
+    "name": "天魔・保生藥師",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_tianmo_yao.png"
+  },
+  {
+    "id": "boss_xinmo_jitong",
+    "name": "心魔・乩童",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_jitong.png"
+  },
+  {
+    "id": "boss_tianmo_jitong",
+    "name": "天魔・乩童",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_tianmo_jitong.png"
+  },
+  {
+    "id": "boss_xinmo_beast_banyan_king",
+    "name": "心魔靈獸・樹王公靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_banyan_king.png"
+  },
+  {
+    "id": "boss_xinmo_beast_tiger_king",
+    "name": "心魔靈獸・虎精王靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_tiger_king.png"
+  },
+  {
+    "id": "boss_xinmo_beast_moshenzai_king",
+    "name": "心魔靈獸・魔神仔頭目靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_moshenzai_king.png"
+  },
+  {
+    "id": "boss_xinmo_beast_ghostfire_king",
+    "name": "心魔靈獸・燐火王靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_ghostfire_king.png"
+  },
+  {
+    "id": "boss_xinmo_beast_shishi_gong",
+    "name": "心魔靈獸・石獅公・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_shishi_gong.png"
+  },
+  {
+    "id": "boss_xinmo_beast_shuigui_tou",
+    "name": "心魔靈獸・水鬼頭・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_shuigui_tou.png"
+  },
+  {
+    "id": "boss_xinmo_beast_mukengniao_wang",
+    "name": "心魔靈獸・墓坑鳥王・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_mukengniao_wang.png"
+  },
+  {
+    "id": "boss_xinmo_beast_feilu_wang",
+    "name": "心魔靈獸・飛顱妖王・靈獸",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/boss_xinmo_beast_feilu_wang.png"
+  },
+  {
+    "id": "fx_mirror_shatter",
+    "name": "鏡面碎裂",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/fx_mirror_shatter.png"
+  },
+  {
+    "id": "fx_mirror_floor",
+    "name": "鏡像戰場地面",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/main-art/fx_mirror_floor.png"
+  },
+  {
+    "id": "player_tangki_ready",
+    "name": "乩童・持標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/player_tangki_ready.png"
+  },
+  {
+    "id": "player_tangki_throw",
+    "name": "乩童・發標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/player_tangki_throw.png"
+  },
+  {
+    "id": "player_tangki_recoil",
+    "name": "乩童・回氣",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/player_tangki_recoil.png"
+  },
+  {
+    "id": "card_angbiao_spear",
+    "name": "火尖槍標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/card_angbiao_spear.png"
+  },
+  {
+    "id": "card_angbiao_ring",
+    "name": "乾坤圈標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/card_angbiao_ring.png"
+  },
+  {
+    "id": "card_angbiao_wheel",
+    "name": "風火輪標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/card_angbiao_wheel.png"
+  },
+  {
+    "id": "card_angbiao_back",
+    "name": "靛藍菱紋牌背",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/card_angbiao_back.png"
+  },
+  {
+    "id": "proj_angbiao_spear",
+    "name": "飛行・火尖槍標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/proj_angbiao_spear.png"
+  },
+  {
+    "id": "proj_angbiao_ring",
+    "name": "飛行・乾坤圈標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/proj_angbiao_ring.png"
+  },
+  {
+    "id": "proj_angbiao_wheel",
+    "name": "飛行・風火輪標",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/proj_angbiao_wheel.png"
+  },
+  {
+    "id": "fx_angbiao_spear",
+    "name": "命中・火尖槍",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/fx_angbiao_spear.png"
+  },
+  {
+    "id": "fx_angbiao_ring",
+    "name": "命中・乾坤圈",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/fx_angbiao_ring.png"
+  },
+  {
+    "id": "fx_angbiao_wheel",
+    "name": "命中・風火輪",
+    "status": "既有主美術重採樣",
+    "notes": "",
+    "source": "kundao-v050-art.zip/masters/tangki/fx_angbiao_wheel.png"
+  },
+  {
+    "id": "fx_seal_stamp_yang",
+    "name": "封印・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "印文為可辨識的「封」，已轉輪廓。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_seal_stamp_yin",
+    "name": "封印・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "印文為可辨識的「封」，已轉輪廓。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_1",
+    "name": "1重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "1個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_2",
+    "name": "2重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "2個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_3",
+    "name": "3重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "3個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_4",
+    "name": "4重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "4個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_5",
+    "name": "5重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "5個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_6",
+    "name": "6重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "6個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_7",
+    "name": "7重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "7個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_8",
+    "name": "8重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "8個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_9",
+    "name": "9重塔・石塔",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "9個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_1_yang",
+    "name": "1重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "1個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_2_yang",
+    "name": "2重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "2個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_3_yang",
+    "name": "3重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "3個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_4_yang",
+    "name": "4重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "4個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_5_yang",
+    "name": "5重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "5個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_6_yang",
+    "name": "6重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "6個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_7_yang",
+    "name": "7重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "7個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_8_yang",
+    "name": "8重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "8個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_9_yang",
+    "name": "9重塔・陽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "9個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_1_yin",
+    "name": "1重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "1個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_2_yin",
+    "name": "2重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "2個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_3_yin",
+    "name": "3重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "3個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_4_yin",
+    "name": "4重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "4個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_5_yin",
+    "name": "5重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "5個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_6_yin",
+    "name": "6重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "6個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_7_yin",
+    "name": "7重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "7個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_8_yin",
+    "name": "8重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "8個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ta_pillar_9_yin",
+    "name": "9重塔・陰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "9個塔身樓層；基座與頂珠不計；固定底部錨點。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_ding_bomb_yang",
+    "name": "丹丸・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ding_cloud_yang",
+    "name": "藥霧・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "以實體雲瓣與葉片建立清楚範圍；沒有發光漸層。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_ding_bomb_yin",
+    "name": "丹丸・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_ding_cloud_yin",
+    "name": "藥霧・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "以實體雲瓣與葉片建立清楚範圍；沒有發光漸層。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_bell_ring_yang",
+    "name": "fx_bell_ring・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_gourd_mist_yang",
+    "name": "fx_gourd_mist・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_mirror_beam_yang",
+    "name": "fx_mirror_beam・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_qin_wave_yang",
+    "name": "proj_qin_wave・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_bell_ring_yin",
+    "name": "fx_bell_ring・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_gourd_mist_yin",
+    "name": "fx_gourd_mist・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_mirror_beam_yin",
+    "name": "fx_mirror_beam・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_qin_wave_yin",
+    "name": "proj_qin_wave・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_sword_yang",
+    "name": "proj_sword・yang",
+    "status": "附件主美術構圖編修",
+    "notes": "尖端朝右；原尺寸48×16。",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_yang.png"
+  },
+  {
+    "id": "proj_fu_yang",
+    "name": "proj_fu・yang",
+    "status": "附件主美術構圖編修",
+    "notes": "",
+    "source": "icon_w_fu_yang"
+  },
+  {
+    "id": "proj_biao_back_yang",
+    "name": "尪仔標牌背・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "飛行顯示菱紋牌背；陽靛藍金邊日徽，陰暗紅紅邊月徽。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_fu_boom_yang",
+    "name": "符火爆散・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_biao_hit_yang",
+    "name": "紙標命中・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_sword_yin",
+    "name": "proj_sword・yin",
+    "status": "附件主美術構圖編修",
+    "notes": "尖端朝右；原尺寸48×16。",
+    "source": "kundao-v050-art.zip/main-art/icon_w_sword_yin.png"
+  },
+  {
+    "id": "proj_fu_yin",
+    "name": "proj_fu・yin",
+    "status": "附件主美術構圖編修",
+    "notes": "",
+    "source": "icon_w_fu_yin"
+  },
+  {
+    "id": "proj_biao_back_yin",
+    "name": "尪仔標牌背・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "飛行顯示菱紋牌背；陽靛藍金邊日徽，陰暗紅紅邊月徽。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_fu_boom_yin",
+    "name": "符火爆散・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_biao_hit_yin",
+    "name": "紙標命中・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "ui_badge_yang",
+    "name": "陰陽辨識・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "ui_polarity_frame_yang",
+    "name": "法寶卡框・yang",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "ui_badge_yin",
+    "name": "陰陽辨識・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "ui_polarity_frame_yin",
+    "name": "法寶卡框・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_enemy_seed",
+    "name": "小妖投射物・seed",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "32×32原尺寸，另附64×64與高解析主圖；方向朝右下，旋轉由顯示層決定。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_enemy_fire",
+    "name": "小妖投射物・fire",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "32×32原尺寸，另附64×64與高解析主圖；方向朝右下，旋轉由顯示層決定。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_enemy_water",
+    "name": "小妖投射物・water",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "32×32原尺寸，另附64×64與高解析主圖；方向朝右下，旋轉由顯示層決定。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_enemy_metal",
+    "name": "小妖投射物・metal",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "32×32原尺寸，另附64×64與高解析主圖；方向朝右下，旋轉由顯示層決定。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_enemy_yin",
+    "name": "小妖投射物・yin",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "32×32原尺寸，另附64×64與高解析主圖；方向朝右下，旋轉由顯示層決定。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_enemy_pellet",
+    "name": "小妖通用陰氣彈",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "proj_friendly_pellet",
+    "name": "友軍靈氣彈",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_vein",
+    "name": "龍脈地氣・三縷青龍",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "裂土基座＋三縷有體積的地氣；主龍具龍頭、鬚角與腹鱗，不是三條線。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_vein_01",
+    "name": "龍脈循環影格 1",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_vein_02",
+    "name": "龍脈循環影格 2",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_vein_03",
+    "name": "龍脈循環影格 3",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_root",
+    "name": "盤根纏縛",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_zone_spike",
+    "name": "樹根地刺",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_zone_ice",
+    "name": "寒冰範圍",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_zone_poison",
+    "name": "毒霧範圍",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_zone_miasma",
+    "name": "瘴氣範圍",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_spark",
+    "name": "命中碎光",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_hit_pop",
+    "name": "命中碎光",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_shield",
+    "name": "護盾・護身符盾",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_bite",
+    "name": "撲咬・牙印",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_slash",
+    "name": "劍氣斬擊",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_lightning_arc",
+    "name": "連鎖雷擊",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_telegraph",
+    "name": "攻擊預告・符紙環",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_bellwave",
+    "name": "大鐘音震波",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_water_wave",
+    "name": "水波衝擊",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_passive_liandan",
+    "name": "煉丹訣",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "替換附件中程式暫代圖。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_passive_qingxin",
+    "name": "清心咒",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "替換附件中程式暫代圖。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_passive_zhenhun",
+    "name": "鎮魂訣",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "七重塔器物；不使用文字方塊。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_talent_miaoshou",
+    "name": "妙手",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "替換附件中程式暫代圖。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_talent_jinzhen",
+    "name": "金針",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "替換附件中程式暫代圖。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_talent_danhuo",
+    "name": "丹火",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "替換附件中程式暫代圖。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_talent_jiuku",
+    "name": "救苦",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "替換附件中程式暫代圖。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_rock",
+    "name": "苔岩・小",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_boulder_big",
+    "name": "苔岩・大",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "僅物件圖，不宣告已啟用碰撞。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_tree_a",
+    "name": "樹冠變體 A",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_tree_b",
+    "name": "樹冠變體 B",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_tree_c",
+    "name": "樹冠變體 C",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_bush",
+    "name": "灌木・葉叢與小花",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_stump",
+    "name": "切株",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_trunk_wide",
+    "name": "寬樹幹",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_grass",
+    "name": "草叢・實心葉片",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_reed",
+    "name": "蘆葦・蒲穗水草",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_lantern_pole",
+    "name": "紅燈籠木柱",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_shrine_wall",
+    "name": "廟牆・紅磚灰瓦",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "已繪製物件；不修改遊戲碰撞規則。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "terrain_grass_tile_b",
+    "name": "terrain_grass_tile_b",
+    "status": "地形貼片重繪",
+    "notes": "不透明地板貼片；沿X、Y軸重複。",
+    "source": ""
+  },
+  {
+    "id": "stage_yingge_bg_tile",
+    "name": "stage_yingge_bg_tile",
+    "status": "地形貼片重繪",
+    "notes": "不透明地板貼片；沿X、Y軸重複。",
+    "source": ""
+  },
+  {
+    "id": "terrain_path_tile",
+    "name": "terrain_path_tile",
+    "status": "地形貼片重繪",
+    "notes": "不透明地板貼片；沿Y軸重複。",
+    "source": ""
+  },
+  {
+    "id": "terrain_stone_floor",
+    "name": "terrain_stone_floor",
+    "status": "地形貼片重繪",
+    "notes": "不透明地板貼片；沿X、Y軸重複。",
+    "source": ""
+  },
+  {
+    "id": "terrain_water_edge",
+    "name": "terrain_water_edge",
+    "status": "地形貼片重繪",
+    "notes": "不透明地板貼片；沿X軸重複。",
+    "source": ""
+  },
+  {
+    "id": "icon_skill_pangen",
+    "name": "靈獸招式・盤根",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_puyao",
+    "name": "靈獸招式・撲咬",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_milu",
+    "name": "靈獸招式・迷路",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_linyan",
+    "name": "靈獸招式・燐焰",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_saoling",
+    "name": "靈獸招式・掃靈",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_zhensha",
+    "name": "靈獸招式・鎮煞",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_tuozhuai",
+    "name": "靈獸招式・拖拽",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_beiming",
+    "name": "靈獸招式・悲鳴",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "icon_skill_chongzhuang",
+    "name": "靈獸招式・衝撞",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_zone_fire",
+    "name": "火焰區域・火舌與餘燼",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "補足fire與ember類型；顯示層尚未接此ID。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  },
+  {
+    "id": "fx_levelup_rise",
+    "name": "升階・金色綬帶上升",
+    "status": "向量重繪／附件主美術合成",
+    "notes": "rise類型的替換圖；不包含升級文字。",
+    "source": "本次製作；僅用附件原圖作合成元件"
+  }
+]

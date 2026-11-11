@@ -1,0 +1,872 @@
+{
+  "status": "pass",
+  "scope": "v0.88 場景、首頁、局外場景、地標、地形、事件拾取物與試煉素材審查",
+  "source_document": "背景設定.md（2026-11-07版）",
+  "selected_pngs": 47,
+  "selected_records": 47,
+  "unique_selected_sha256": 47,
+  "requirements": 130,
+  "actions": {
+    "generate": 38,
+    "replace": 9,
+    "retain": 83
+  },
+  "selected_kinds": {
+    "scenes": 16,
+    "transparent_objects": 25,
+    "opaque_ground_tiles": 6
+  },
+  "active_stage_count": 8,
+  "supplementary_concept_count": 5,
+  "alias_sizes": {
+    "stage_zhongyuan_scene": [
+      1536,
+      1024
+    ]
+  },
+  "file_validation": "work/v088_stages_qa/file_validation.json",
+  "full_qa_report": "work/generated/v088_stages/QA-v088-stages.json",
+  "records": "work/generated/v088_stages/records.json",
+  "requirements_file": "work/generated/v088_stages/requirements-v088-stages.json",
+  "final_previews": [
+    "work/v088_stages_qa/selected_active_stages.jpg",
+    "work/v088_stages_qa/selected_home_halls.jpg",
+    "work/v088_stages_qa/selected_supplementary.jpg",
+    "work/v088_stages_qa/selected_props_01.jpg",
+    "work/v088_stages_qa/selected_props_02.jpg",
+    "work/v088_stages_qa/selected_props_03.jpg",
+    "work/v088_stages_qa/selected_tiles_repeat.jpg"
+  ],
+  "working_comparisons": [
+    "work/v088_stages_qa/comparison_selected_01.jpg",
+    "work/v088_stages_qa/comparison_selected_02.jpg",
+    "work/v088_stages_qa/comparison_selected_03.jpg",
+    "work/v088_stages_qa/comparison_selected_04.jpg",
+    "work/v088_stages_qa/comparison_selected_05.jpg",
+    "work/v088_stages_qa/comparison_selected_06.jpg",
+    "work/v088_stages_qa/comparison_selected_07.jpg",
+    "work/v088_stages_qa/comparison_selected_08.jpg"
+  ],
+  "alpha_review": [
+    "work/v088_stages_qa/selected_props_dark_01.jpg",
+    "work/v088_stages_qa/selected_props_dark_02.jpg",
+    "work/v088_stages_qa/selected_props_dark_03.jpg"
+  ],
+  "retained_five_review": "work/v088_stages_qa/missing_five.jpg",
+  "style_revision": "v088-original-pack-lock",
+  "qa_method": "逐張生成結果檢視＋原包參照並排＋白底／深底alpha合成＋6張tile的2×2重複檢視＋檔案、尺寸、來源copy與SHA256核對",
+  "exclude_from_final_asset_pack": [
+    "style-round1/",
+    "舊寫實稿／布局參照",
+    "comparison_selected_* 舊參照只供內部檢視"
+  ],
+  "no_game_runtime_verification": true,
+  "selected_files": [
+    {
+      "id": "stage_fucheng_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_fucheng_scene.png",
+      "sha256": "749b6e3c2077d1e7d77e32dd3ec586fab121f882360c646eb9ff029727a57cac",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_pingxi_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_pingxi_scene.png",
+      "sha256": "5f4c522c5eaf968bdf2d0a7455cb792ba16444f0dc25786cbf2dce30258c7a05",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_donggang_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_donggang_scene.png",
+      "sha256": "041e10c663db4da648d0b4fcf8e0ad92a974dbdad267c485be95bfd8108a6e71",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_dakeng_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_dakeng_scene.png",
+      "sha256": "2475147198bc632026fb5ba1d7c8f1573fc3e5970a9013a8d717889e3f0faa83",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_jingjie_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_jingjie_scene.png",
+      "sha256": "a5313faba6b377a689cd1b5f530b087e0224eab6edeabf14741ae1ab45d03f1f",
+      "native_size": [
+        1774,
+        887
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_dadaocheng_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_dadaocheng_scene.png",
+      "sha256": "91cf8076019b54bf2b5bb6d09f61848c856125e7b3a9122cdd70912f78a72e9e",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [
+        "stage_zhongyuan_scene"
+      ],
+      "alias_sizes": {
+        "stage_zhongyuan_scene": [
+          1536,
+          1024
+        ]
+      }
+    },
+    {
+      "id": "scene_temple_hall",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/scene_temple_hall.png",
+      "sha256": "f21d74bbc9cad63c76244ff00458a7712c518cec86880eebcdde4be08a69d671",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1920,
+        1080
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "scene_underworld_hall",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/scene_underworld_hall.png",
+      "sha256": "17058e57f6e610b116e0d1689b6ba87279390d78c0f0305ab6794a6d3375313f",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1920,
+        1080
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_chihkan",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/landmark_chihkan.png",
+      "sha256": "35a1b69e6d56528500574727f899b1e6bbd10bf123500f238abd0d1a31230c28",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        520,
+        400
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_moshen_cave",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/landmark_moshen_cave.png",
+      "sha256": "c08128ae87dcdd99ba5a06e5fd4db5442bac8f49b5e5a9ea836e9be6f19dcd02",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        520,
+        400
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_wangchuan",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/landmark_wangchuan.png",
+      "sha256": "8d3f859c7f476193d5147d7fcc051d161059d4457a641ea8e5c50586e951df16",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        640,
+        480
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_butterfly_bridge",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/landmark_butterfly_bridge.png",
+      "sha256": "31c51d315027e2ccdba3fd09702c4d793c63e02d6f4427cda349e18c71c5db88",
+      "native_size": [
+        1774,
+        887
+      ],
+      "standard_size": [
+        520,
+        320
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_wangchuan_burning",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/landmark_wangchuan_burning.png",
+      "sha256": "375d889acec528ae8d47265263bba6afe3fef07830ae49268c8de1213e7c062b",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        640,
+        480
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_bridge_broken",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_bridge_broken.png",
+      "sha256": "4c8b747915affb4f4cad3eed710ece2c6d3f0f6359cf94e421d5d6fd1581a3fc",
+      "native_size": [
+        1774,
+        887
+      ],
+      "standard_size": [
+        520,
+        320
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_lintou_tree",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_lintou_tree.png",
+      "sha256": "dc901c2a745c1cce23716c065d5f9bbdb861cfddd58e22a82bbc18529937dc79",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        320
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_mine_collapse",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_mine_collapse.png",
+      "sha256": "9ce8c70fea8d111170498b0c89d35ecf9063cc1a5ffbf994a653682f7c7dd02d",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        320,
+        240
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_lantern_gao",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_lantern_gao.png",
+      "sha256": "6fb15257c9cf957210772c5acc2b6a12f6412c90dd40caa3acf6dbeff6bb9eda",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "standard_size": [
+        180,
+        480
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_pudu_table",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_pudu_table.png",
+      "sha256": "bf476e108861528b6c6cc23281fd187eea5f49247ad01ad01a87df421898cfad",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        360,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_deliver_incense",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_deliver_incense.png",
+      "sha256": "9d6f6b12c8e18ea48c75bd9e48a4d55edf0b16fd06745d02d5c8772b71390844",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_deliver_gold",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_deliver_gold.png",
+      "sha256": "c810dd62f44ba6f5e778fdd91e678c0ca42b6c62cbbbc8b59da5dcfef9bf6bd0",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_deliver_water",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_deliver_water.png",
+      "sha256": "b83fe8e665bd584de842852bdca32c63432e40c4eecd740be3f6cb55e813cd21",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_guoxing_cannon",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_guoxing_cannon.png",
+      "sha256": "03aa57a41373b0e70b597b2e3d2f1763378914513bafe645020fc119ae49d89c",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        128,
+        96
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_jiantan_sunken_sword",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_jiantan_sunken_sword.png",
+      "sha256": "7f1cb04406e548a27795ea9de27c7decf1540bdaba598e85d84d78c61fccadf8",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        128,
+        160
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_pingxi_sky_lantern",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_pingxi_sky_lantern.png",
+      "sha256": "7df13f71a42f169e78f17f78d12af4b12415384b6cccb32a01fd14f7d5d5f5d8",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        128,
+        160
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_donggang_exorcism_talisman",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_donggang_exorcism_talisman.png",
+      "sha256": "e75875cfa1918aa95ece67558b90df11edf7feb0edaeee86e51adff786141835",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "standard_size": [
+        96,
+        144
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_water_lantern",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_water_lantern.png",
+      "sha256": "6b8741158c8ce37e4437d498ba397945a7c1b3a8f812b5aba46cf5fa0678bd0d",
+      "native_size": [
+        1448,
+        1086
+      ],
+      "standard_size": [
+        144,
+        128
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_false_medicine_ticket",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_false_medicine_ticket.png",
+      "sha256": "43b134f7e7d3a2dd407b009967d6fd0a21c932a6ae4aa0c672046049c95f7bc0",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        96,
+        144
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_false_ingot",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/item_false_ingot.png",
+      "sha256": "3f092fe6a368fc0a43528d8bd05cb81ac487059c80c9a438bdc97dd68635bd68",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        128,
+        96
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_banyan_sapling",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_banyan_sapling.png",
+      "sha256": "3cbd56926d71f1f4672d339c2db3364ded163119f15cc0c174b16636ecfea13b",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        160,
+        192
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_fucheng_bg_tile",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_fucheng_bg_tile.png",
+      "sha256": "44bfa0c4889de32e9ead380cea59333a576bc340db5ae287fdeb4d464ba6539a",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_pingxi_bg_tile",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_pingxi_bg_tile.png",
+      "sha256": "0d586c161b34c05d85fbf53fc07e34194f18c9578681afea541775ca034d08ac",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_donggang_bg_tile",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_donggang_bg_tile.png",
+      "sha256": "62cc8995f4a90d0bc2b5d16747808eb65ef215e935e17cf73f6ec23ec466aa26",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_dakeng_bg_tile",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_dakeng_bg_tile.png",
+      "sha256": "95e9bc82a8d8ce77b02edeae6e33589f39a6ea1e1b13b3968e63b202e9481c32",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_jingjie_bg_tile",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_jingjie_bg_tile.png",
+      "sha256": "6e13b82c78c92e41dc765ad900903893e3604a7c632bdee017fd289f9de8af54",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_zhongyuan_bg_tile",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_zhongyuan_bg_tile.png",
+      "sha256": "c06fbaebccd8d0b8134aee3120d4d1161806282935ffddda425adc2e3997fa74",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_dihua_shophouse",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_dihua_shophouse.png",
+      "sha256": "644dbaaea18c7ff754955d91628d7ff898b8e8326a29e7ee50140a022f35a21d",
+      "native_size": [
+        1199,
+        1312
+      ],
+      "standard_size": [
+        320,
+        400
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_fucheng_alley_wall",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_fucheng_alley_wall.png",
+      "sha256": "d4fa6a29e9c7a4d492d7bc5bcca1264f87abba8fc91f59ced29031beab45a5cf",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        360,
+        256
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_pingxi_mine_cart",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_pingxi_mine_cart.png",
+      "sha256": "f0c5458ef5712cfee4a1d3f5003dd327f62a2b96ab9e3faa8a3a2cae69942661",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        224
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_dakeng_trail_steps",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/terrain_dakeng_trail_steps.png",
+      "sha256": "5febcc2d2a64e434bb5393313f4a7c051c19f7e027ee38510a96d4645c8bdfe8",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        320
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_yingge_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_yingge_scene.png",
+      "sha256": "916a241f41a488fe97b8992cc4e23f234983f3be5bd4123c862bb178edec852c",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_jiantan_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_jiantan_scene.png",
+      "sha256": "3326343f628a3dfa644ce730783b9eca7ffbcac7edd374c192b1a2ae16551b53",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "title_bg",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/title_bg.png",
+      "sha256": "f4ba3f6f9b9b3d7fcf39faaf13328e1c1e6aaaefb7661ab234c55cd68fe008fe",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1920,
+        1080
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "v088_home_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_chiayi_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_chiayi_scene.png",
+      "sha256": "a11f269daa53b1088fbcc1d5263acdd6e8a0443d3566bf253081ba73ee3b4765",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_beihai_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_beihai_scene.png",
+      "sha256": "c4e1827a80a839c4040cd62d6e6a5ab7d29169d4611e71786fdb2059e86ed38c",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_tamsui_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_tamsui_scene.png",
+      "sha256": "95c6999a82f946a36c3099673b20a0d978fe6e323d297dc13b3254b47b397c58",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_village_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_village_scene.png",
+      "sha256": "cef3cca121d59fd52421197642e5f4ad2ed86a5d08eadc76e4e2304cafb2ffeb",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_mountain_scene",
+      "file": "/workspace/scratch/63e2ea01db39/work/generated/v088_stages/stage_mountain_scene.png",
+      "sha256": "bc6c1d893e2d9d862ab90e8a4da6879f85cbe5f8696e0a6fbe1934c04bfdd693",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "qa_status": "passed_visual_and_file_review",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    }
+  ]
+}

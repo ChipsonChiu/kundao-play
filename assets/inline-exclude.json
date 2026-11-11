@@ -1,0 +1,272 @@
+{
+ "note": "內嵌版（dist/kundao-phase1-inline.html，供 Claude artifact 與離線單檔）不嵌入這些 ID，以符合 artifact 16 MB 上限；外部素材版與 GitHub Pages 仍提供全部 437 項。接上鉤子後把 ID 從這裡拿掉再 build。；v0.85：R2 新增 174 項中只有八位現行神明（deity_*）接進降駕，其餘列在 R2 分組；v0.88：接線的道途、首領與鏡像素材改存 WebP 並內嵌，R3.1 八張場景原畫不內嵌",
+ "updated": "v0.137",
+ "groups": [
+  {
+   "reason": "乩童道途與紙標線未實作",
+   "ids": [
+    "card_angbiao_spear",
+    "card_angbiao_ring",
+    "card_angbiao_wheel",
+    "card_angbiao_back"
+   ]
+  },
+  {
+   "reason": "廟埕與結算畫面圖示尚未接線",
+   "ids": [
+    "icon_innate_sanqi",
+    "icon_innate_junchen",
+    "icon_innate_zifu",
+    "icon_innate_riyue",
+    "icon_innate_huotan",
+    "icon_innate_wenqu",
+    "icon_innate_jiyue",
+    "icon_innate_shapolang",
+    "icon_root_lei",
+    "icon_root_bing",
+    "icon_root_feng",
+    "icon_root_an",
+    "icon_root_guang",
+    "icon_bless_1",
+    "icon_bless_2",
+    "icon_bless_3",
+    "icon_bless_4",
+    "icon_bless_5",
+    "icon_bless_6",
+    "icon_bless_7",
+    "icon_bless_8",
+    "icon_bless_9",
+    "icon_bless_10",
+    "icon_bless_11"
+   ]
+  },
+  {
+   "reason": "地形物件尚未接線（等 Phase 3 地形與碰撞規則）",
+   "ids": [
+    "tree_trunk",
+    "terrain_trunk_wide",
+    "terrain_shrine_wall",
+    "terrain_grass_tile_b",
+    "terrain_path_tile",
+    "terrain_gate",
+    "terrain_water_tile"
+   ]
+  },
+  {
+   "reason": "介面備用圖",
+   "ids": [
+    "title_paper",
+    "ui_hud_frame",
+    "ui_hp_bar",
+    "ui_xp_bar",
+    "ui_card_class",
+    "ui_polarity_frame_yang",
+    "ui_polarity_frame_yin",
+    "ui_card_yang",
+    "ui_card_yin"
+   ]
+  },
+  {
+   "reason": "劫難備用圖",
+   "ids": [
+    "trial_zhongkui_sha"
+   ]
+  },
+  {
+   "ids": [
+    "player_fu_male",
+    "player_jian_male",
+    "player_yao_female"
+   ],
+   "reason": "R2 主角變體與企劃道途（宋江武者、乩童、偶師；少女修士、少女符師、青年藥師已於 v0.86 接線）"
+  },
+  {
+   "ids": [
+    "beast_crane",
+    "beast_dragon_blue",
+    "beast_dragon_jade",
+    "beast_fox",
+    "beast_golden_toad",
+    "beast_phoenix",
+    "beast_qilin",
+    "beast_tortoise"
+   ],
+   "reason": "R2 純美術未接線（靈獸）"
+  },
+  {
+   "ids": [
+    "item_crystal",
+    "item_fortune_cup",
+    "item_gourd_red",
+    "item_herb",
+    "item_incense_bowl",
+    "item_ingot_medium",
+    "item_ingot_small",
+    "item_ingot_stack",
+    "item_medicine_ticket",
+    "item_potion",
+    "item_soulflame",
+    "item_yang_bell",
+    "item_yang_gourd",
+    "item_yang_lotus",
+    "item_yang_mirror",
+    "item_yang_peach",
+    "item_yang_ruyi",
+    "item_yang_sword",
+    "item_yin_beads",
+    "item_yin_censer",
+    "item_yin_mirror",
+    "item_yin_scroll",
+    "item_yin_soul_jar",
+    "item_yin_tablet"
+   ],
+   "reason": "R2 純美術未接線（道具）"
+  },
+  {
+   "ids": [
+    "icon_debuff_down",
+    "icon_dialogue",
+    "icon_notice",
+    "icon_question",
+    "icon_skill_dragon",
+    "icon_skill_healing",
+    "icon_skill_soulflame",
+    "icon_skill_talisman",
+    "icon_stat_defense",
+    "icon_stat_earth",
+    "icon_stat_speed",
+    "icon_stat_spirit",
+    "icon_stat_taiji",
+    "icon_stat_water",
+    "icon_stat_wood"
+   ],
+   "reason": "R2 純美術未接線（圖示）"
+  },
+  {
+   "ids": [
+    "terrain_bridge",
+    "terrain_small_shrine",
+    "terrain_straw_hut",
+    "terrain_temple_gold",
+    "terrain_tree_round"
+   ],
+   "reason": "R2 純美術未接線（地形物件）"
+  },
+  {
+   "ids": [
+    "btn_enhance"
+   ],
+   "reason": "R2 純美術未接線（按鈕）"
+  },
+  {
+   "ids": [
+    "ui_frame_landscape",
+    "ui_frame_portrait"
+   ],
+   "reason": "R2 純美術未接線（介面）"
+  },
+  {
+   "ids": [
+    "boss_nianshou",
+    "boss_shenyuan_jumang",
+    "item_pangu_axe",
+    "npc_fan_jiangjun",
+    "npc_xie_jiangjun"
+   ],
+   "reason": "R2 企劃概念（planning_concept）"
+  },
+  {
+   "ids": [
+    "boss_tianmo_fu_male",
+    "boss_tianmo_jian_male",
+    "boss_tianmo_jitong_male",
+    "boss_tianmo_songjiang_male",
+    "boss_tianmo_yao_female",
+    "boss_xinmo_fu_male",
+    "boss_xinmo_jian_male",
+    "boss_xinmo_jitong_male",
+    "boss_xinmo_songjiang_male",
+    "boss_xinmo_yao_female"
+   ],
+   "reason": "R2 第七鯤身鏡像首領（planned_phase7）"
+  },
+  {
+   "name": "R4 新增未接線（場景原畫、祖靈盟約、陰神廟影、鏡像小妖其餘、候選偶師與補充）",
+   "ids": [
+    "icon_stat_fire",
+    "icon_stat_metal",
+    "terrain_bridge_broken",
+    "terrain_mine_collapse",
+    "item_false_ingot",
+    "item_false_medicine_ticket"
+   ]
+  },
+  {
+   "name": "R4 新增圖包未內嵌（分層基底、暖光圖層、偶師候選、正面尪仔標）",
+   "ids": [
+    "shrine_unoffered_base",
+    "shrine_offered_base"
+   ]
+  },
+  {
+   "name": "v0.107 退回未用：帶字按鈕皮與標題裝飾（文字重疊、遮住標題）",
+   "ids": [
+    "btn_primary_pressed",
+    "btn_confirm",
+    "btn_deploy",
+    "btn_upgrade",
+    "btn_cancel",
+    "title_lantern",
+    "ui_cloud"
+   ]
+  },
+  {
+   "name": "v0.108 退回未用：冥府帳本底圖與結算數值圖示（Dong 回報重疊、過大）",
+   "ids": [
+    "ui_underworld_ledger",
+    "icon_stat_attack",
+    "icon_stat_hp",
+    "item_money_pouch"
+   ]
+  },
+  {
+   "name": "v0.113 退回未用：尪仔標分階圖與命中特效（Dong：標圖固定兩張、命中不出動畫）、廟前紅燭香束",
+   "ids": [
+    "proj_biao_back",
+    "proj_biao_back_yang",
+    "proj_biao_back_yin",
+    "proj_angbiao_spear",
+    "proj_angbiao_ring",
+    "proj_angbiao_wheel",
+    "fx_angbiao_spear",
+    "fx_angbiao_ring",
+    "fx_angbiao_wheel",
+    "fx_biao_hit",
+    "fx_biao_hit_yang",
+    "fx_biao_hit_yin",
+    "item_candle",
+    "item_incense_sticks"
+   ]
+  },
+  {
+   "name": "v0.116 分析後移除的地圖物件：水岸是不透明地磚、倒木與圓木是特寫道具、火盆與香案是廟內物、坑洞與石階與花拱單獨出現不合理",
+   "ids": [
+    "terrain_water_edge",
+    "terrain_fallen_log",
+    "terrain_logs",
+    "terrain_brazier",
+    "terrain_cave",
+    "terrain_dakeng_trail_steps",
+    "terrain_flower_arch",
+    "terrain_incense_altar"
+   ]
+  },
+  {
+   "name": "v0.126 退出：頁面場景上的判官與廟祝人物疊圖（Dong：不要這種圖）",
+   "ids": [
+    "npc_panguan",
+    "npc_temple_attendant"
+   ]
+  }
+ ]
+}

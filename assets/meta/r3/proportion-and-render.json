@@ -1,0 +1,40 @@
+{
+  "assumptions": {
+    "human_height_m": 1.75,
+    "human_visible_height_world_px": 60,
+    "world_px_per_m_approx": 34.2857,
+    "camera": "3/4 view, slightly top-down; illustrative proportions, not photorealism"
+  },
+  "sizes_world_px": {
+    "player_jian_width": 39.87,
+    "player_fu_width": 29.21,
+    "player_yao_width": 35.92,
+    "player_jitong_width": 35.92,
+    "tree_width": [
+      128,
+      192
+    ],
+    "shrine_width": 126,
+    "lantern_pole_width": 43,
+    "grass_width": 22,
+    "rock_width": 34,
+    "bush_width": 42,
+    "stump_width": 38,
+    "player_songjiang_width": 35.13,
+    "player_oushi_width": 28.82
+  },
+  "collision": "原包規格：trunk collision radii 沿用，未在本輪驗證遊戲執行；新增場景與道具須另外接入碰撞。",
+  "pagoda": "Conjured warding artifact tower, not human-scale architecture. 1..9 physical drawn storeys; fixed base anchor 0.5,878/960.",
+  "render_order": [
+    "ground",
+    "ground effects",
+    "depth-sorted objects and actors by ground y",
+    "status and projectiles",
+    "HUD"
+  ],
+  "tree_occlusion": "原包規格：人物位於鄰近樹後時使用0.38 alpha；本輪未驗證遊戲執行。",
+  "revision": "R3.1",
+  "new_hero_visible_height_world_px": 60,
+  "inherited_game_rules_status": "collision、tree_occlusion、render_order 沿用原包設定文字；未取得遊戲程式，未測試執行效果。",
+  "geometry_only_export": "新PNG標準尺寸沿用R2；先按alpha可見邊界等比縮小，再裝入原畫布。未改顏色、輪廓或繪製圖像。"
+}

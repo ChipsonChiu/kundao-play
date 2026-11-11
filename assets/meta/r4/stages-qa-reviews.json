@@ -1,0 +1,2259 @@
+{
+  "revision": "R4 / v0.88",
+  "source_document": "背景設定.md（2026-11-07版）",
+  "source_read_status": "已完整閱讀並依場景、地形、地標、事件物件與試煉範圍對應",
+  "counts": {
+    "unique_primary_requirements": 130,
+    "retained_existing": 83,
+    "new_primary_ids": 38,
+    "replaced_existing_ids": 9,
+    "selected_independent_pngs": 47,
+    "alias_ids": 1,
+    "selected_export_ids_including_alias": 48
+  },
+  "selected_kind_counts": {
+    "scenes": 16,
+    "transparent_landmarks_terrain_pickups": 25,
+    "opaque_ground_tiles": 6
+  },
+  "active_stages": [
+    {
+      "stage": "鶯歌",
+      "id": "stage_yingge_scene",
+      "artist": "藍蔭鼎",
+      "action": "replace"
+    },
+    {
+      "stage": "劍潭",
+      "id": "stage_jiantan_scene",
+      "artist": "林玉山",
+      "action": "replace"
+    },
+    {
+      "stage": "府城",
+      "id": "stage_fucheng_scene",
+      "artist": "陳澄波",
+      "action": "generate"
+    },
+    {
+      "stage": "平溪",
+      "id": "stage_pingxi_scene",
+      "artist": "江兆申",
+      "action": "generate"
+    },
+    {
+      "stage": "東港",
+      "id": "stage_donggang_scene",
+      "artist": "楊三郎",
+      "action": "generate"
+    },
+    {
+      "stage": "大坑",
+      "id": "stage_dakeng_scene",
+      "artist": "席德進",
+      "action": "generate"
+    },
+    {
+      "stage": "鏡界",
+      "id": "stage_jingjie_scene",
+      "artist": "陳進",
+      "action": "generate"
+    },
+    {
+      "stage": "慶中元",
+      "id": "stage_dadaocheng_scene",
+      "artist": "郭雪湖",
+      "action": "replace",
+      "alias": "stage_zhongyuan_scene"
+    }
+  ],
+  "supplementary_scene_ids": [
+    "stage_chiayi_scene",
+    "stage_beihai_scene",
+    "stage_tamsui_scene",
+    "stage_village_scene",
+    "stage_mountain_scene"
+  ],
+  "selected_asset_checks": [
+    {
+      "id": "stage_fucheng_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "府城夜巷、林投樹與遠景赤崁樓提案，前景留有活動空地；屋脊放大確認為花磚圖樣，未混入中元供桌。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_01.jpg",
+      "sha256": "749b6e3c2077d1e7d77e32dd3ec586fab121f882360c646eb9ff029727a57cac",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_pingxi_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "礦坑、軌道、簡廟與山霧分層清楚；天燈只作小型暖色亮點，粗棕線平面造型與原包一致。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_01.jpg",
+      "sha256": "5f4c522c5eaf968bdf2d0a7455cb792ba16444f0dc25786cbf2dce30258c7a05",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_donggang_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "木造王船、港灣與樸實廟埕共存；船體作木造帆船表現，未畫神明本尊或紙偶神像。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_01.jpg",
+      "sha256": "041e10c663db4da648d0b4fcf8e0ad92a974dbdad267c485be95bfd8108a6e71",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_dakeng_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "步橋、圓木山徑、霧林與簡廟採同一平面畫法；蝴蝶橋為設定用虛構橋形，未宣稱實景復原。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_01.jpg",
+      "sha256": "2475147198bc632026fb5ba1d7c8f1573fc3e5970a9013a8d717889e3f0faa83",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_jingjie_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "台灣生活庭院與積水反射鶯歌石、蓮池、礦洞、王船、橋等地景；沒有異國宮殿或浮空聖境。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_01.jpg",
+      "sha256": "a5313faba6b377a689cd1b5f530b087e0224eab6edeabf14741ae1ab45d03f1f",
+      "native_size": [
+        1774,
+        887
+      ],
+      "standard_size": [
+        1536,
+        864
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_dadaocheng_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "大稻埕迪化街中元夜，街屋、燈篙、供桌與水燈可辨；逐字檢視茶行、布莊、南北貨、中元普渡，未見日文招牌。夜景為遊戲改編。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_01.jpg",
+      "sha256": "91cf8076019b54bf2b5bb6d09f61848c856125e7b3a9122cdd70912f78a72e9e",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [
+        "stage_zhongyuan_scene"
+      ],
+      "alias_sizes": {
+        "stage_zhongyuan_scene": [
+          1536,
+          1024
+        ]
+      }
+    },
+    {
+      "id": "scene_temple_hall",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "紅磚、木構、石地與空置神龕，僅留香爐、燭台、籤筒及筊杯等象徵物；無神明本尊。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_02.jpg",
+      "sha256": "f21d74bbc9cad63c76244ff00458a7712c518cec86880eebcdde4be08a69d671",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "scene_underworld_hall",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "樸實木房與大幅空白紙帳，細淡赭框、油燈、筆與硯台；沒有華麗宮殿、金光或審判者人像。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_02.jpg",
+      "sha256": "17058e57f6e610b116e0d1689b6ba87279390d78c0f0305ab6794a6d3375313f",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_chihkan",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "赤崁樓輪廓採雙亭與紅磚基座的遊戲提案，構件簡化、棕色粗線，完整透明輪廓。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_02.jpg",
+      "sha256": "35a1b69e6d56528500574727f899b1e6bbd10bf123500f238abd0d1a31230c28",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        520,
+        400
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_moshen_cave",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "石砌礦口、木支架、短軌與小燈；黑暗洞口屬不透明物件內容，外緣透明正常。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_02.jpg",
+      "sha256": "c08128ae87dcdd99ba5a06e5fd4db5442bac8f49b5e5a9ea836e9be6f19dcd02",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        520,
+        400
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_wangchuan",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "彩繪木船、單桅竹帆與木架，船首眼紋與帆形可辨，無紙神像。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_02.jpg",
+      "sha256": "8d3f859c7f476193d5147d7fcc051d161059d4457a641ea8e5c50586e951df16",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        640,
+        480
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_butterfly_bridge",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "圓木橋面與蝶翼曲線欄杆，完整橋段；設定名稱尚未查證，明列為虛構步橋。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_02.jpg",
+      "sha256": "31c51d315027e2ccdba3fd09702c4d793c63e02d6f4427cda349e18c71c5db88",
+      "native_size": [
+        1774,
+        887
+      ],
+      "standard_size": [
+        520,
+        320
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "landmark_wangchuan_burning",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "與未燃王船保持同一船身、單桅帆及木架，以少量平面火焰與灰煙呈現事件狀態。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_03.jpg",
+      "sha256": "375d889acec528ae8d47265263bba6afe3fef07830ae49268c8de1213e7c062b",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        640,
+        480
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_bridge_broken",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "與完整蝴蝶橋同一欄杆及端點，中央橋板缺口明確，狀態變更可一眼分辨。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_03.jpg",
+      "sha256": "4c8b747915affb4f4cad3eed710ece2c6d3f0f6359cf94e421d5d6fd1581a3fc",
+      "native_size": [
+        1774,
+        887
+      ],
+      "standard_size": [
+        520,
+        320
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_lintou_tree",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "長葉束、支柱根與橙色聚合果，林投樹特徵經遊戲式簡化；無人臉、吊掛或死亡描寫。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_03.jpg",
+      "sha256": "dc901c2a745c1cce23716c065d5f9bbdb861cfddd58e22a82bbc18529937dc79",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        320
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_mine_collapse",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "灰褐巨石與折斷木支架構成堵路堆，無人物或血腥內容，透明邊緣清楚。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_03.jpg",
+      "sha256": "9ce8c70fea8d111170498b0c89d35ecf9063cc1a5ffbf994a653682f7c7dd02d",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        320,
+        240
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_lantern_gao",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "綠竹直篙保留葉尖、燈籠、七盞小燈及素白布幡；屬遊戲視覺化道具，未使用日式繩飾或鳥居。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_03.jpg",
+      "sha256": "6fb15257c9cf957210772c5acc2b6a12f6412c90dd40caa3acf6dbeff6bb9eda",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "standard_size": [
+        180,
+        480
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_pudu_table",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "米飯、包子、橘子、香蕉、香爐與雙燭集中於樸素木供桌，旗面留白，沒有神像。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_03.jpg",
+      "sha256": "bf476e108861528b6c6cc23281fd187eea5f49247ad01ad01a87df421898cfad",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        360,
+        256
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_deliver_incense",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "低矮木桌、褪紅布、三枝香及雙燭，與另兩壇保持同系列比例。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_04.jpg",
+      "sha256": "9d6f6b12c8e18ea48c75bd9e48a4d55edf0b16fd06745d02d5c8772b71390844",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_deliver_gold",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "相同木桌與褪紅布語彙，灰金爐及啞赭色金紙清楚可辨，無華麗金箔效果。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_04.jpg",
+      "sha256": "c810dd62f44ba6f5e778fdd91e678c0ca42b6c62cbbbc8b59da5dcfef9bf6bd0",
+      "native_size": [
+        1430,
+        1100
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_deliver_water",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "相同木桌配水槽與屋形紙水燈；桌上水槽為縮圖辨識的遊戲化配置。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_04.jpg",
+      "sha256": "b83fe8e665bd584de842852bdca32c63432e40c4eecd740be3f6cb55e813cd21",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_guoxing_cannon",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "短鑄鐵砲與木輪底座，輪廓完整、低彩灰褐，不加炮彈、爆炸或軍事徽誌。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_04.jpg",
+      "sha256": "03aa57a41373b0e70b597b2e3d2f1763378914513bafe645020fc119ae49d89c",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        128,
+        96
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_jiantan_sunken_sword",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "直身雙刃短劍、簡單劍格、苔色水痕與水滴；無日本刀彎曲輪廓或華麗寶石。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_04.jpg",
+      "sha256": "7f1cb04406e548a27795ea9de27c7decf1540bdaba598e85d84d78c61fccadf8",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        128,
+        160
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_pingxi_sky_lantern",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "樸素紅白紙天燈、底部竹骨與小火光，無文字或日式吊飾。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_04.jpg",
+      "sha256": "7df13f71a42f169e78f17f78d12af4b12415384b6cccb32a01fd14f7d5d5f5d8",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        128,
+        160
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_donggang_exorcism_talisman",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "黃紙與朱紅虛構符紋、細紅繩，沒有可讀咒文或御守布袋造型。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_05.jpg",
+      "sha256": "e75875cfa1918aa95ece67558b90df11edf7feb0edaeee86e51adff786141835",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "standard_size": [
+        96,
+        144
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_water_lantern",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "沿用超渡水燈壇中的紅頂紙屋與竹浮座，少量藍色水紋，形成可共用的拾取圖。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_05.jpg",
+      "sha256": "6b8741158c8ce37e4437d498ba397945a7c1b3a8f812b5aba46cf5fa0678bd0d",
+      "native_size": [
+        1448,
+        1086
+      ],
+      "standard_size": [
+        144,
+        128
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_false_medicine_ticket",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "米白紙籤與非可讀紅筆紋，折角下露枯葉，假藥籤誘餌特徵清楚；無實際藥方文字。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_05.jpg",
+      "sha256": "43b134f7e7d3a2dd407b009967d6fd0a21c932a6ae4aa0c672046049c95f7bc0",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        96,
+        144
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "item_false_ingot",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "啞赭元寶缺口露出石子與草葉，沒有閃光或昂貴金屬質感；為誘餌的遊戲設計。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_05.jpg",
+      "sha256": "3f092fe6a368fc0a43528d8bd05cb81ac487059c80c9a438bdc97dd68635bd68",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        128,
+        96
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_banyan_sapling",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "幼榕冠、盤根、兩條氣根與種子，樹形簡化，沒有怪臉或神聖圖紋。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_05.jpg",
+      "sha256": "3cbd56926d71f1f4672d339c2db3364ded163119f15cc0c174b16636ecfea13b",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        160,
+        192
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_fucheng_bg_tile",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "冷灰石板與微赭反光，已檢視2×2重複，未見白邊或強烈框線。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_05.jpg",
+      "sha256": "44bfa0c4889de32e9ead380cea59333a576bc340db5ae287fdeb4d464ba6539a",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_pingxi_bg_tile",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "煤灰褐色泥地、微小碎石與低對比斑塊，已檢視2×2重複。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_06.jpg",
+      "sha256": "0d586c161b34c05d85fbf53fc07e34194f18c9578681afea541775ca034d08ac",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_donggang_bg_tile",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "港埕淺赭砂地與淡灰磨損斑塊，維持原包地表材質密度，已檢視2×2重複。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_06.jpg",
+      "sha256": "62cc8995f4a90d0bc2b5d16747808eb65ef215e935e17cf73f6ec23ec466aa26",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_dakeng_bg_tile",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "褐土、少量橄欖色落葉點及小石，低對比避免妨礙角色，已檢視2×2重複。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_06.jpg",
+      "sha256": "95e9bc82a8d8ce77b02edeae6e33589f39a6ea1e1b13b3968e63b202e9481c32",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_jingjie_bg_tile",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "淡青灰濕石面與克制磚紅反色，沒有可讀建物或人物，已檢視2×2重複。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_06.jpg",
+      "sha256": "6e13b82c78c92e41dc765ad900903893e3604a7c632bdee017fd289f9de8af54",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_zhongyuan_bg_tile",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "夜間藍灰石板與小赭色反光，已檢視2×2重複，無燈籠或供品被烘焙到地面。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_06.jpg",
+      "sha256": "c06fbaebccd8d0b8134aee3120d4d1161806282935ffddda425adc2e3997fa74",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "standard_size": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_dihua_shophouse",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "迪化街窄街屋、簡化山牆、紅磚、綠百葉窗與茶罐，招牌留白，無日文。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_06.jpg",
+      "sha256": "644dbaaea18c7ff754955d91628d7ff898b8e8326a29e7ee50140a022f35a21d",
+      "native_size": [
+        1199,
+        1312
+      ],
+      "standard_size": [
+        320,
+        400
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_fucheng_alley_wall",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "紅磚、圓窗、木門、門檻與素紅燈籠，構件適合單獨疊放，無文字。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_07.jpg",
+      "sha256": "d4fa6a29e9c7a4d492d7bc5bcca1264f87abba8fc91f59ced29031beab45a5cf",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        360,
+        256
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_pingxi_mine_cart",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "鏽灰礦車、煤塊與短軌，簡化棕線輪廓完整，沒有駕駛或不必要裝飾。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_07.jpg",
+      "sha256": "f0c5458ef5712cfee4a1d3f5003dd327f62a2b96ab9e3faa8a3a2cae69942661",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        224
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "terrain_dakeng_trail_steps",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "六級圓木步階與雙側木扶手、兩簇蕨葉，原包式塊面清楚。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_07.jpg",
+      "sha256": "5febcc2d2a64e434bb5393313f4a7c051c19f7e027ee38510a96d4645c8bdfe8",
+      "native_size": [
+        1312,
+        1199
+      ],
+      "standard_size": [
+        256,
+        320
+      ],
+      "mode": "RGBA",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_yingge_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "保留左陶窯、右廟宇、中央空地與後方鶯歌石意象，全部改為原包粗棕線平面畫法。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_07.jpg",
+      "sha256": "916a241f41a488fe97b8992cc4e23f234983f3be5bd4123c862bb178edec852c",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_jiantan_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "保留左荷塘、右大榕及小祠、前方開放地面，低彩青綠與林玉山空間參照不改變畫法。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_07.jpg",
+      "sha256": "3326343f628a3dfa644ce730783b9eca7ffbcac7edd374c192b1a2ae16551b53",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "v088_setting_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "title_bg",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "左側榕樹、中央樸素廟宇、左右街屋與石椅，天空及下方廟埕可覆蓋標題與選單，沒有圖中文字。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_07.jpg",
+      "sha256": "f4ba3f6f9b9b3d7fcf39faaf13328e1c1e6aaaefb7661ab234c55cd68fe008fe",
+      "native_size": [
+        1672,
+        941
+      ],
+      "standard_size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "status": "v088_home_art",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_chiayi_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "補充概念：保留街屋、榕樹與廟埕布局，暖磚紅與赭色全部轉為粗棕線平面。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_08.jpg",
+      "sha256": "a11f269daa53b1088fbcc1d5263acdd6e8a0443d3566bf253081ba73ee3b4765",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_beihai_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "補充概念：保留海灣、低石牆與右側廟宇、開放港埕，使用藍赭配色與簡化輪廓。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_08.jpg",
+      "sha256": "c4e1827a80a839c4040cd62d6e6a5ab7d29169d4611e71786fdb2059e86ed38c",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_tamsui_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "補充概念：河岸、低牆、左側廟宇與遠山採淡藍灰及暖白，延續原包平面造型。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_08.jpg",
+      "sha256": "95c6999a82f946a36c3099673b20a0d978fe6e323d297dc13b3254b47b397c58",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_village_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "補充概念：台灣農村廟前庭院、紅瓦白牆與陶盆，保持低彩日常空間及大塊輪廓；神龕僅香爐與雙燭，無神明本尊。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_08.jpg",
+      "sha256": "cef3cca121d59fd52421197642e5f4ad2ed86a5d08eadc76e4e2304cafb2ffeb",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    },
+    {
+      "id": "stage_mountain_scene",
+      "qa_status": "passed_visual_and_file_review",
+      "qa_note": "補充概念：山徑、側溪、層疊遠山與圓樹冠，採原包粗線造型，沒有混入廟宇與族群神聖圖紋。",
+      "qa_evidence": "work/v088_stages_qa/comparison_selected_08.jpg",
+      "sha256": "bc6c1d893e2d9d862ab90e8a4da6879f85cbe5f8696e0a6fbe1934c04bfdd693",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "standard_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "supplementary_concept",
+      "aliases": [],
+      "alias_sizes": {}
+    }
+  ],
+  "retained_existing_checks": [
+    {
+      "id": "title_logo",
+      "name": "title_logo",
+      "category": "開場",
+      "standard_size": [
+        1024,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "title_paper",
+      "name": "title_paper",
+      "category": "開場",
+      "standard_size": [
+        1024,
+        768
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "title_lantern",
+      "name": "title_lantern",
+      "category": "開場",
+      "standard_size": [
+        128,
+        192
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "rock_yingge",
+      "name": "鶯歌石",
+      "category": "其他",
+      "standard_size": [
+        520,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "landmark_jiantan",
+      "name": "劍潭",
+      "category": "地標",
+      "standard_size": [
+        520,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "shrine",
+      "name": "土地公廟",
+      "category": "其他",
+      "standard_size": [
+        144,
+        144
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "shrine_used",
+      "name": "已參拜土地公廟",
+      "category": "其他",
+      "standard_size": [
+        144,
+        144
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_guohuo_field",
+      "name": "trial_guohuo_field",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_guohuo_coal",
+      "name": "trial_guohuo_coal",
+      "category": "渡劫",
+      "standard_size": [
+        64,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_daoti_ladder",
+      "name": "trial_daoti_ladder",
+      "category": "渡劫",
+      "standard_size": [
+        256,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_daoti_blade",
+      "name": "trial_daoti_blade",
+      "category": "渡劫",
+      "standard_size": [
+        64,
+        24
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qixing_lamp_off",
+      "name": "trial_qixing_lamp_off",
+      "category": "渡劫",
+      "standard_size": [
+        64,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qixing_lamp_on",
+      "name": "trial_qixing_lamp_on",
+      "category": "渡劫",
+      "standard_size": [
+        64,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qixing_floor",
+      "name": "trial_qixing_floor",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qianggu_tower",
+      "name": "trial_qianggu_tower",
+      "category": "渡劫",
+      "standard_size": [
+        320,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qianggu_ring",
+      "name": "trial_qianggu_ring",
+      "category": "渡劫",
+      "standard_size": [
+        320,
+        320
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_zhongkui_mask",
+      "name": "trial_zhongkui_mask",
+      "category": "渡劫",
+      "standard_size": [
+        96,
+        96
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_zhongkui_sha",
+      "name": "trial_zhongkui_sha",
+      "category": "渡劫",
+      "standard_size": [
+        128,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_zhongkui_path",
+      "name": "trial_zhongkui_path",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_leijie_cloud",
+      "name": "trial_leijie_cloud",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_leijie_mark",
+      "name": "trial_leijie_mark",
+      "category": "渡劫",
+      "standard_size": [
+        128,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_leijie_bolt",
+      "name": "trial_leijie_bolt",
+      "category": "渡劫",
+      "standard_size": [
+        96,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_dajie_gate",
+      "name": "試煉門・閉合",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_banner_small",
+      "name": "trial_banner_small",
+      "category": "渡劫",
+      "standard_size": [
+        256,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_banner_mid",
+      "name": "trial_banner_mid",
+      "category": "渡劫",
+      "standard_size": [
+        256,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_banner_late",
+      "name": "trial_banner_late",
+      "category": "渡劫",
+      "standard_size": [
+        256,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_guohuo_field_mid",
+      "name": "trial_guohuo_field_mid",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_guohuo_field_late",
+      "name": "trial_guohuo_field_late",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_daoti_ladder_mid",
+      "name": "trial_daoti_ladder_mid",
+      "category": "渡劫",
+      "standard_size": [
+        256,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_daoti_ladder_late",
+      "name": "trial_daoti_ladder_late",
+      "category": "渡劫",
+      "standard_size": [
+        256,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qixing_floor_mid",
+      "name": "trial_qixing_floor_mid",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qixing_floor_late",
+      "name": "trial_qixing_floor_late",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qianggu_tower_mid",
+      "name": "trial_qianggu_tower_mid",
+      "category": "渡劫",
+      "standard_size": [
+        320,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qianggu_tower_late",
+      "name": "trial_qianggu_tower_late",
+      "category": "渡劫",
+      "standard_size": [
+        320,
+        400
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qianggu_ring_mid",
+      "name": "trial_qianggu_ring_mid",
+      "category": "渡劫",
+      "standard_size": [
+        320,
+        320
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_qianggu_ring_late",
+      "name": "trial_qianggu_ring_late",
+      "category": "渡劫",
+      "standard_size": [
+        320,
+        320
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_zhongkui_path_mid",
+      "name": "trial_zhongkui_path_mid",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_zhongkui_path_late",
+      "name": "trial_zhongkui_path_late",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_leijie_cloud_mid",
+      "name": "trial_leijie_cloud_mid",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_leijie_cloud_late",
+      "name": "trial_leijie_cloud_late",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_dajie_gate_mid",
+      "name": "試煉門・半開",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "trial_dajie_gate_late",
+      "name": "試煉門・開啟",
+      "category": "渡劫",
+      "standard_size": [
+        512,
+        512
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_rock",
+      "name": "小岩群",
+      "category": "地形物件",
+      "standard_size": [
+        80,
+        60
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_boulder_big",
+      "name": "大岩",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        120
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_tree_a",
+      "name": "闊葉樹",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_tree_b",
+      "name": "榕樹",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_tree_c",
+      "name": "針葉樹",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_bush",
+      "name": "開花灌木",
+      "category": "地形物件",
+      "standard_size": [
+        96,
+        80
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_stump",
+      "name": "樹樁",
+      "category": "地形物件",
+      "standard_size": [
+        72,
+        72
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_trunk_wide",
+      "name": "terrain_trunk_wide",
+      "category": "地形物件",
+      "standard_size": [
+        80,
+        80
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_grass",
+      "name": "草叢",
+      "category": "地形物件",
+      "standard_size": [
+        64,
+        48
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_reed",
+      "name": "蘆葦",
+      "category": "地形物件",
+      "standard_size": [
+        64,
+        96
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_lantern_pole",
+      "name": "燈籠柱",
+      "category": "地形物件",
+      "standard_size": [
+        64,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_shrine_wall",
+      "name": "紅磚廟牆",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_grass_tile_b",
+      "name": "terrain_grass_tile_b",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_path_tile",
+      "name": "土路地表",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_stone_floor",
+      "name": "廟埕石板",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_water_edge",
+      "name": "池岸",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_fallen_log",
+      "name": "倒木",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        100
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_bamboo",
+      "name": "竹林",
+      "category": "地形物件",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_fence",
+      "name": "木柵欄",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_stone_lantern",
+      "name": "石燈",
+      "category": "地形物件",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_stele",
+      "name": "石碑",
+      "category": "地形物件",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_gate",
+      "name": "紅磚門樓",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_logs",
+      "name": "堆木",
+      "category": "地形物件",
+      "standard_size": [
+        160,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_water_tile",
+      "name": "池水",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_bridge",
+      "name": "木橋",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_tree_pine",
+      "name": "松樹",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_tree_round",
+      "name": "闊葉樹",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_small_shrine",
+      "name": "小祠堂",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_straw_hut",
+      "name": "草屋",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_incense_altar",
+      "name": "香案",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_temple_gold",
+      "name": "紅磚小廟",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_signpost",
+      "name": "木告示牌",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_memorial",
+      "name": "祭碑",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_brazier",
+      "name": "火盆",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_flower_arch",
+      "name": "花拱門",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "terrain_cave",
+      "name": "山洞",
+      "category": "地形物件",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "已檢視既有聯絡表；圖像符合樸實台灣民俗地形與試煉需求。",
+      "qa_contact_sheet": "work/v088_stages_qa/existing_01..03.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "landscape_dragon_vein",
+      "name": "龍脈山水圖",
+      "category": "地標",
+      "standard_size": [
+        256,
+        128
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "山巒溪流景觀，原包粗線輪廓與低彩度層次，未見特定外來宗教符號；作龍脈景觀意象保留。",
+      "qa_contact_sheet": "work/v088_stages_qa/missing_five.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "stage_jiantan_bg_tile",
+      "name": "劍潭草地",
+      "category": "地表貼片",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "低對比綠色地表材質，可沿用劍潭草地底圖。",
+      "qa_contact_sheet": "work/v088_stages_qa/missing_five.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "stage_yingge_bg_tile",
+      "name": "鶯歌草地",
+      "category": "地表貼片",
+      "standard_size": [
+        256,
+        256
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "低對比赭黃綠色地表材質，可沿用鶯歌草地底圖。",
+      "qa_contact_sheet": "work/v088_stages_qa/missing_five.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "tree_canopy",
+      "name": "tree_canopy",
+      "category": "其他",
+      "standard_size": [
+        160,
+        160
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "圓簇樹冠與棕色輪廓，保留原包童趣樹木比例。",
+      "qa_contact_sheet": "work/v088_stages_qa/missing_five.jpg",
+      "qa_status": "retained_visually_reviewed"
+    },
+    {
+      "id": "tree_trunk",
+      "name": "tree_trunk",
+      "category": "其他",
+      "standard_size": [
+        64,
+        64
+      ],
+      "action": "retain",
+      "source_section": "3、4.2",
+      "status": "v088_compatible",
+      "reason": "矮圓樹樁與嫩芽，保留原包童趣樹木比例。",
+      "qa_contact_sheet": "work/v088_stages_qa/missing_five.jpg",
+      "qa_status": "retained_visually_reviewed"
+    }
+  ],
+  "selected_contact_sheets": [
+    "selected_active_stages.jpg",
+    "selected_home_halls.jpg",
+    "selected_supplementary.jpg",
+    "selected_props_01.jpg",
+    "selected_props_02.jpg",
+    "selected_props_03.jpg",
+    "selected_tiles_repeat.jpg"
+  ],
+  "comparison_sheets": [
+    "comparison_selected_01.jpg",
+    "comparison_selected_02.jpg",
+    "comparison_selected_03.jpg",
+    "comparison_selected_04.jpg",
+    "comparison_selected_05.jpg",
+    "comparison_selected_06.jpg",
+    "comparison_selected_07.jpg",
+    "comparison_selected_08.jpg"
+  ],
+  "file_validation": "work/v088_stages_qa/file_validation.json",
+  "working_only_exclusions": [
+    "style-round1",
+    "舊寫實稿與舊版場景參照",
+    "comparison_selected_* 比較表含舊參照，只供工作檢視，正式預覽採selected_*"
+  ],
+  "specific_limits": [
+    "赤崁樓、魔神仔洞與王船地標依背景文件提案創作，非實地精密復原。",
+    "蝴蝶橋名稱未取得地名驗證，標記為虛構步橋。",
+    "大稻埕夜景係v0.88遊戲改編，不宣稱郭雪湖原畫為夜景。",
+    "本工作檢視圖像、檔案與背景文件對應，未執行遊戲程式。"
+  ],
+  "primary_sources": "work/generated/v088_stages/sources.json",
+  "artist_sources": "work/generated/v088_stages/stage-art-v088.json"
+}

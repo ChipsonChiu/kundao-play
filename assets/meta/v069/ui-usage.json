@@ -1,0 +1,26 @@
+{
+  "card_icon_px": 76,
+  "hud_icon_px": 24,
+  "polarity_badge_px": 18,
+  "icon_source": "使用64px原尺寸或128px @2x，不放大低解析截圖。",
+  "yin_yang": "色彩＋形態＋日月徽記三重辨識。",
+  "tower": "一重至九重底部錨點一致；floor count不包含底座與寶珠。",
+  "seal": "中央字形為U+5C01 封，字形已轉路徑；不得翻轉成鏡文字。",
+  "cup_states": {
+    "sheng": [
+      "凸",
+      "平"
+    ],
+    "xiao": [
+      "平",
+      "平"
+    ],
+    "yin": [
+      "凸",
+      "凸"
+    ]
+  },
+  "dragon_frames": "fx_vein_01至03只有星點微移，不是完整龍身動畫；亦可用fx_vein靜態圖。",
+  "surface_coverage": "立體物件與攻擊圖帶透明背景，地板貼片與開場背景例外。",
+  "runtime": "本包只有圖片與對照資料，沒有遊戲或碰撞規則修改。"
+}

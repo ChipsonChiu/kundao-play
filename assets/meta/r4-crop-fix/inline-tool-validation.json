@@ -1,0 +1,37 @@
+{
+  "updated_ids": [
+    "enemy_moshenzai",
+    "enemy_jinmei",
+    "enemy_banyan",
+    "trial_zhongkui_sha"
+  ],
+  "updated_count": 4,
+  "patch_ids_not_used_by_this_html": [
+    "beast_dragon_jade",
+    "btn_upgrade",
+    "fx_dust_puff",
+    "fx_zone_miasma",
+    "icon_stat_spirit",
+    "item_candle",
+    "item_fortune_cup",
+    "item_herb",
+    "item_incense_bowl",
+    "item_incense_sticks",
+    "item_medicine_ticket",
+    "item_oranges",
+    "item_potion",
+    "item_rice",
+    "npc_cat",
+    "terrain_bush",
+    "terrain_fence",
+    "terrain_reed",
+    "terrain_stump"
+  ],
+  "total_existing_assets": 283,
+  "game_code_outside_inline_json_identical": true,
+  "input_sha256": "f0affc38f68f29c8e0c8e671b6a4efb1b7bacaab1976f5a233aa9f6bcffec7ec",
+  "output_sha256": "b37546b306eb2a8594a248cff9a8d257c1193fcab138935fd64a226bc3965574",
+  "tested_source": "v0.70 historical HTML",
+  "is_current_game_integration_test": false,
+  "note": "僅驗證已知內嵌格式的素材替換，不作為目前遊戲已更新的證據。"
+}

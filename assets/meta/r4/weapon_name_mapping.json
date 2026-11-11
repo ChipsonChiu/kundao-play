@@ -1,0 +1,702 @@
+[
+  {
+    "id": "icon_w_sword_1",
+    "name": "鐵砧劍",
+    "line": "sword",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_sword_5",
+    "name": "七星劍",
+    "line": "sword",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_sword_7",
+    "name": "奇萊劍",
+    "line": "sword",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_sword_yang",
+    "name": "玉鯤劍",
+    "line": "sword",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_sword_5_yin",
+    "name": "大武劍",
+    "line": "sword",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_sword_7_yin",
+    "name": "鳶嘴劍",
+    "line": "sword",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_sword_yin",
+    "name": "雪鯓劍・本命",
+    "line": "sword",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_1",
+    "name": "北港鈴",
+    "line": "bell",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_5",
+    "name": "鎮瀾鐘",
+    "line": "bell",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_7",
+    "name": "慈祐鐘",
+    "line": "bell",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_yang",
+    "name": "拱天鐘",
+    "line": "bell",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_5_yin",
+    "name": "古坑鈴",
+    "line": "bell",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_7_yin",
+    "name": "鹿谷鈴",
+    "line": "bell",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_bell_yin",
+    "name": "三地門鈴・本命",
+    "line": "bell",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_1",
+    "name": "松蘿葫蘆",
+    "line": "gourd",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_5",
+    "name": "龍昇葫蘆",
+    "line": "gourd",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_7",
+    "name": "昂天葫蘆",
+    "line": "gourd",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_yang",
+    "name": "嘉明壺",
+    "line": "gourd",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_5_yin",
+    "name": "慈葫蘆",
+    "line": "gourd",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_7_yin",
+    "name": "小鬼葫蘆",
+    "line": "gourd",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_gourd_yin",
+    "name": "大鬼葫蘆・本命",
+    "line": "gourd",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_1",
+    "name": "安平印",
+    "line": "seal",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_5",
+    "name": "艋舺印",
+    "line": "seal",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_7",
+    "name": "鹿港印",
+    "line": "seal",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_yang",
+    "name": "府城印",
+    "line": "seal",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_5_yin",
+    "name": "莿桐印",
+    "line": "seal",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_7_yin",
+    "name": "龍洞印",
+    "line": "seal",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_seal_yin",
+    "name": "烏坵印・本命",
+    "line": "seal",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_1",
+    "name": "澄清鏡",
+    "line": "mirror",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_5",
+    "name": "星泉鏡",
+    "line": "mirror",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_7",
+    "name": "日月鏡",
+    "line": "mirror",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_yang",
+    "name": "天巒鏡",
+    "line": "mirror",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_5_yin",
+    "name": "金獅鏡",
+    "line": "mirror",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_7_yin",
+    "name": "虎頭鏡",
+    "line": "mirror",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_mirror_yin",
+    "name": "九芎鏡・本命",
+    "line": "mirror",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_1",
+    "name": "北投鼎",
+    "line": "ding",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_5",
+    "name": "礁溪鼎",
+    "line": "ding",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_7",
+    "name": "陽明鼎",
+    "line": "ding",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_yang",
+    "name": "関嶺鼎",
+    "line": "ding",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_5_yin",
+    "name": "馬槽鼎",
+    "line": "ding",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_7_yin",
+    "name": "磺谷鼎",
+    "line": "ding",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ding_yin",
+    "name": "知本鼎・本命",
+    "line": "ding",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_1",
+    "name": "恆春琴",
+    "line": "qin",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_5",
+    "name": "蘭陽琴",
+    "line": "qin",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_7",
+    "name": "後龍琴",
+    "line": "qin",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_yang",
+    "name": "秀姑琴",
+    "line": "qin",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_5_yin",
+    "name": "濁水琴",
+    "line": "qin",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_7_yin",
+    "name": "高屏琴",
+    "line": "qin",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_qin_yin",
+    "name": "八掌琴・本命",
+    "line": "qin",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_ta_1",
+    "name": "漁翁塔",
+    "line": "ta",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_ta_5",
+    "name": "芳苑塔",
+    "line": "ta",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_ta_7",
+    "name": "三貂塔",
+    "line": "ta",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_ta_yang",
+    "name": "鵝鑾鼻塔",
+    "line": "ta",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_ta_5_yin",
+    "name": "七美塔",
+    "line": "ta",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_ta_7_yin",
+    "name": "東莒塔",
+    "line": "ta",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_ta_yin",
+    "name": "國聖塔・本命",
+    "line": "ta",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_fu_1",
+    "name": "龍山符",
+    "line": "fu",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_fu_5",
+    "name": "霞海符",
+    "line": "fu",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_fu_7",
+    "name": "指南符",
+    "line": "fu",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_fu_yang",
+    "name": "先嗇符",
+    "line": "fu",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_fu_5_yin",
+    "name": "義爺符",
+    "line": "fu",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_fu_7_yin",
+    "name": "萬善詔",
+    "line": "fu",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_fu_yin",
+    "name": "有應符詔・本命",
+    "line": "fu",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "locked_2026-11-07",
+    "source_section": "4.3",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_biao_1",
+    "name": "新營標",
+    "line": "biao",
+    "stage": "法器",
+    "polarity": "neutral",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_biao_5",
+    "name": "三鳳標",
+    "line": "biao",
+    "stage": "法寶",
+    "polarity": "yang",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_biao_7",
+    "name": "太子宮標",
+    "line": "biao",
+    "stage": "靈寶",
+    "polarity": "yang",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_biao_yang",
+    "name": "南鯤鯓標",
+    "line": "biao",
+    "stage": "神器",
+    "polarity": "yang",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "generate"
+  },
+  {
+    "id": "icon_w_biao_5_yin",
+    "name": "代天標",
+    "line": "biao",
+    "stage": "法寶",
+    "polarity": "yin",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_biao_7_yin",
+    "name": "東隆標",
+    "line": "biao",
+    "stage": "靈寶",
+    "polarity": "yin",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "retain_image_rename"
+  },
+  {
+    "id": "icon_w_biao_yin",
+    "name": "馬鳴標・本命",
+    "line": "biao",
+    "stage": "本命法寶",
+    "polarity": "yin",
+    "name_status": "proposed_current_names",
+    "source_section": "latest_user_amendment",
+    "action": "retain_image_rename"
+  }
+]

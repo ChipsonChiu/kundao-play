@@ -1,0 +1,571 @@
+{
+  "revision": "R4",
+  "selected_count": 47,
+  "checked_utc": "2026-11-06T19:38:32.890112+00:00",
+  "reviews": [
+    {
+      "id": "deity_baosheng",
+      "sha256": "6bc8e1d0d8d84806b935a46e96b5f0144b9b862d8a2bf05e6abc19d123f83989",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_zhongkui",
+      "sha256": "9a25972631615d3e43eebcb072a89dd408af369d7da1eeacecc3f1e4b1a7f813",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_xuantian",
+      "sha256": "b1a1f7071351901666587c81d9d5305be8c699a167c48ce5816a47bc7107f660",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_wangye",
+      "sha256": "575e6f5a3c17b255d77d78594c811e367af73999ec1c53b2a7a0a88a2f28b6a3",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_guandi",
+      "sha256": "bcaaa12e64d6ce0e68eaba4b40d75c9848634368c00506b72d578e1dfd86f9b5",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_tudigong",
+      "sha256": "ca83cf0bafbe071d891628b5fa61077d57cc3181dbeb99a58e8d42ee00ec4de5",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_chenghuang",
+      "sha256": "c600eab26a31388ff2ed0fa13a9826b67d9d9c703590b0c5d5143ca433d62d7b",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_mazu",
+      "sha256": "77d4197463882229ef743d016d65e703381717ee2c8f8e5f4bcfa84287dabc89",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_guanyin",
+      "sha256": "30b99d9bb70f00a82a21367638b08dca7290d362cb265653b2fd1e0441be847e",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_wenchang",
+      "sha256": "fe59cd3d43df66684a77d681b4eee4d250f41e65ab50ee2768323ddbe248f121",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_yuhuang",
+      "sha256": "c49ac140b8a5e1c7e45b73ae88baa12b71d6f076a301728b809b089891afae27",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_taishang",
+      "sha256": "b42ef25738b572c1617da5d24aa54b3e2249e2c6bc845bad522238d41a49b85e",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_zhusheng",
+      "sha256": "9f1c001630eafa93b723c336ea6a24dc36fe697316666b1b965ffc79f46e9cea",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_caishen",
+      "sha256": "ee3209317b3b04b64dc2640d721eac5f543b5174ad21868a7eb30774b990b39f",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_shennong",
+      "sha256": "e654fba04203642ba60bfe801e0aa6cc69250d4b4feae9ba20df634d353b2720",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_huxian",
+      "sha256": "24ee8d20b6bdb9050ed87c3830b631ef419716e83d4adbc72222ea60ac168283",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_leizu",
+      "sha256": "35f7d1f6f83c789eb8ea42bd86d24cef0fd984eedf2c8d39a2edff64de9f9c45",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_zhongtan",
+      "sha256": "f0435e05855f7d904a394137a3bad7bdc2ae401dc398cefcbf8fdc2b8ef2803c",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_pangu",
+      "sha256": "a2b29e86e41edb75858480f4c9cd1882f0763bcd0acd984f266db092390c8638",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_huye",
+      "sha256": "697d2749fcf54d4c667480fe8e12304763ad8ee34a1d54e46a444aa0f3976183",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "player_jitong_female",
+      "sha256": "f32bdd9629c3d50e516ac640a9188ed579b579528295e9bcf3bf8016487ca7bc",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_xie_jiangjun",
+      "sha256": "1c911675aff02b59383b43ab90485297ba6e2d68a2bdec27b5fcf7fbf153a9bd",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_paiwan_hundred_pacer",
+      "sha256": "e93dfc2da518ea92a7d5174f02c9d11b0ad76537bea0044fd921af2dfb2f28c3",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_guangze",
+      "sha256": "6a1d9550ab0ce0bc0a7794f4acfc49af0641cbcd054e5100303efc883e09c1f4",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_thao_white_deer",
+      "sha256": "23034e70ac78c7494a978f59e99786571e3c32b851e2d1b1885de581d3b09dde",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_fan_jiangjun",
+      "sha256": "f08c30b3acec2cecf664b0a4e13fd055d032011958d9d1e2fcd4a97cb05d510c",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_rukai_hundred_pacer",
+      "sha256": "e110123f22f7eedc40f6472ebb54a2971fa3d2902418365b83834ab5f767ab8a",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_tao_flying_fish",
+      "sha256": "d4a23d11807483413b92d98545bd92d3ae5beec6dc8a94c51ebcd8f99584ad7b",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "deity_dashiye",
+      "sha256": "eb4dba4f04a4d0f5298f3d0ffadd41f3830e3526f4545a54d66d45a18a4f95ea",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_atayal_rainbow_path",
+      "sha256": "b40b1086005153d9edfceb19d0eda9237d000ff9445de248be1a448c2e8fda9b",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_seediq_rainbow_path",
+      "sha256": "6bf3ccbc93c3a7af62d0f873e216591170c1f54949323e9c3681ab32bc499973",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "pact_truku_rainbow_path",
+      "sha256": "608806ba2efbc5cce4dacaa17742bdbdc1421fe1fc1401b80055e220caa5c64f",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "player_yao_male",
+      "sha256": "b6b9268ca76ccb3da895c151b9dd91cba55ec60aaf3324075e9193125b1aa6c1",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "faith_youyinggong",
+      "sha256": "654120e0cb0140117c7b40bd7ef629aea06a2f6694051d0cf932ebddf16912ed",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "faith_shibawangong",
+      "sha256": "210ea6c1c3e852288e37717596c8249f4f669da5b9112e60ef907494455e5437",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "faith_dazhongye",
+      "sha256": "7fcf1628303d231ed3ccbb95b08aa7e10d71874541e7597ab366b7ceb20e395d",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "player_songjiang_female",
+      "sha256": "de44fdcc1bbdd7b5f715898dc37b75152c1381dc411aa4fc359ed978331e29cd",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "faith_guniangmiao",
+      "sha256": "d0c5a8419ca2bf48a78cb6579154ea3d966a57974e1cf4bbb981593e4f95d4ad",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "boss_xinmo_songjiang_female",
+      "sha256": "332f36f7a8b41c23e783a0e6fa340bf624c93ebc5a910485d1426b4a52ddc7e3",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "boss_xinmo_jitong_female",
+      "sha256": "16095948fc140bf9c6b3278d4f70c53df0adad42297aee9c2acf164995d1426f",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "boss_tianmo_songjiang_female",
+      "sha256": "a429a31fd8a73c527249c04b2f6ea5d867e1b5acf5ca66e37149a89e1f7f1e91",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "boss_tianmo_yao_male",
+      "sha256": "9725569cae923ff5023679420a314ccfb18a2d809252b8a3691663756fe98d23",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "player_jitong_female_recoil",
+      "sha256": "a15175dac9a43c63743db8b08b5b01048c60f216cf84cb8a0853b27ddfd84b5a",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "boss_tianmo_jitong_female",
+      "sha256": "423c0aeecb96400b4936aaed19d9029c5df5d064746ea4b061be91540c33839c",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "player_jitong_female_throw",
+      "sha256": "d8b3ab3d92aa352fee3b2911e4a5bf96613d960be2185cd3b11fafadfd9c4854",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "boss_xinmo_yao_male",
+      "sha256": "be1e0191312252580bf8db38b0cdb44059d25991dbc63a81752551a1ec4cd042",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review and targeted native view"
+    },
+    {
+      "id": "event_bajiajiang_patrol",
+      "sha256": "cd240e3d7d70338a3b0ff2d8a0b3fa65082a783efdae1f100094b430575c5c04",
+      "status": "visually_reviewed_selected",
+      "review_scope": [
+        "original_pack_style",
+        "subject_and_prop",
+        "transparent_compositing",
+        "latest_setting"
+      ],
+      "evidence": "root-new contact review; latest Bajiajiang standalone inspected separately"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+ "trial_dajie_gate": {
+  "small": "trial_dajie_gate",
+  "mid": "trial_dajie_gate_mid",
+  "late": "trial_dajie_gate_late"
+ },
+ "trial_daoti_ladder": {
+  "small": "trial_daoti_ladder",
+  "mid": "trial_daoti_ladder_mid",
+  "late": "trial_daoti_ladder_late"
+ },
+ "trial_guohuo_field": {
+  "small": "trial_guohuo_field",
+  "mid": "trial_guohuo_field_mid",
+  "late": "trial_guohuo_field_late"
+ },
+ "trial_leijie_cloud": {
+  "small": "trial_leijie_cloud",
+  "mid": "trial_leijie_cloud_mid",
+  "late": "trial_leijie_cloud_late"
+ },
+ "trial_qianggu_ring": {
+  "small": "trial_qianggu_ring",
+  "mid": "trial_qianggu_ring_mid",
+  "late": "trial_qianggu_ring_late"
+ },
+ "trial_qianggu_tower": {
+  "small": "trial_qianggu_tower",
+  "mid": "trial_qianggu_tower_mid",
+  "late": "trial_qianggu_tower_late"
+ },
+ "trial_qixing_floor": {
+  "small": "trial_qixing_floor",
+  "mid": "trial_qixing_floor_mid",
+  "late": "trial_qixing_floor_late"
+ },
+ "trial_zhongkui_path": {
+  "small": "trial_zhongkui_path",
+  "mid": "trial_zhongkui_path_mid",
+  "late": "trial_zhongkui_path_late"
+ }
+}

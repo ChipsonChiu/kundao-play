@@ -1,0 +1,32 @@
+{
+  "pixel_format": "標準輸出為 PNG RGBA straight alpha；原生實心背景可為 RGB",
+  "default_actor_anchor": [
+    0.5,
+    0.95
+  ],
+  "suggested_player_visible_height_world_px": 60,
+  "standard_sizes_preserve_existing_ids": true,
+  "masters_unaltered": true,
+  "export_changes": "僅 alpha 可見邊界裁切、等比縮放、裝框；不以程式重繪角色或改色",
+  "body_opacity": 1,
+  "decorative_glow": "以獨立效果層控制，不烘焙華麗光環",
+  "element_outline_palette": {
+    "金": "#b6a16a",
+    "木": "#71825b",
+    "水": "#5e7c8b",
+    "火": "#b45f42",
+    "土": "#9a7954",
+    "陰": "#676171",
+    "陽": "#d2b87c"
+  },
+  "palette_status": "本次美術配色建議，未變更遊戲數值",
+  "realm_brightness_curve": null,
+  "darkness_mask": {
+    "asset": "fx_darkness_mask",
+    "role": "暗視野霧邊",
+    "preserve_canvas": true,
+    "requires_runtime_black_mask": true
+  },
+  "native_transparent_rgb": "透明像素可帶隱藏RGB；應依alpha合成，勿把檢視器背景當成圖像光暈。",
+  "game_runtime_tests_performed": false
+}

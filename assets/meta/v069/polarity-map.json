@@ -1,0 +1,191 @@
+{
+  "scope": "圖像選擇對照，未修改遊戲顯示程式",
+  "lines": {
+    "sword": {
+      "yang": {
+        "icon": "icon_w_sword_yang",
+        "effects": [
+          "proj_sword_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_sword_yin",
+        "effects": [
+          "proj_sword_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "bell": {
+      "yang": {
+        "icon": "icon_w_bell_yang",
+        "effects": [
+          "fx_bell_ring_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_bell_yin",
+        "effects": [
+          "fx_bell_ring_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "gourd": {
+      "yang": {
+        "icon": "icon_w_gourd_yang",
+        "effects": [
+          "fx_gourd_mist_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_gourd_yin",
+        "effects": [
+          "fx_gourd_mist_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "seal": {
+      "yang": {
+        "icon": "icon_w_seal_yang",
+        "effects": [
+          "fx_seal_stamp_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_seal_yin",
+        "effects": [
+          "fx_seal_stamp_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "mirror": {
+      "yang": {
+        "icon": "icon_w_mirror_yang",
+        "effects": [
+          "fx_mirror_beam_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_mirror_yin",
+        "effects": [
+          "fx_mirror_beam_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "fu": {
+      "yang": {
+        "icon": "icon_w_fu_yang",
+        "effects": [
+          "proj_fu_yang",
+          "fx_fu_boom_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_fu_yin",
+        "effects": [
+          "proj_fu_yin",
+          "fx_fu_boom_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "ding": {
+      "yang": {
+        "icon": "icon_w_ding_yang",
+        "effects": [
+          "proj_ding_bomb_yang",
+          "fx_ding_cloud_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_ding_yin",
+        "effects": [
+          "proj_ding_bomb_yin",
+          "fx_ding_cloud_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "qin": {
+      "yang": {
+        "icon": "icon_w_qin_yang",
+        "effects": [
+          "proj_qin_wave_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_qin_yin",
+        "effects": [
+          "proj_qin_wave_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    },
+    "ta": {
+      "yang": {
+        "icon": "icon_w_ta_yang",
+        "effects": [],
+        "motif": "太陽、暖色、完整器形",
+        "effects_by_storeys": {
+          "1": "fx_ta_pillar_1_yang",
+          "2": "fx_ta_pillar_2_yang",
+          "3": "fx_ta_pillar_3_yang",
+          "4": "fx_ta_pillar_4_yang",
+          "5": "fx_ta_pillar_5_yang",
+          "6": "fx_ta_pillar_6_yang",
+          "7": "fx_ta_pillar_7_yang",
+          "8": "fx_ta_pillar_8_yang",
+          "9": "fx_ta_pillar_9_yang"
+        }
+      },
+      "yin": {
+        "icon": "icon_w_ta_yin",
+        "effects": [],
+        "motif": "月牙、冷色、暗器形或斷弦",
+        "effects_by_storeys": {
+          "1": "fx_ta_pillar_1_yin",
+          "2": "fx_ta_pillar_2_yin",
+          "3": "fx_ta_pillar_3_yin",
+          "4": "fx_ta_pillar_4_yin",
+          "5": "fx_ta_pillar_5_yin",
+          "6": "fx_ta_pillar_6_yin",
+          "7": "fx_ta_pillar_7_yin",
+          "8": "fx_ta_pillar_8_yin",
+          "9": "fx_ta_pillar_9_yin"
+        }
+      }
+    },
+    "biao": {
+      "yang": {
+        "icon": "icon_w_biao_yang",
+        "effects": [
+          "proj_biao_back_yang",
+          "fx_biao_hit_yang"
+        ],
+        "motif": "太陽、暖色、完整器形"
+      },
+      "yin": {
+        "icon": "icon_w_biao_yin",
+        "effects": [
+          "proj_biao_back_yin",
+          "fx_biao_hit_yin"
+        ],
+        "motif": "月牙、冷色、暗器形或斷弦"
+      }
+    }
+  },
+  "small_icon_guidance": "24px狀態列請搭配獨立18px陰陽徽記；不只依賴縮圖中的器物細節。",
+  "neutral_fallback": "不明極性不要自行顯示陰；沿用舊ID或中性圖。"
+}

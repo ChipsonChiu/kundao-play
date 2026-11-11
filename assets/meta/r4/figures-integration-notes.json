@@ -1,0 +1,88 @@
+{
+  "source_version": "背景設定.md（2026-11-07 / v0.88）",
+  "source_precedence": "第1章、第3章與第11章之v0.88已實作陳述，優先於第8/9章舊標題中的待實作文字；此處只對照設定文件，未讀到遊戲程式。",
+  "name_aliases": {
+    "地牛王": "地牛",
+    "坑魂": "礦坑亡魂",
+    "鬼火王": "燐火王",
+    "飛顱王": "飛顱妖王"
+  },
+  "mirror_party": {
+    "source_section": "8.4／9.8",
+    "midboss_selection": "本世隊伍第一、二、三隻靈獸，依相同base id取boss_xinmo_beast_<suffix>。",
+    "default_fallbacks": [
+      "miniboss_mirror_banyan_king",
+      "miniboss_mirror_tiger_king",
+      "miniboss_mirror_moshenzai_king"
+    ],
+    "attribute_policy": "鏡界小妖保持原型屬性；中首領的7.2預設鏡像條目採該表屬性。美術色調不代替遊戲數值。",
+    "same_species_identity": true,
+    "mapping_file": "mirrorparty-map.json",
+    "mapped_species_count": 24,
+    "implementation_status": "art_data_contract_only_not_game_code"
+  },
+  "gauntlet": {
+    "status": "proposal",
+    "source_section": "9.9",
+    "name": "群妖赴宴",
+    "image_policy": "依原首領基圖重用；殘魂顯示透明度與戰鬥階段由遊戲渲染控制。心魔／天魔維持玩家本世造型，不指定固定角色。未另虛增一套七位新首領。"
+  },
+  "nonactive_legacy_assets": {
+    "boss_nianshou": "future_new_year_event",
+    "boss_shenyuan_jumang": "supplementary_candidate",
+    "boss_chanchu": "supplementary_candidate",
+    "enemy_ghost_maiden": "legacy_auxiliary_not_boss",
+    "beast_dragon_jade": "supplementary_candidate",
+    "beast_fox": "supplementary_candidate",
+    "beast_qilin": "supplementary_candidate",
+    "beast_tortoise": "supplementary_candidate",
+    "beast_phoenix": "supplementary_candidate",
+    "beast_dragon_blue": "supplementary_candidate",
+    "beast_golden_toad": "supplementary_candidate",
+    "beast_crane": "supplementary_candidate",
+    "beast_huye": "supplementary_candidate"
+  },
+  "cultural_research": [
+    {
+      "subject": "金魅",
+      "url": "https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=196",
+      "retrieval": "opened",
+      "date": "2026-11-07",
+      "note": "國立臺灣文學館展文描述受驅使勞動、替主人獲利的鬼怪。掃帚與拾元寶是本作設定的簡化視覺，不代表完整民俗原型。",
+      "date_timezone": "Asia/Taipei"
+    },
+    {
+      "subject": "蛇郎君",
+      "url": "https://hakkadict.moe.edu.tw/search_result/?id=14095",
+      "retrieval": "opened",
+      "date": "2026-11-07",
+      "note": "教育部客語辭典確認民間故事名稱與娶妻敘事；半人蛇身是遊戲設計，非此來源指定造型。",
+      "date_timezone": "Asia/Taipei"
+    },
+    {
+      "subject": "燈猴器具",
+      "url": "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=T2018.001.1061",
+      "retrieval": "search_result_only_open_503",
+      "date": "2026-11-07",
+      "note": "搜尋結果可確認燈猴器具組藏品。全文開啟失敗，不作進一步未讀內容主張。採竹油燈架是依文物名稱與本作需求的原創轉譯。",
+      "date_timezone": "Asia/Taipei"
+    },
+    {
+      "subject": "竹製油燈架（燈猴）",
+      "url": "https://tcmb.culture.tw/zh-tw/detail?id=17120012359&indexCode=MOCCOLLECTIONS",
+      "retrieval": "opened",
+      "date": "2026-11-07",
+      "note": "國家文化記憶庫所收國立傳統藝術中心藏品說明確認燈猴是油燈架，竹管經劈剖修削製作。新圖把器物擬人化，非藏品複製。",
+      "date_timezone": "Asia/Taipei"
+    }
+  ],
+  "creative_boundaries": [
+    "所有新圖均為本作原創形象，不聲稱重建傳統禁忌或儀式圖樣。",
+    "不採原住民族祖靈為敵人；矮靈不描繪。山蛇精與蛇郎君不使用百步蛇祖靈圖紋。",
+    "林投姐、陳守娘與礦坑亡魂以節制敘事呈現，不繪自縊、傷口或災難遺體。",
+    "紅衣小女孩取設定文件的地方傳說，不仿電影演員或電影角色特殊妝容。",
+    "洛克人X僅是設定文件的招式參照，本素材不借用其角色、裝甲或造型。"
+  ],
+  "name_alias_policy": "顯示名稱依8.4較新表；既有id後綴diniu_wang、kenghun保留作技術相容，無重複新造型。",
+  "qa_alpha_note": "所有透明邊界以實際alpha合成檢視。原始RGBA預覽的alpha=0隱藏RGB不視為可見背景；未以程式改色或描繪生產圖。"
+}

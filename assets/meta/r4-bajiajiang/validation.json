@@ -1,0 +1,149 @@
+{
+  "file_count": 8,
+  "assets": [
+    {
+      "id": "event_bajiajiang_patrol_01",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.615652,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        65,
+        59,
+        447,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_02",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.619315,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        72,
+        59,
+        440,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_03",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.660648,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        80,
+        59,
+        432,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_04",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.67594,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        88,
+        99,
+        423,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_05",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.661923,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        79,
+        103,
+        432,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_06",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.641269,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        57,
+        102,
+        454,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_07",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.6453,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        66,
+        90,
+        446,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    },
+    {
+      "id": "event_bajiajiang_patrol_08",
+      "png_rgba": true,
+      "size": [
+        512,
+        640
+      ],
+      "alpha_zero_fraction": 0.621542,
+      "edge_alpha_nonzero_count": 0,
+      "major_visible_components": 1,
+      "visible_bounds": [
+        48,
+        87,
+        464,
+        592
+      ],
+      "visual_review": "單一完整人物；帽、臉譜、扇、法器、雙腳完整；無鄰人殘片。"
+    }
+  ]
+}

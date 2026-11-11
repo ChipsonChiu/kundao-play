@@ -1,0 +1,25 @@
+{
+  "scope": "latest 28-image R4 new-art add-on; read-only",
+  "transparent_sprites_checked": 27,
+  "standard_exports_exactly_reproducible": true,
+  "sprite_crops_losing_alpha_ge_8_pixels": 0,
+  "standard_png_edges_with_alpha_ge_8": 0,
+  "smallest_meaningful_edge_margin_px": 2,
+  "common_state_anchor_crop_size_checks": {
+    "shrine": true,
+    "bridge": true,
+    "mine": true,
+    "sanmei": true
+  },
+  "all_mapping_targets_exist": true,
+  "composite_shrine_bounds": [
+    6,
+    12,
+    138,
+    132
+  ],
+  "screenshot_observation": "The visible blue crosshatched paper token is not the new lion-print token; this identifies that one asset only, not the full game version.",
+  "known_integration_caveat": "New mine collapse includes full entrance at520x400 while old pile is320x240; use updated draw bounds/anchor or full image draw rather than carrying over old sourceRect.",
+  "fix_required_in_addon": false,
+  "game_renderer_inspected": false
+}

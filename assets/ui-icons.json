@@ -1,0 +1,369 @@
+{
+  "base": "assets/",
+  "version": "v0.45-phase2-art",
+  "assets": [
+    {
+      "id": "icon_passive_yujian",
+      "file": "icon_passive_yujian.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "御劍訣"
+    },
+    {
+      "id": "icon_passive_jinzhong",
+      "file": "icon_passive_jinzhong.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "金鐘罩"
+    },
+    {
+      "id": "icon_passive_naqi",
+      "file": "icon_passive_naqi.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "納氣訣"
+    },
+    {
+      "id": "icon_passive_wufang",
+      "file": "icon_passive_wufang.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "五方令"
+    },
+    {
+      "id": "icon_passive_mingxin",
+      "file": "icon_passive_mingxin.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "明心訣"
+    },
+    {
+      "id": "icon_passive_fulu",
+      "file": "icon_passive_fulu.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "符籙訣"
+    },
+    {
+      "id": "icon_passive_shenxing",
+      "file": "icon_passive_shenxing.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "神行"
+    },
+    {
+      "id": "icon_passive_tiebu",
+      "file": "icon_passive_tiebu.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "鐵布衫"
+    },
+    {
+      "id": "icon_passive_huichun",
+      "file": "icon_passive_huichun.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "回春訣"
+    },
+    {
+      "id": "icon_passive_zhaojun",
+      "file": "icon_passive_zhaojun.png",
+      "w": 64,
+      "h": 64,
+      "group": "功法",
+      "desc": "招軍令"
+    },
+    {
+      "id": "icon_dao_yinqi",
+      "file": "icon_dao_yinqi.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "搶頭香"
+    },
+    {
+      "id": "icon_dao_canhun",
+      "file": "icon_dao_canhun.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "回魂"
+    },
+    {
+      "id": "icon_dao_pingan",
+      "file": "icon_dao_pingan.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "安太歲"
+    },
+    {
+      "id": "icon_dao_suzhou",
+      "file": "icon_dao_suzhou.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "通靈"
+    },
+    {
+      "id": "icon_dao_rongcuo",
+      "file": "icon_dao_rongcuo.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "補運"
+    },
+    {
+      "id": "icon_dao_sixuan",
+      "file": "icon_dao_sixuan.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "靈籤"
+    },
+    {
+      "id": "icon_dao_dianming",
+      "file": "icon_dao_dianming.png",
+      "w": 64,
+      "h": 64,
+      "group": "道行",
+      "desc": "點命燈"
+    },
+    {
+      "id": "icon_innate_sanqi",
+      "file": "icon_innate_sanqi.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "三奇加會"
+    },
+    {
+      "id": "icon_innate_junchen",
+      "file": "icon_innate_junchen.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "君臣慶會"
+    },
+    {
+      "id": "icon_innate_zifu",
+      "file": "icon_innate_zifu.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "紫府同宮"
+    },
+    {
+      "id": "icon_innate_riyue",
+      "file": "icon_innate_riyue.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "日月並明"
+    },
+    {
+      "id": "icon_innate_huotan",
+      "file": "icon_innate_huotan.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "火貪暴發"
+    },
+    {
+      "id": "icon_innate_wenqu",
+      "file": "icon_innate_wenqu.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "文曲化科"
+    },
+    {
+      "id": "icon_innate_jiyue",
+      "file": "icon_innate_jiyue.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "機月同梁"
+    },
+    {
+      "id": "icon_innate_shapolang",
+      "file": "icon_innate_shapolang.png",
+      "w": 64,
+      "h": 64,
+      "group": "命格",
+      "desc": "殺破狼"
+    },
+    {
+      "id": "icon_root_lei",
+      "file": "icon_root_lei.png",
+      "w": 64,
+      "h": 64,
+      "group": "覺醒",
+      "desc": "隱雷靈根"
+    },
+    {
+      "id": "icon_root_bing",
+      "file": "icon_root_bing.png",
+      "w": 64,
+      "h": 64,
+      "group": "覺醒",
+      "desc": "冰靈根"
+    },
+    {
+      "id": "icon_root_feng",
+      "file": "icon_root_feng.png",
+      "w": 64,
+      "h": 64,
+      "group": "覺醒",
+      "desc": "風靈根"
+    },
+    {
+      "id": "icon_root_an",
+      "file": "icon_root_an.png",
+      "w": 64,
+      "h": 64,
+      "group": "覺醒",
+      "desc": "暗靈根"
+    },
+    {
+      "id": "icon_root_guang",
+      "file": "icon_root_guang.png",
+      "w": 64,
+      "h": 64,
+      "group": "覺醒",
+      "desc": "光靈根"
+    },
+    {
+      "id": "icon_bless_1",
+      "file": "icon_bless_1.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "福德加身",
+      "arrayIndex": 0
+    },
+    {
+      "id": "icon_bless_2",
+      "file": "icon_bless_2.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "腳力",
+      "arrayIndex": 1
+    },
+    {
+      "id": "icon_bless_3",
+      "file": "icon_bless_3.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "聚財",
+      "arrayIndex": 2
+    },
+    {
+      "id": "icon_bless_4",
+      "file": "icon_bless_4.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "威武",
+      "arrayIndex": 3
+    },
+    {
+      "id": "icon_bless_5",
+      "file": "icon_bless_5.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "燒金",
+      "arrayIndex": 4
+    },
+    {
+      "id": "icon_bless_6",
+      "file": "icon_bless_6.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "神行",
+      "arrayIndex": 5
+    },
+    {
+      "id": "icon_bless_7",
+      "file": "icon_bless_7.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "金身",
+      "arrayIndex": 6
+    },
+    {
+      "id": "icon_bless_8",
+      "file": "icon_bless_8.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "開示",
+      "arrayIndex": 7
+    },
+    {
+      "id": "icon_bless_9",
+      "file": "icon_bless_9.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "平安",
+      "arrayIndex": 8
+    },
+    {
+      "id": "icon_bless_10",
+      "file": "icon_bless_10.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "添香",
+      "arrayIndex": 9
+    },
+    {
+      "id": "icon_bless_11",
+      "file": "icon_bless_11.png",
+      "w": 64,
+      "h": 64,
+      "group": "庇佑",
+      "desc": "香火",
+      "arrayIndex": 10
+    },
+    {
+      "id": "icon_cup_sheng",
+      "file": "icon_cup_sheng.png",
+      "w": 96,
+      "h": 96,
+      "group": "筊杯",
+      "desc": "聖筊"
+    },
+    {
+      "id": "icon_cup_xiao",
+      "file": "icon_cup_xiao.png",
+      "w": 96,
+      "h": 96,
+      "group": "筊杯",
+      "desc": "笑筊"
+    },
+    {
+      "id": "icon_cup_yin",
+      "file": "icon_cup_yin.png",
+      "w": 96,
+      "h": 96,
+      "group": "筊杯",
+      "desc": "陰筊"
+    }
+  ]
+}

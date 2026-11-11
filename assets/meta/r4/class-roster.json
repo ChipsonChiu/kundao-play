@@ -1,0 +1,117 @@
+[
+  {
+    "key": "jian",
+    "name": "劍印修士",
+    "weapon": "鐵砧劍",
+    "technique": "御劍訣",
+    "default_sex": "male",
+    "deity": "關聖帝君",
+    "assets": {
+      "male": "player_jian_male",
+      "female": "player_jian_female"
+    },
+    "mirrors": {
+      "male": {
+        "xinmo": "boss_xinmo_jian_male",
+        "tianmo": "boss_tianmo_jian_male"
+      },
+      "female": {
+        "xinmo": "boss_xinmo_jian_female",
+        "tianmo": "boss_tianmo_jian_female"
+      }
+    },
+    "same_stats_for_cosmetics": true
+  },
+  {
+    "key": "fu",
+    "name": "正一符師",
+    "weapon": "龍山符",
+    "technique": "符籙訣",
+    "default_sex": "male",
+    "deity": "中壇元帥",
+    "assets": {
+      "male": "player_fu_male",
+      "female": "player_fu_female"
+    },
+    "mirrors": {
+      "male": {
+        "xinmo": "boss_xinmo_fu_male",
+        "tianmo": "boss_tianmo_fu_male"
+      },
+      "female": {
+        "xinmo": "boss_xinmo_fu_female",
+        "tianmo": "boss_tianmo_fu_female"
+      }
+    },
+    "same_stats_for_cosmetics": true
+  },
+  {
+    "key": "yao",
+    "name": "保生藥師",
+    "weapon": "北投鼎",
+    "technique": "煉丹訣",
+    "default_sex": "female",
+    "deity": "保生大帝",
+    "assets": {
+      "male": "player_yao_male",
+      "female": "player_yao_female"
+    },
+    "mirrors": {
+      "male": {
+        "xinmo": "boss_xinmo_yao_male",
+        "tianmo": "boss_tianmo_yao_male"
+      },
+      "female": {
+        "xinmo": "boss_xinmo_yao_female",
+        "tianmo": "boss_tianmo_yao_female"
+      }
+    },
+    "same_stats_for_cosmetics": true
+  },
+  {
+    "key": "songjiang",
+    "name": "宋江武者",
+    "weapon": "北港鈴",
+    "technique": "金鐘罩",
+    "default_sex": "male",
+    "deity": "關聖帝君",
+    "assets": {
+      "male": "player_songjiang_male",
+      "female": "player_songjiang_female"
+    },
+    "mirrors": {
+      "male": {
+        "xinmo": "boss_xinmo_songjiang_male",
+        "tianmo": "boss_tianmo_songjiang_male"
+      },
+      "female": {
+        "xinmo": "boss_xinmo_songjiang_female",
+        "tianmo": "boss_tianmo_songjiang_female"
+      }
+    },
+    "same_stats_for_cosmetics": true
+  },
+  {
+    "key": "jitong",
+    "name": "乩童",
+    "weapon": "新營標",
+    "technique": "三昧真火",
+    "default_sex": "male",
+    "deity": "中壇元帥",
+    "assets": {
+      "male": "player_jitong_male",
+      "female": "player_jitong_female"
+    },
+    "mirrors": {
+      "male": {
+        "xinmo": "boss_xinmo_jitong_male",
+        "tianmo": "boss_tianmo_jitong_male"
+      },
+      "female": {
+        "xinmo": "boss_xinmo_jitong_female",
+        "tianmo": "boss_tianmo_jitong_female"
+      }
+    },
+    "same_stats_for_cosmetics": true
+  }
+]

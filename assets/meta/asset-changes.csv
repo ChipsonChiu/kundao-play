@@ -1,0 +1,438 @@
+﻿id,method,source,new_ai_individual
+player_jian,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+player_fu,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_shangui,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_moshenzai,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_jinmei,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_tiger,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_banyan,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_ghostfire,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_ghost,重新繪製閉合輪廓、完整填色的半透明好兄弟,original raster artwork,False
+enemy_sha,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+enemy_kite,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+miniboss_banyan_king,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+miniboss_tiger_king,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+miniboss_moshenzai_king,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/miniboss_moshenzai_king.png,False
+miniboss_ghostfire_king,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/miniboss_ghostfire_king.png,False
+boss_yingge,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_yingge.png,False
+beast_banyan_king,更新中首領衍生靈獸,miniboss_banyan_king.png,False
+beast_tiger_king,更新中首領衍生靈獸,miniboss_tiger_king.png,False
+beast_moshenzai_king,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/beast_moshenzai_king.png,False
+beast_ghostfire_king,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/beast_ghostfire_king.png,False
+tree_canopy,完整樹木，腳底錨點取代頂視圓形樹冠,terrain_tree_a.png,False
+tree_trunk,樹根接地與碰撞區辨識,terrain_stump.png,False
+shrine,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/shrine.png,False
+shrine_used,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/shrine_used.png,False
+rock_yingge,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/rock_yingge.png,False
+xp_small,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/xp_small.png,False
+xp_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/xp_mid.png,False
+xp_big,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/xp_big.png,False
+item_zhaojun,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/item_zhaojun.png,False
+item_huiqi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/item_huiqi.png,False
+item_pingan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/item_pingan.png,False
+item_chest,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/item_chest.png,False
+item_fu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/item_fu.png,False
+icon_passive_yujian,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_yujian.png,False
+icon_passive_jinzhong,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_jinzhong.png,False
+icon_passive_naqi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_naqi.png,False
+icon_passive_wufang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_wufang.png,False
+icon_passive_mingxin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_mingxin.png,False
+icon_passive_fulu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_fulu.png,False
+icon_passive_shenxing,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_shenxing.png,False
+icon_passive_tiebu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_tiebu.png,False
+icon_passive_huichun,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_huichun.png,False
+icon_passive_zhaojun,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_zhaojun.png,False
+icon_dao_yinqi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_yinqi.png,False
+icon_dao_canhun,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_canhun.png,False
+icon_dao_pingan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_pingan.png,False
+icon_dao_suzhou,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_suzhou.png,False
+icon_dao_rongcuo,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_rongcuo.png,False
+icon_dao_sixuan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_sixuan.png,False
+icon_dao_dianming,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_dao_dianming.png,False
+icon_innate_sanqi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_sanqi.png,False
+icon_innate_junchen,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_junchen.png,False
+icon_innate_zifu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_zifu.png,False
+icon_innate_riyue,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_riyue.png,False
+icon_innate_huotan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_huotan.png,False
+icon_innate_wenqu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_wenqu.png,False
+icon_innate_jiyue,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_jiyue.png,False
+icon_innate_shapolang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_innate_shapolang.png,False
+icon_root_lei,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_root_lei.png,False
+icon_root_bing,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_root_bing.png,False
+icon_root_feng,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_root_feng.png,False
+icon_root_an,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_root_an.png,False
+icon_root_guang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_root_guang.png,False
+icon_bless_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_1.png,False
+icon_bless_2,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_2.png,False
+icon_bless_3,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_3.png,False
+icon_bless_4,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_4.png,False
+icon_bless_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_5.png,False
+icon_bless_6,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_6.png,False
+icon_bless_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_7.png,False
+icon_bless_8,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_8.png,False
+icon_bless_9,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_9.png,False
+icon_bless_10,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_10.png,False
+icon_bless_11,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_bless_11.png,False
+icon_cup_sheng,半月木筊重繪；以實際凸面／平面組合表示判定,original crescent-block illustration,False
+icon_cup_xiao,半月木筊重繪；以實際凸面／平面組合表示判定,original crescent-block illustration,False
+icon_cup_yin,半月木筊重繪；以實際凸面／平面組合表示判定,original crescent-block illustration,False
+stage_jiantan_bg_tile,重新製作可重複紙感地表,original procedural material painting,False
+landmark_jiantan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/landmark_jiantan.png,False
+enemy_shuigui,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/enemy_shuigui.png,False
+enemy_renmianyu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/enemy_renmianyu.png,False
+enemy_shishi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/enemy_shishi.png,False
+enemy_mukengniao,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/enemy_mukengniao.png,False
+enemy_feilu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/enemy_feilu.png,False
+enemy_jianling,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/enemy_jianling.png,False
+miniboss_shishi_gong,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/miniboss_shishi_gong.png,False
+miniboss_shuigui_tou,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/miniboss_shuigui_tou.png,False
+miniboss_mukengniao_wang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/miniboss_mukengniao_wang.png,False
+miniboss_feilu_wang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/miniboss_feilu_wang.png,False
+boss_jiantan_yujing,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_jiantan_yujing.png,False
+beast_shishi_gong,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/beast_shishi_gong.png,False
+beast_shuigui_tou,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/beast_shuigui_tou.png,False
+beast_mukengniao_wang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/beast_mukengniao_wang.png,False
+beast_feilu_wang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/beast_feilu_wang.png,False
+player_yao,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/player_yao.png,False
+player_jitong,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/player_jitong.png,False
+proj_biao_back,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_biao_back.png,False
+proj_biao_huojianqiang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_biao_huojianqiang.png,False
+proj_biao_qiankunquan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_biao_qiankunquan.png,False
+proj_biao_fenghuolun,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_biao_fenghuolun.png,False
+fx_biao_hit,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_biao_hit.png,False
+proj_ding_bomb,投射物完整實體輪廓與紙感陰影,proj_ding_bomb.png,False
+fx_ding_cloud,手繪藥草／毒火紋樣的範圍藥霧,original layered cloud illustration,False
+proj_qin_wave,琴聲多層手繪氣流與分節波峰,reference attack strokes,False
+fx_ta_pillar,一重相容圖,fx_ta_pillar_1,False
+proj_sword,水平飛行方向、完整桃木／鋸齒法劍輪廓,kundao-art-assets-v069.zip/main-art/proj_sword.png,False
+proj_sword_shark,水平飛行方向、完整桃木／鋸齒法劍輪廓,kundao-art-assets-v069.zip/main-art/proj_sword_shark.png,False
+fx_bell_ring,法鈴震波：器物、氣流紋樣與完整範圍圈,weapon bell + attack motifs,False
+fx_gourd_mist,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_gourd_mist.png,False
+fx_seal_stamp,印章重新合成並校正中央「封」字,reference-inspired original composition; glyph rasterization,False
+fx_mirror_beam,鏡光重繪：實心多層光束、鏡面與同路陰陽材質,original beam painting + existing mirror,False
+proj_fu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_fu.png,False
+fx_fu_boom,替換簡筆爆散為手繪火焰爆裂,fx_fu_boom_yang,False
+fx_taiji_fu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_taiji_fu.png,False
+title_logo,精確繁體中文標題重新排字與朱紅題簽,glyph rasterization; no fonts included,False
+title_bg,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/title_bg.png,False
+title_paper,統一紙紋、金屬描邊與雲角九宮格介面,original raster UI painting,False
+title_lantern,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/title_lantern.png,False
+btn_primary,手繪材質九宮格按鈕三態,original raster UI painting,False
+btn_primary_pressed,手繪材質九宮格按鈕三態,original raster UI painting,False
+btn_secondary,統一紙紋、金屬描邊與雲角九宮格介面,original raster UI painting,False
+btn_disabled,手繪材質九宮格按鈕三態,original raster UI painting,False
+btn_round_god,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/btn_round_god.png,False
+btn_round_lock,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/btn_round_lock.png,False
+btn_round_lock_hot,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/btn_round_lock_hot.png,False
+btn_pause,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/btn_pause.png,False
+ui_panel_paper,統一紙紋、金屬描邊與雲角九宮格介面,original raster UI painting,False
+ui_hud_frame,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/ui_hud_frame.png,False
+ui_hp_bar,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/ui_hp_bar.png,False
+ui_xp_bar,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/ui_xp_bar.png,False
+ui_card_class,統一紙紋、金屬描邊與雲角九宮格介面,original raster UI painting,False
+icon_w_sword_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_sword_1.png,False
+icon_w_sword_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_sword_5.png,False
+icon_w_sword_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_sword_5_yin + ui_badge_yin,False
+icon_w_sword_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_sword_7.png,False
+icon_w_sword_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_sword_7_yin + ui_badge_yin,False
+icon_w_sword_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_sword_yang + ui_badge_yang,False
+icon_w_sword_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_sword_yin + ui_badge_yin,False
+icon_w_bell_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_bell_1.png,False
+icon_w_bell_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_bell_5.png,False
+icon_w_bell_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_bell_5_yin + ui_badge_yin,False
+icon_w_bell_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_bell_7.png,False
+icon_w_bell_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_bell_7_yin + ui_badge_yin,False
+icon_w_bell_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_bell_yang + ui_badge_yang,False
+icon_w_bell_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_bell_yin + ui_badge_yin,False
+icon_w_gourd_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_gourd_1.png,False
+icon_w_gourd_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_gourd_5.png,False
+icon_w_gourd_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_gourd_5_yin + ui_badge_yin,False
+icon_w_gourd_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_gourd_7.png,False
+icon_w_gourd_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_gourd_7_yin + ui_badge_yin,False
+icon_w_gourd_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_gourd_yang + ui_badge_yang,False
+icon_w_gourd_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_gourd_yin + ui_badge_yin,False
+icon_w_seal_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_seal_1.png,False
+icon_w_seal_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_seal_5.png,False
+icon_w_seal_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_seal_5_yin + ui_badge_yin,False
+icon_w_seal_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_seal_7.png,False
+icon_w_seal_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_seal_7_yin + ui_badge_yin,False
+icon_w_seal_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_seal_yang + ui_badge_yang,False
+icon_w_seal_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_seal_yin + ui_badge_yin,False
+icon_w_mirror_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_mirror_1.png,False
+icon_w_mirror_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_mirror_5.png,False
+icon_w_mirror_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_mirror_5_yin + ui_badge_yin,False
+icon_w_mirror_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_mirror_7.png,False
+icon_w_mirror_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_mirror_7_yin + ui_badge_yin,False
+icon_w_mirror_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_mirror_yang + ui_badge_yang,False
+icon_w_mirror_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_mirror_yin + ui_badge_yin,False
+icon_w_fu_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_fu_1.png,False
+icon_w_fu_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_fu_5.png,False
+icon_w_fu_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_fu_5_yin + ui_badge_yin,False
+icon_w_fu_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_fu_7.png,False
+icon_w_fu_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_fu_7_yin + ui_badge_yin,False
+icon_w_fu_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_fu_yang + ui_badge_yang,False
+icon_w_fu_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_fu_yin + ui_badge_yin,False
+icon_w_ding_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_ding_1.png,False
+icon_w_ding_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_ding_5.png,False
+icon_w_ding_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ding_5_yin + ui_badge_yin,False
+icon_w_ding_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_ding_7.png,False
+icon_w_ding_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ding_7_yin + ui_badge_yin,False
+icon_w_ding_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ding_yang + ui_badge_yang,False
+icon_w_ding_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ding_yin + ui_badge_yin,False
+icon_w_qin_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_qin_1.png,False
+icon_w_qin_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_qin_5.png,False
+icon_w_qin_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_qin_5_yin + ui_badge_yin,False
+icon_w_qin_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_qin_7.png,False
+icon_w_qin_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_qin_7_yin + ui_badge_yin,False
+icon_w_qin_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_qin_yang + ui_badge_yang,False
+icon_w_qin_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_qin_yin + ui_badge_yin,False
+icon_w_ta_1,同形逐重塔圖示,fx_ta_pillar_1,False
+icon_w_ta_5,同形逐重塔圖示,fx_ta_pillar_5_yang,False
+icon_w_ta_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ta_5_yin + ui_badge_yin,False
+icon_w_ta_7,同形逐重塔圖示,fx_ta_pillar_7_yang,False
+icon_w_ta_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ta_7_yin + ui_badge_yin,False
+icon_w_ta_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ta_yang + ui_badge_yang,False
+icon_w_ta_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_ta_yin + ui_badge_yin,False
+icon_w_biao_1,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_biao_1.png,False
+icon_w_biao_5,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_biao_5.png,False
+icon_w_biao_5_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_biao_5_yin + ui_badge_yin,False
+icon_w_biao_7,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_w_biao_7.png,False
+icon_w_biao_7_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_biao_7_yin + ui_badge_yin,False
+icon_w_biao_yang,器物原型保留；手繪紙感與日／月分隔標記,icon_w_biao_yang + ui_badge_yang,False
+icon_w_biao_yin,器物原型保留；手繪紙感與日／月分隔標記,icon_w_biao_yin + ui_badge_yin,False
+icon_talent_fushi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_fushi.png,False
+icon_talent_shuangfu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_shuangfu.png,False
+icon_talent_leifu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_leifu.png,False
+icon_talent_chiling,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_chiling.png,False
+icon_talent_jianqi,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_jianqi.png,False
+icon_talent_shuangjian,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_shuangjian.png,False
+icon_talent_qixing,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_qixing.png,False
+icon_talent_zhanyao,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_zhanyao.png,False
+icon_altar,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_altar.png,False
+trial_guohuo_field,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_guohuo_field.png,False
+trial_guohuo_coal,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_guohuo_coal.png,False
+trial_daoti_ladder,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_daoti_ladder.png,False
+trial_daoti_blade,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_daoti_blade.png,False
+trial_qixing_lamp_off,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qixing_lamp_off.png,False
+trial_qixing_lamp_on,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qixing_lamp_on.png,False
+trial_qixing_floor,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qixing_floor.png,False
+trial_qianggu_tower,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qianggu_tower.png,False
+trial_qianggu_ring,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qianggu_ring.png,False
+trial_zhongkui_mask,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_zhongkui_mask.png,False
+trial_zhongkui_sha,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_zhongkui_sha.png,False
+trial_zhongkui_path,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_zhongkui_path.png,False
+trial_leijie_cloud,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_leijie_cloud.png,False
+trial_leijie_mark,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_leijie_mark.png,False
+trial_leijie_bolt,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_leijie_bolt.png,False
+trial_dajie_gate,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_dajie_gate.png,False
+trial_banner_small,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_banner_small.png,False
+trial_banner_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_banner_mid.png,False
+trial_banner_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_banner_late.png,False
+trial_guohuo_field_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_guohuo_field_mid.png,False
+trial_guohuo_field_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_guohuo_field_late.png,False
+trial_daoti_ladder_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_daoti_ladder_mid.png,False
+trial_daoti_ladder_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_daoti_ladder_late.png,False
+trial_qixing_floor_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qixing_floor_mid.png,False
+trial_qixing_floor_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qixing_floor_late.png,False
+trial_qianggu_tower_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qianggu_tower_mid.png,False
+trial_qianggu_tower_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qianggu_tower_late.png,False
+trial_qianggu_ring_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qianggu_ring_mid.png,False
+trial_qianggu_ring_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_qianggu_ring_late.png,False
+trial_zhongkui_path_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_zhongkui_path_mid.png,False
+trial_zhongkui_path_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_zhongkui_path_late.png,False
+trial_leijie_cloud_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_leijie_cloud_mid.png,False
+trial_leijie_cloud_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_leijie_cloud_late.png,False
+trial_dajie_gate_mid,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_dajie_gate_mid.png,False
+trial_dajie_gate_late,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/trial_dajie_gate_late.png,False
+boss_xinmo_fu,心魔與更新後玩家使用同輪廓，紫灰陰氣反轉,player_fu,False
+boss_tianmo_fu,天魔與更新後玩家同輪廓，九道金色雷紋冠,boss_xinmo_fu,False
+boss_xinmo_jian,心魔與更新後玩家使用同輪廓，紫灰陰氣反轉,player_jian,False
+boss_tianmo_jian,天魔與更新後玩家同輪廓，九道金色雷紋冠,boss_xinmo_jian,False
+boss_xinmo_yao,心魔與更新後玩家使用同輪廓，紫灰陰氣反轉,player_yao,False
+boss_tianmo_yao,天魔與更新後玩家同輪廓，九道金色雷紋冠,boss_xinmo_yao,False
+boss_xinmo_jitong,心魔與更新後玩家使用同輪廓，紫灰陰氣反轉,player_jitong,False
+boss_tianmo_jitong,天魔與更新後玩家同輪廓，九道金色雷紋冠,boss_xinmo_jitong,False
+boss_xinmo_beast_banyan_king,更新後靈獸的陰氣鏡像,beast_banyan_king,False
+boss_xinmo_beast_tiger_king,更新後靈獸的陰氣鏡像,beast_tiger_king,False
+boss_xinmo_beast_moshenzai_king,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_moshenzai_king.png,False
+boss_xinmo_beast_ghostfire_king,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_ghostfire_king.png,False
+boss_xinmo_beast_shishi_gong,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_shishi_gong.png,False
+boss_xinmo_beast_shuigui_tou,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_shuigui_tou.png,False
+boss_xinmo_beast_mukengniao_wang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_mukengniao_wang.png,False
+boss_xinmo_beast_feilu_wang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_feilu_wang.png,False
+fx_mirror_shatter,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_mirror_shatter.png,False
+fx_mirror_floor,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_mirror_floor.png,False
+player_tangki_ready,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/player_tangki_ready.png,False
+player_tangki_throw,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/player_tangki_throw.png,False
+player_tangki_recoil,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/player_tangki_recoil.png,False
+card_angbiao_spear,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/card_angbiao_spear.png,False
+card_angbiao_ring,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/card_angbiao_ring.png,False
+card_angbiao_wheel,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/card_angbiao_wheel.png,False
+card_angbiao_back,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/card_angbiao_back.png,False
+proj_angbiao_spear,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_angbiao_spear.png,False
+proj_angbiao_ring,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_angbiao_ring.png,False
+proj_angbiao_wheel,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_angbiao_wheel.png,False
+fx_angbiao_spear,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_angbiao_spear.png,False
+fx_angbiao_ring,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_angbiao_ring.png,False
+fx_angbiao_wheel,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_angbiao_wheel.png,False
+icon_passive_liandan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_liandan.png,False
+icon_passive_qingxin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_passive_qingxin.png,False
+icon_passive_zhenhun,鎮魂訣手繪塔圖示,fx_ta_pillar_7,False
+icon_talent_miaoshou,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_miaoshou.png,False
+icon_talent_jinzhen,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_jinzhen.png,False
+icon_talent_danhuo,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_danhuo.png,False
+icon_talent_jiuku,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_talent_jiuku.png,False
+fx_seal_stamp_yang,印章重新合成並校正中央「封」字,reference-inspired original composition; glyph rasterization,False
+fx_seal_stamp_yin,印章重新合成並校正中央「封」字,reference-inspired original composition; glyph rasterization,False
+fx_ta_pillar_1,逐層完整建築繪製：1 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_2,逐層完整建築繪製：2 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_3,逐層完整建築繪製：3 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_4,逐層完整建築繪製：4 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_5,逐層完整建築繪製：5 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_6,逐層完整建築繪製：6 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_7,逐層完整建築繪製：7 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_8,逐層完整建築繪製：8 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_9,逐層完整建築繪製：9 重；neutral,original pagoda architectural painting,False
+fx_ta_pillar_1_yang,逐層完整建築繪製：1 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_2_yang,逐層完整建築繪製：2 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_3_yang,逐層完整建築繪製：3 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_4_yang,逐層完整建築繪製：4 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_5_yang,逐層完整建築繪製：5 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_6_yang,逐層完整建築繪製：6 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_7_yang,逐層完整建築繪製：7 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_8_yang,逐層完整建築繪製：8 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_9_yang,逐層完整建築繪製：9 重；yang,original pagoda architectural painting,False
+fx_ta_pillar_1_yin,逐層完整建築繪製：1 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_2_yin,逐層完整建築繪製：2 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_3_yin,逐層完整建築繪製：3 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_4_yin,逐層完整建築繪製：4 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_5_yin,逐層完整建築繪製：5 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_6_yin,逐層完整建築繪製：6 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_7_yin,逐層完整建築繪製：7 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_8_yin,逐層完整建築繪製：8 重；yin,original pagoda architectural painting,False
+fx_ta_pillar_9_yin,逐層完整建築繪製：9 重；yin,original pagoda architectural painting,False
+proj_ding_bomb_yang,投射物完整實體輪廓與紙感陰影,proj_ding_bomb_yang.png,False
+fx_ding_cloud_yang,手繪藥草／毒火紋樣的範圍藥霧,original layered cloud illustration,False
+proj_ding_bomb_yin,投射物完整實體輪廓與紙感陰影,proj_ding_bomb_yin.png,False
+fx_ding_cloud_yin,手繪藥草／毒火紋樣的範圍藥霧,original layered cloud illustration,False
+fx_bell_ring_yang,法鈴震波：器物、氣流紋樣與完整範圍圈,weapon bell + attack motifs,False
+fx_gourd_mist_yang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_gourd_mist_yang.png,False
+fx_mirror_beam_yang,鏡光重繪：實心多層光束、鏡面與同路陰陽材質,original beam painting + existing mirror,False
+proj_qin_wave_yang,琴聲多層手繪氣流與分節波峰,reference attack strokes,False
+fx_bell_ring_yin,法鈴震波：器物、氣流紋樣與完整範圍圈,weapon bell + attack motifs,False
+fx_gourd_mist_yin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_gourd_mist_yin.png,False
+fx_mirror_beam_yin,鏡光重繪：實心多層光束、鏡面與同路陰陽材質,original beam painting + existing mirror,False
+proj_qin_wave_yin,琴聲多層手繪氣流與分節波峰,reference attack strokes,False
+proj_sword_yang,水平飛行方向、完整桃木／鋸齒法劍輪廓,kundao-art-assets-v069.zip/main-art/proj_sword_yang.png,False
+proj_fu_yang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_fu_yang.png,False
+proj_biao_back_yang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_biao_back_yang.png,False
+fx_fu_boom_yang,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_biao_hit_yang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_biao_hit_yang.png,False
+proj_sword_yin,水平飛行方向、完整桃木／鋸齒法劍輪廓,kundao-art-assets-v069.zip/main-art/proj_sword_yin.png,False
+proj_fu_yin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_fu_yin.png,False
+proj_biao_back_yin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/proj_biao_back_yin.png,False
+fx_fu_boom_yin,陰法爆裂：紫焰與冷色核心,fx_fu_boom_yang,False
+fx_biao_hit_yin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_biao_hit_yin.png,False
+ui_badge_yang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/ui_badge_yang.png,False
+ui_polarity_frame_yang,日／月形狀與金／紫色雙重辨識框,original UI frame + polarity badge,False
+ui_badge_yin,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/ui_badge_yin.png,False
+ui_polarity_frame_yin,日／月形狀與金／紫色雙重辨識框,original UI frame + polarity badge,False
+proj_enemy_seed,投射物完整實體輪廓與紙感陰影,proj_enemy_seed.png,False
+proj_enemy_fire,陰火彈，具火舌與核心,fx_fireball_yin,False
+proj_enemy_water,投射物完整實體輪廓與紙感陰影,proj_enemy_water.png,False
+proj_enemy_metal,投射物完整實體輪廓與紙感陰影,proj_enemy_metal.png,False
+proj_enemy_yin,陰氣投射物完整彈頭與尾流,fx_fireball_yin,False
+proj_enemy_pellet,陰氣投射物完整彈頭與尾流,fx_fireball_yin,False
+proj_friendly_pellet,友軍投射物，青綠填色尾流,fx_fireball_yang,False
+fx_vein,龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流,original painted composition + uploaded dragon anatomy,False
+fx_vein_01,龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流,original painted composition + uploaded dragon anatomy,False
+fx_vein_02,龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流,original painted composition + uploaded dragon anatomy,False
+fx_vein_03,龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流,original painted composition + uploaded dragon anatomy,False
+fx_root,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_root.png,False
+fx_zone_spike,替換簡筆地刺為完整土石爆起,fx_earth_eruption,False
+fx_zone_ice,完整寒冰地刺造型,fx_earth_eruption,False
+fx_zone_poison,毒霧範圍，與療癒藥草圖樣區隔,fx_ding_cloud_yin,False
+fx_zone_miasma,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_spark,多層填色命中爆散,fx_fu_boom_yang,False
+fx_hit_pop,多層填色命中爆散,fx_fu_boom_yang,False
+fx_shield,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_shield.png,False
+fx_bite,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_bite.png,False
+fx_slash,替換簡筆斬擊為填色多層劍氣,fx_slash_yang,False
+fx_lightning_arc,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_lightning_arc.png,False
+fx_telegraph,範圍預告：清晰外圈與四向紋樣,ring composition,False
+fx_bellwave,降駕震波手繪紋樣,fx_bell_ring_yang,False
+fx_water_wave,水刃多層實心波峰,proj_qin_wave,False
+terrain_rock,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_boulder_big,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_tree_a,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_tree_b,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_tree_c,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_bush,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_stump,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_trunk_wide,樹根接地與碰撞區辨識,terrain_stump.png,False
+terrain_grass,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_reed,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_lantern_pole,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_shrine_wall,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_grass_tile_b,重新製作可重複紙感地表,original procedural material painting,False
+stage_yingge_bg_tile,重新製作可重複紙感地表,original procedural material painting,False
+terrain_path_tile,重新製作可重複紙感地表,original procedural material painting,False
+terrain_stone_floor,重新製作可重複紙感地表,original procedural material painting,False
+terrain_water_edge,水面、岸石與水草合成水邊,terrain_water_tile + terrain_rock + terrain_reed,False
+icon_skill_pangen,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_pangen.png,False
+icon_skill_puyao,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_puyao.png,False
+icon_skill_milu,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_milu.png,False
+icon_skill_linyan,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_linyan.png,False
+icon_skill_saoling,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_saoling.png,False
+icon_skill_zhensha,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_zhensha.png,False
+icon_skill_tuozhuai,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_tuozhuai.png,False
+icon_skill_beiming,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_beiming.png,False
+icon_skill_chongzhuang,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/icon_skill_chongzhuang.png,False
+fx_zone_fire,附件原圖材質與輪廓統整,kundao-art-assets-v069.zip/main-art/fx_zone_fire.png,False
+fx_levelup_rise,本輪生成圖的獨立特效切分、去背與實際尺寸輸出,a_large_grid_like_sprite_atlas_game_asset_sheet.png,False
+fx_slash_yang,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_fireball_yang,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_earth_eruption,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_slash_yin,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_fireball_yin,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+fx_curse_papers,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+landscape_dragon_vein,使用者範例圖獨立去背、清理與重新編排,image(20261106-053123).png,False
+terrain_fallen_log,本對話生成地形圖拆分、透明邊緣清理,a_clean_transparent_background_illustration_sheet.png,False
+terrain_bamboo,範例圖物件拆分與材質統整,image(20261106-053123).png,False
+terrain_fence,範例圖物件拆分與材質統整,image(20261106-053123).png,False
+terrain_stone_lantern,範例圖物件拆分與材質統整,image(20261106-053123).png,False
+terrain_stele,範例圖物件拆分與材質統整,image(20261106-053123).png,False
+terrain_gate,範例圖物件拆分與材質統整,image(20261106-053123).png,False
+terrain_logs,範例圖物件拆分與材質統整,image(20261106-053123).png,False
+terrain_water_tile,重新製作可重複紙感地表,original procedural material painting,False
+fx_seal_stamp_water,印章重新合成並校正中央「封」字,reference-inspired original composition; glyph rasterization,False
+fx_ta_pillar_yang,一重相容圖,fx_ta_pillar_1,False
+fx_ta_pillar_yin,一重相容圖,fx_ta_pillar_1,False
+proj_fire,補齊原先只畫圓形的火彈,fx_fireball_yang,False
+fx_pulse_yang,塔脈衝獨立圖層,ring composition,False
+fx_pulse_yin,塔脈衝獨立圖層,ring composition,False
+fx_contact_shadow,統一接地陰影,original raster shadow,False
+icon_status_stun,補齊場上狀態圖示：stun,proj_fu_yang,False
+icon_status_root,補齊場上狀態圖示：root,fx_root,False
+icon_status_confuse,補齊場上狀態圖示：confuse,icon_skill_milu,False
+icon_status_slow,補齊場上狀態圖示：slow,icon_root_bing,False
+icon_status_burn,補齊場上狀態圖示：burn,fx_fireball_yang,False
+icon_status_mark,補齊場上狀態圖示：mark,fx_seal_stamp_yang,False
+icon_status_shield,補齊場上狀態圖示：shield,fx_shield,False
+icon_status_heal,補齊場上狀態圖示：heal,icon_passive_huichun,False
+icon_skill_shuiren,補齊原本缺少的靈獸招式圖示,fx_water_wave,False
+icon_skill_fangun,補齊原本缺少的靈獸招式圖示,terrain_rock,False
+icon_skill_zhenfeng,補齊原本缺少的靈獸招式圖示,enemy_shishi,False
+ally_wuying_east,五營兵召喚圖，由符師系造型衍生配色,player_fu,False
+ally_wuying_south,五營兵召喚圖，由符師系造型衍生配色,player_fu,False
+ally_wuying_center,五營兵召喚圖，由符師系造型衍生配色,player_fu,False
+ally_wuying_west,五營兵召喚圖，由符師系造型衍生配色,player_fu,False
+ally_wuying_north,五營兵召喚圖，由符師系造型衍生配色,player_fu,False
+ui_card_yang,統一紙紋、金屬描邊與雲角九宮格介面,original raster UI painting,False
+ui_card_yin,統一紙紋、金屬描邊與雲角九宮格介面,original raster UI painting,False
+fx_lotus_bloom,使用者範例圖蓮花獨立去背及校正,image(20261106-053123).png,False
+fx_dust_cloud,本輪生成圖的獨立特效切分、去背與實際尺寸輸出,a_large_grid_like_sprite_atlas_game_asset_sheet.png,False
+fx_ground_crater,本輪生成圖的獨立特效切分、去背與實際尺寸輸出,a_large_grid_like_sprite_atlas_game_asset_sheet.png,False
+fx_zone_fire_yang,完整火舌、餘燼與接地範圍；金焰／紫焰分路,a_large_grid_like_sprite_atlas_game_asset_sheet.png,False
+fx_zone_fire_yin,完整火舌、餘燼與接地範圍；金焰／紫焰分路,a_large_grid_like_sprite_atlas_game_asset_sheet.png,False
+ui_arrow_vein,龍脈方向指引圖示,fx_slash_yang,False

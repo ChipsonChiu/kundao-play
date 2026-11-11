@@ -1,0 +1,62 @@
+{
+  "version": "R4-v0.88",
+  "source_priority": [
+    "latest_user_angbiao_and_style_amendment",
+    "背景設定.md 2026-11-07 explicit final decisions",
+    "R3.1 original asset pack core style",
+    "historical proposal tables"
+  ],
+  "weapon_amendment": {
+    "class": "乩童",
+    "type": "尪仔標類",
+    "names": [
+      "新營標",
+      "三鳳標",
+      "太子宮標",
+      "南鯤鯓標",
+      "代天標",
+      "東隆標",
+      "馬鳴標・本命"
+    ],
+    "naming_status": "本輪依台灣地名規則製作；使用者最新指定尪仔標，名稱非原九線定案表",
+    "outbound": "尪仔標沿弧線飛出",
+    "return": "迴力鏢式路徑返回",
+    "technique": "三昧真火",
+    "trail": "沿投擲路徑留下火帶並持續造成傷害",
+    "base_fire_duration_seconds": 0.5,
+    "upgrades_extend_duration": true,
+    "duration_increment_by_level": null,
+    "dot_damage_per_tick": null,
+    "tick_interval_seconds": null,
+    "no_unprovided_balance_values": true,
+    "return_path_status": "延續前次已指定的迴力鏢式路徑；最新更正僅更換手持物，未另改路徑",
+    "supersedes": [
+      "槍類",
+      "金圈環類"
+    ],
+    "held_prop": "小型實心圓紙牌，米色波邊與藍灰菱格背面，無中央開孔",
+    "damage_increment_by_level": null
+  },
+  "style_amendment": {
+    "highest_priority": "所有新素材必須與原包核心美術風格一致",
+    "reference_heroes": [
+      "player_jian_male",
+      "player_fu_male"
+    ],
+    "reference_icons": [
+      "icon_w_sword_1",
+      "icon_w_ding_1"
+    ],
+    "rendering": "粗細穩定的暖棕描邊、圓潤塊面、豆眼、低彩平塗、細微紙感",
+    "avoid": [
+      "日系圖像符號",
+      "華麗造型",
+      "寫實金屬材質",
+      "大量油彩或水彩筆觸",
+      "3D明暗",
+      "閃光金粉"
+    ],
+    "artist_translation": "畫家參照限於原包畫法內的色彩、構圖與空間氣氛"
+  },
+  "latest_user_exact": "抱歉，乩童相關請改為拿ㄤ仔標"
+}

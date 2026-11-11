@@ -1,0 +1,30 @@
+[
+  {
+    "title": "芳苑燈塔，海運數位博物館",
+    "url": "https://transport-museum.nat.gov.tw/oceanshipping/home.jsp?class_serno=201512090020&dataserno=201602290047&id=98&mcustomize=cultural_relic_view.jsp",
+    "checked": "2026-11-07",
+    "supported": "八角塔身、黑白垂直條紋；轉譯為遊戲法器，非測繪。",
+    "ref": "turn51view0"
+  },
+  {
+    "title": "七美嶼燈塔，交通部航港局",
+    "url": "https://www.motcmpb.gov.tw/Information/Detail/10a88d1d-578c-4d49-80fb-d4285c235229?NodeId=15&SiteId=1",
+    "checked": "2026-11-07",
+    "supported": "白色圓塔與相連發電機室、拱窗；法器造型轉譯。",
+    "ref": "turn48view1"
+  },
+  {
+    "title": "國聖港燈塔，雲嘉南濱海國家風景區",
+    "url": "https://www.swcoast-nsa.gov.tw/zh-tw/attraction/details/273",
+    "checked": "2026-11-07",
+    "supported": "方錐形鋼架結構與黑白塔色；法器造型轉譯。",
+    "ref": "turn49view2"
+  },
+  {
+    "title": "熠熠生輝的鵝鑾鼻燈塔，國家公園署",
+    "url": "https://www.taiwan.nps.gov.tw/home/zh-tw/topic/17748",
+    "checked": "2026-11-07",
+    "supported": "白色圓柱鐵塔與砲壘形式塔基；法器造型轉譯。",
+    "ref": "turn51view2"
+  }
+]

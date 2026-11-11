@@ -1,0 +1,1547 @@
+{
+  "source": "背景設定.md；最新尪仔標與原包畫風最高原則補充",
+  "rows": [
+    {
+      "id": "player_songjiang_female",
+      "name": "宋江武者・少女",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;6",
+      "action": "generate"
+    },
+    {
+      "id": "player_jitong_male",
+      "name": "乩童・青年",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "action": "retain",
+      "reason": "最新使用者改尪仔標；原包已持紙標，直接保留一致造型。",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "player_jitong_female",
+      "name": "乩童・少女",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "latest_user_angbiao_amendment;6",
+      "action": "generate",
+      "held_prop": "尪仔標",
+      "style_lock": "exact original pack rounded flat style; angbiao edition",
+      "latest_amendment": "angbiao"
+    },
+    {
+      "id": "player_yao_male",
+      "name": "保生藥師・青年",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;6",
+      "action": "replace"
+    },
+    {
+      "id": "deity_zhongtan",
+      "name": "中壇元帥・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace",
+      "style_revision": "six_straight_spokes"
+    },
+    {
+      "id": "deity_guandi",
+      "name": "關聖帝君・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_baosheng",
+      "name": "保生大帝・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_mazu",
+      "name": "媽祖・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_xuantian",
+      "name": "玄天上帝・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_zhongkui",
+      "name": "鍾馗・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_wangye",
+      "name": "王爺・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_tudigong",
+      "name": "土地公・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_guanyin",
+      "name": "觀音菩薩・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_wenchang",
+      "name": "文昌帝君・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_chenghuang",
+      "name": "城隍・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_yuhuang",
+      "name": "玉皇上帝・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_taishang",
+      "name": "太上老君・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_caishen",
+      "name": "財神・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_zhusheng",
+      "name": "註生娘娘・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_shennong",
+      "name": "神農大帝・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_guangze",
+      "name": "廣澤尊王・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_leizu",
+      "name": "雷祖・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_huxian",
+      "name": "狐仙・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_pangu",
+      "name": "盤古公・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_huye",
+      "name": "虎爺・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        256
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "deity_xie_jiangjun",
+      "name": "謝將軍・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "generate"
+    },
+    {
+      "id": "deity_fan_jiangjun",
+      "name": "范將軍・法器光影",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "supplementary_candidate",
+      "source_section": "4.4;5;10",
+      "presentation": "symbolic_implements_no_deity_body",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "generate"
+    },
+    {
+      "id": "deity_dashiye",
+      "name": "大士爺・普渡紙紮",
+      "category": "神明",
+      "standard_size": [
+        256,
+        320
+      ],
+      "status": "active_v088",
+      "source_section": "5;9.9",
+      "presentation": "inanimate_paper_effigy_nonattackable",
+      "style_lock": "R3.1 icon_w_sword_1 + icon_w_ding_1, thick umber outline, flat 2-tone gouache",
+      "action": "replace"
+    },
+    {
+      "id": "boss_xinmo_jitong_male",
+      "name": "心魔・乩童・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "retain",
+      "reason": "最新使用者改尪仔標；原包已持紙標，直接保留一致造型。",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "boss_xinmo_jitong_female",
+      "name": "心魔・乩童・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original pack thick warm brown outline; token edition",
+      "action": "generate",
+      "held_prop": "尪仔標",
+      "latest_amendment": "angbiao"
+    },
+    {
+      "id": "boss_xinmo_songjiang_female",
+      "name": "心魔・宋江武者・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "generate"
+    },
+    {
+      "id": "boss_tianmo_yao_male",
+      "name": "天魔・保生藥師・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "replace"
+    },
+    {
+      "id": "boss_tianmo_jitong_male",
+      "name": "天魔・乩童・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "retain",
+      "reason": "最新使用者改尪仔標；原包已持紙標，直接保留一致造型。",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "boss_tianmo_jitong_female",
+      "name": "天魔・乩童・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original pack thick warm brown outline; token edition",
+      "action": "generate",
+      "held_prop": "尪仔標",
+      "latest_amendment": "angbiao"
+    },
+    {
+      "id": "boss_tianmo_songjiang_female",
+      "name": "天魔・宋江武者・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "generate"
+    },
+    {
+      "id": "player_tangki_throw",
+      "name": "乩童・青年・投擲",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "retain",
+      "reason": "最新使用者改尪仔標；原包已持紙標，直接保留一致造型。",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "player_tangki_recoil",
+      "name": "乩童・青年・收勢",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "style_lock": "original player_jian_male + player_fu_male, identity locked to ring edition",
+      "action": "retain",
+      "reason": "最新使用者改尪仔標；原包已持紙標，直接保留一致造型。",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "player_jitong_female_throw",
+      "name": "乩童・少女・投擲",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original pack; angbiao empty-hand animation frame",
+      "action": "generate",
+      "held_prop": "尪仔標",
+      "latest_amendment": "angbiao"
+    },
+    {
+      "id": "player_jitong_female_recoil",
+      "name": "乩童・少女・收勢",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "status": "active_v088",
+      "source_section": "6;9.8;latest_user_amendment",
+      "style_lock": "original pack; angbiao empty-hand animation frame",
+      "action": "generate",
+      "held_prop": "尪仔標",
+      "latest_amendment": "angbiao"
+    },
+    {
+      "id": "pact_paiwan_hundred_pacer",
+      "name": "排灣族・百步蛇守護意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "排灣族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "pact_rukai_hundred_pacer",
+      "name": "魯凱族・百步蛇守護意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "魯凱族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "pact_thao_white_deer",
+      "name": "邵族・白鹿守護意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "邵族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "pact_tao_flying_fish",
+      "name": "達悟族・飛魚守護意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "達悟族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "pact_atayal_rainbow_path",
+      "name": "泰雅族・虹橋盟約意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        400,
+        280
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "泰雅族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "pact_seediq_rainbow_path",
+      "name": "賽德克族・虹橋盟約意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        400,
+        280
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "賽德克族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "pact_truku_rainbow_path",
+      "name": "太魯閣族・虹橋盟約意象",
+      "category": "祖靈盟約",
+      "standard_size": [
+        400,
+        280
+      ],
+      "status": "out_of_run_guardian",
+      "source_section": "5",
+      "tribe": "太魯閣族",
+      "capture_allowed": false,
+      "enemy_allowed": false,
+      "depiction": "game_guardian_symbol_not_sacred_portrait",
+      "source": "背景設定.md；依本作守護意象創作",
+      "action": "generate"
+    },
+    {
+      "id": "event_bajiajiang_patrol",
+      "name": "八家將暗訪・巡街隊伍",
+      "category": "陣頭事件",
+      "standard_size": [
+        512,
+        512
+      ],
+      "status": "active_v088",
+      "source_section": "3;9.3",
+      "source": "背景設定.md；虛構家將暗訪隊伍，非特定館派臉譜復原",
+      "action": "generate"
+    },
+    {
+      "id": "faith_youyinggong",
+      "name": "有應公・廟影燈籠",
+      "category": "陰神信仰",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "proposed_yin_path",
+      "source_section": "5;10",
+      "source": "背景設定.md；信仰名稱按原文，廟影為原創象徵",
+      "action": "generate"
+    },
+    {
+      "id": "faith_dazhongye",
+      "name": "大眾爺・廟影燈籠",
+      "category": "陰神信仰",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "proposed_yin_path",
+      "source_section": "5;10",
+      "source": "背景設定.md；信仰名稱按原文，廟影為原創象徵",
+      "action": "generate"
+    },
+    {
+      "id": "faith_guniangmiao",
+      "name": "姑娘廟・廟影燈籠",
+      "category": "陰神信仰",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "proposed_yin_path",
+      "source_section": "5;10",
+      "source": "背景設定.md；信仰名稱按原文，廟影為原創象徵",
+      "action": "generate"
+    },
+    {
+      "id": "faith_shibawangong",
+      "name": "十八王公・廟影燈籠",
+      "category": "陰神信仰",
+      "standard_size": [
+        320,
+        320
+      ],
+      "status": "proposed_yin_path",
+      "source_section": "5;10",
+      "source": "背景設定.md；信仰名稱按原文，廟影為原創象徵",
+      "action": "generate"
+    },
+    {
+      "id": "boss_xinmo_yao_male",
+      "name": "心魔・保生藥師・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "source_section": "9.8",
+      "status": "active_v088",
+      "action": "replace"
+    },
+    {
+      "id": "player_jian",
+      "name": "劍印修士",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_jian_male"
+    },
+    {
+      "id": "player_fu",
+      "name": "正一符師",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_fu_male"
+    },
+    {
+      "id": "player_yao",
+      "name": "保生藥師",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_yao_female"
+    },
+    {
+      "id": "player_jitong",
+      "name": "乩童",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "source_id": "player_jitong_male",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "boss_xinmo_fu",
+      "name": "心魔・正一符師",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_fu_male"
+    },
+    {
+      "id": "boss_tianmo_fu",
+      "name": "天魔・正一符師",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_fu_male"
+    },
+    {
+      "id": "boss_xinmo_jian",
+      "name": "心魔・劍印修士",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_jian_male"
+    },
+    {
+      "id": "boss_tianmo_jian",
+      "name": "天魔・劍印修士",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_jian_male"
+    },
+    {
+      "id": "boss_xinmo_yao",
+      "name": "心魔・保生藥師",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_yao_female"
+    },
+    {
+      "id": "boss_tianmo_yao",
+      "name": "天魔・保生藥師",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_yao_female"
+    },
+    {
+      "id": "boss_xinmo_jitong",
+      "name": "心魔・乩童",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "source_id": "boss_xinmo_jitong_male",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "boss_tianmo_jitong",
+      "name": "天魔・乩童",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "source_id": "boss_tianmo_jitong_male",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "player_tangki_ready",
+      "name": "乩童・待機",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "source_id": "player_jitong_male",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "ally_wuying_east",
+      "name": "ally_wuying_east",
+      "category": "召喚物",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "ally_wuying_east"
+    },
+    {
+      "id": "ally_wuying_south",
+      "name": "ally_wuying_south",
+      "category": "召喚物",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "ally_wuying_south"
+    },
+    {
+      "id": "ally_wuying_center",
+      "name": "ally_wuying_center",
+      "category": "召喚物",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "ally_wuying_center"
+    },
+    {
+      "id": "ally_wuying_west",
+      "name": "ally_wuying_west",
+      "category": "召喚物",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "ally_wuying_west"
+    },
+    {
+      "id": "ally_wuying_north",
+      "name": "ally_wuying_north",
+      "category": "召喚物",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "ally_wuying_north"
+    },
+    {
+      "id": "player_jian_male",
+      "name": "劍印修士・青年",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_jian_male"
+    },
+    {
+      "id": "player_fu_male",
+      "name": "正一符師・青年",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_fu_male"
+    },
+    {
+      "id": "npc_elder",
+      "name": "村中長者",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_elder"
+    },
+    {
+      "id": "npc_temple_attendant",
+      "name": "廟務侍者",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_temple_attendant"
+    },
+    {
+      "id": "npc_villager",
+      "name": "村民",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_villager"
+    },
+    {
+      "id": "npc_cat",
+      "name": "廟貓",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_cat"
+    },
+    {
+      "id": "player_jian_female",
+      "name": "劍印修士・少女",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_jian_female"
+    },
+    {
+      "id": "player_fu_female",
+      "name": "正一符師・少女",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_fu_female"
+    },
+    {
+      "id": "player_yao_female",
+      "name": "保生藥師・少女",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_yao_female"
+    },
+    {
+      "id": "npc_niutou",
+      "name": "牛頭",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_niutou"
+    },
+    {
+      "id": "npc_mamian",
+      "name": "馬面",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_mamian"
+    },
+    {
+      "id": "player_songjiang_male",
+      "name": "宋江武者・青年",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_songjiang_male"
+    },
+    {
+      "id": "player_songjiang",
+      "name": "宋江武者",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "player_songjiang_male"
+    },
+    {
+      "id": "player_oushi_male",
+      "name": "偶師・青年",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "player_oushi_male"
+    },
+    {
+      "id": "player_oushi_female",
+      "name": "偶師・少女",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "player_oushi_female"
+    },
+    {
+      "id": "player_oushi",
+      "name": "偶師（候選）",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "player_oushi"
+    },
+    {
+      "id": "npc_xie_jiangjun",
+      "name": "謝將軍（七爺）",
+      "category": "神明",
+      "standard_size": [
+        192,
+        288
+      ],
+      "action": "alias",
+      "status": "legacy_id_deity_candidate",
+      "source_section": "5;6;9.8",
+      "source_id": "deity_xie_jiangjun",
+      "note": "保留ID相容；改指向降駕法器光影，移出冥府NPC名單。"
+    },
+    {
+      "id": "npc_fan_jiangjun",
+      "name": "范將軍（八爺）",
+      "category": "神明",
+      "standard_size": [
+        192,
+        240
+      ],
+      "action": "alias",
+      "status": "legacy_id_deity_candidate",
+      "source_section": "5;6;9.8",
+      "source_id": "deity_fan_jiangjun",
+      "note": "保留ID相容；改指向降駕法器光影，移出冥府NPC名單。"
+    },
+    {
+      "id": "npc_panguan",
+      "name": "判官",
+      "category": "NPC",
+      "standard_size": [
+        256,
+        320
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "npc_panguan"
+    },
+    {
+      "id": "boss_xinmo_jian_male",
+      "name": "心魔・劍印修士・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_jian_male"
+    },
+    {
+      "id": "boss_tianmo_jian_male",
+      "name": "天魔・劍印修士・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_jian_male"
+    },
+    {
+      "id": "boss_xinmo_jian_female",
+      "name": "心魔・劍印修士・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_jian_female"
+    },
+    {
+      "id": "boss_tianmo_jian_female",
+      "name": "天魔・劍印修士・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_jian_female"
+    },
+    {
+      "id": "boss_xinmo_fu_male",
+      "name": "心魔・正一符師・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_fu_male"
+    },
+    {
+      "id": "boss_tianmo_fu_male",
+      "name": "天魔・正一符師・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_fu_male"
+    },
+    {
+      "id": "boss_xinmo_fu_female",
+      "name": "心魔・正一符師・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_fu_female"
+    },
+    {
+      "id": "boss_tianmo_fu_female",
+      "name": "天魔・正一符師・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_fu_female"
+    },
+    {
+      "id": "boss_xinmo_yao_female",
+      "name": "心魔・保生藥師・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_yao_female"
+    },
+    {
+      "id": "boss_tianmo_yao_female",
+      "name": "天魔・保生藥師・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_yao_female"
+    },
+    {
+      "id": "boss_xinmo_songjiang_male",
+      "name": "心魔・宋江武者・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_songjiang_male"
+    },
+    {
+      "id": "boss_tianmo_songjiang_male",
+      "name": "天魔・宋江武者・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_songjiang_male"
+    },
+    {
+      "id": "boss_xinmo_songjiang",
+      "name": "心魔・宋江武者",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_songjiang_male"
+    },
+    {
+      "id": "boss_tianmo_songjiang",
+      "name": "天魔・宋江武者",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "alias",
+      "status": "active_v088",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_songjiang_male"
+    },
+    {
+      "id": "boss_xinmo_oushi_male",
+      "name": "心魔・偶師・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_oushi_male"
+    },
+    {
+      "id": "boss_tianmo_oushi_male",
+      "name": "天魔・偶師・青年",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_oushi_male"
+    },
+    {
+      "id": "boss_xinmo_oushi_female",
+      "name": "心魔・偶師・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_oushi_female"
+    },
+    {
+      "id": "boss_tianmo_oushi_female",
+      "name": "天魔・偶師・少女",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_oushi_female"
+    },
+    {
+      "id": "boss_xinmo_oushi",
+      "name": "心魔・偶師",
+      "category": "首領與鏡像",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_xinmo_oushi"
+    },
+    {
+      "id": "boss_tianmo_oushi",
+      "name": "天魔・偶師",
+      "category": "首領與鏡像",
+      "standard_size": [
+        160,
+        200
+      ],
+      "action": "retain",
+      "status": "candidate_oushi",
+      "source_section": "5;6;9.8",
+      "source_id": "boss_tianmo_oushi"
+    },
+    {
+      "id": "player_jitong_female_ready",
+      "name": "乩童・少女・待機",
+      "category": "主角",
+      "standard_size": [
+        128,
+        160
+      ],
+      "action": "alias",
+      "source_id": "player_jitong_female",
+      "status": "active_v088",
+      "source_section": "6;latest_user_angbiao_amendment",
+      "held_prop": "尪仔標"
+    },
+    {
+      "id": "pact_saisiyat_text_only",
+      "name": "賽夏族・矮靈文字入口",
+      "category": "祖靈盟約",
+      "action": "intentional_no_image",
+      "status": "out_of_run_text_only",
+      "source_section": "5",
+      "note": "嚴格依原文不描繪矮靈，不產生人物、怪物或替代形象。以文字卡片呈現，不算缺圖。"
+    }
+  ],
+  "aliases": {
+    "player_jian": "player_jian_male",
+    "player_fu": "player_fu_male",
+    "player_yao": "player_yao_female",
+    "player_songjiang": "player_songjiang_male",
+    "player_jitong": "player_jitong_male",
+    "player_tangki_ready": "player_jitong_male",
+    "npc_xie_jiangjun": "deity_xie_jiangjun",
+    "npc_fan_jiangjun": "deity_fan_jiangjun",
+    "player_jitong_female_ready": "player_jitong_female",
+    "boss_xinmo_jian": "boss_xinmo_jian_male",
+    "boss_tianmo_jian": "boss_tianmo_jian_male",
+    "boss_xinmo_fu": "boss_xinmo_fu_male",
+    "boss_tianmo_fu": "boss_tianmo_fu_male",
+    "boss_xinmo_yao": "boss_xinmo_yao_female",
+    "boss_tianmo_yao": "boss_tianmo_yao_female",
+    "boss_xinmo_songjiang": "boss_xinmo_songjiang_male",
+    "boss_tianmo_songjiang": "boss_tianmo_songjiang_male",
+    "boss_xinmo_jitong": "boss_xinmo_jitong_male",
+    "boss_tianmo_jitong": "boss_tianmo_jitong_male"
+  },
+  "core_style_lock": true,
+  "review_evidence": [
+    "root-original-1.jpg",
+    "root-original-2.jpg",
+    "root-original-3.jpg"
+  ]
+}

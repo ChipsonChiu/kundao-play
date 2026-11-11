@@ -1,0 +1,42 @@
+{
+ "beast_banyan_king": {
+  "beast": "boss_xinmo_beast_banyan_king"
+ },
+ "beast_feilu_wang": {
+  "beast": "boss_xinmo_beast_feilu_wang"
+ },
+ "beast_ghostfire_king": {
+  "beast": "boss_xinmo_beast_ghostfire_king"
+ },
+ "beast_moshenzai_king": {
+  "beast": "boss_xinmo_beast_moshenzai_king"
+ },
+ "beast_mukengniao_wang": {
+  "beast": "boss_xinmo_beast_mukengniao_wang"
+ },
+ "beast_shishi_gong": {
+  "beast": "boss_xinmo_beast_shishi_gong"
+ },
+ "beast_shuigui_tou": {
+  "beast": "boss_xinmo_beast_shuigui_tou"
+ },
+ "beast_tiger_king": {
+  "beast": "boss_xinmo_beast_tiger_king"
+ },
+ "player_fu": {
+  "xinmo": "boss_xinmo_fu",
+  "tianmo": "boss_tianmo_fu"
+ },
+ "player_jian": {
+  "xinmo": "boss_xinmo_jian",
+  "tianmo": "boss_tianmo_jian"
+ },
+ "player_jitong": {
+  "xinmo": "boss_xinmo_jitong",
+  "tianmo": "boss_tianmo_jitong"
+ },
+ "player_yao": {
+  "xinmo": "boss_xinmo_yao",
+  "tianmo": "boss_tianmo_yao"
+ }
+}

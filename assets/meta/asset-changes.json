@@ -1,0 +1,2624 @@
+[
+  {
+    "id": "player_jian",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "player_fu",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_shangui",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_moshenzai",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_jinmei",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_tiger",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_banyan",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_ghostfire",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_ghost",
+    "method": "重新繪製閉合輪廓、完整填色的半透明好兄弟",
+    "source": "original raster artwork",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_sha",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_kite",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_banyan_king",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_tiger_king",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_moshenzai_king",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/miniboss_moshenzai_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_ghostfire_king",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/miniboss_ghostfire_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_yingge",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_yingge.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_banyan_king",
+    "method": "更新中首領衍生靈獸",
+    "source": "miniboss_banyan_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_tiger_king",
+    "method": "更新中首領衍生靈獸",
+    "source": "miniboss_tiger_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_moshenzai_king",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/beast_moshenzai_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_ghostfire_king",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/beast_ghostfire_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "tree_canopy",
+    "method": "完整樹木，腳底錨點取代頂視圓形樹冠",
+    "source": "terrain_tree_a.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "tree_trunk",
+    "method": "樹根接地與碰撞區辨識",
+    "source": "terrain_stump.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "shrine",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/shrine.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "shrine_used",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/shrine_used.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "rock_yingge",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/rock_yingge.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "xp_small",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/xp_small.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "xp_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/xp_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "xp_big",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/xp_big.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "item_zhaojun",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/item_zhaojun.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "item_huiqi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/item_huiqi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "item_pingan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/item_pingan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "item_chest",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/item_chest.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "item_fu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/item_fu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_yujian",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_yujian.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_jinzhong",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_jinzhong.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_naqi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_naqi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_wufang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_wufang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_mingxin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_mingxin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_fulu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_fulu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_shenxing",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_shenxing.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_tiebu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_tiebu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_huichun",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_huichun.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_zhaojun",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_zhaojun.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_yinqi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_yinqi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_canhun",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_canhun.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_pingan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_pingan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_suzhou",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_suzhou.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_rongcuo",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_rongcuo.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_sixuan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_sixuan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_dao_dianming",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_dao_dianming.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_sanqi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_sanqi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_junchen",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_junchen.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_zifu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_zifu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_riyue",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_riyue.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_huotan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_huotan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_wenqu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_wenqu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_jiyue",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_jiyue.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_innate_shapolang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_innate_shapolang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_root_lei",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_root_lei.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_root_bing",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_root_bing.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_root_feng",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_root_feng.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_root_an",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_root_an.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_root_guang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_root_guang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_2",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_2.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_3",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_3.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_4",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_4.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_6",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_6.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_8",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_8.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_9",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_9.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_10",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_10.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_bless_11",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_bless_11.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_cup_sheng",
+    "method": "半月木筊重繪；以實際凸面／平面組合表示判定",
+    "source": "original crescent-block illustration",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_cup_xiao",
+    "method": "半月木筊重繪；以實際凸面／平面組合表示判定",
+    "source": "original crescent-block illustration",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_cup_yin",
+    "method": "半月木筊重繪；以實際凸面／平面組合表示判定",
+    "source": "original crescent-block illustration",
+    "new_ai_individual": false
+  },
+  {
+    "id": "stage_jiantan_bg_tile",
+    "method": "重新製作可重複紙感地表",
+    "source": "original procedural material painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "landmark_jiantan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/landmark_jiantan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_shuigui",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/enemy_shuigui.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_renmianyu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/enemy_renmianyu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_shishi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/enemy_shishi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_mukengniao",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/enemy_mukengniao.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_feilu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/enemy_feilu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "enemy_jianling",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/enemy_jianling.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_shishi_gong",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/miniboss_shishi_gong.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_shuigui_tou",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/miniboss_shuigui_tou.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_mukengniao_wang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/miniboss_mukengniao_wang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "miniboss_feilu_wang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/miniboss_feilu_wang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_jiantan_yujing",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_jiantan_yujing.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_shishi_gong",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/beast_shishi_gong.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_shuigui_tou",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/beast_shuigui_tou.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_mukengniao_wang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/beast_mukengniao_wang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "beast_feilu_wang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/beast_feilu_wang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "player_yao",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/player_yao.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "player_jitong",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/player_jitong.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_biao_back",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_biao_back.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_biao_huojianqiang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_biao_huojianqiang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_biao_qiankunquan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_biao_qiankunquan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_biao_fenghuolun",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_biao_fenghuolun.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_biao_hit",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_biao_hit.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_ding_bomb",
+    "method": "投射物完整實體輪廓與紙感陰影",
+    "source": "proj_ding_bomb.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ding_cloud",
+    "method": "手繪藥草／毒火紋樣的範圍藥霧",
+    "source": "original layered cloud illustration",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_qin_wave",
+    "method": "琴聲多層手繪氣流與分節波峰",
+    "source": "reference attack strokes",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar",
+    "method": "一重相容圖",
+    "source": "fx_ta_pillar_1",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_sword",
+    "method": "水平飛行方向、完整桃木／鋸齒法劍輪廓",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_sword.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_sword_shark",
+    "method": "水平飛行方向、完整桃木／鋸齒法劍輪廓",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_sword_shark.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_bell_ring",
+    "method": "法鈴震波：器物、氣流紋樣與完整範圍圈",
+    "source": "weapon bell + attack motifs",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_gourd_mist",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_gourd_mist.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_seal_stamp",
+    "method": "印章重新合成並校正中央「封」字",
+    "source": "reference-inspired original composition; glyph rasterization",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_mirror_beam",
+    "method": "鏡光重繪：實心多層光束、鏡面與同路陰陽材質",
+    "source": "original beam painting + existing mirror",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_fu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_fu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_fu_boom",
+    "method": "替換簡筆爆散為手繪火焰爆裂",
+    "source": "fx_fu_boom_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_taiji_fu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_taiji_fu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "title_logo",
+    "method": "精確繁體中文標題重新排字與朱紅題簽",
+    "source": "glyph rasterization; no fonts included",
+    "new_ai_individual": false
+  },
+  {
+    "id": "title_bg",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/title_bg.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "title_paper",
+    "method": "統一紙紋、金屬描邊與雲角九宮格介面",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "title_lantern",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/title_lantern.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_primary",
+    "method": "手繪材質九宮格按鈕三態",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_primary_pressed",
+    "method": "手繪材質九宮格按鈕三態",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_secondary",
+    "method": "統一紙紋、金屬描邊與雲角九宮格介面",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_disabled",
+    "method": "手繪材質九宮格按鈕三態",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_round_god",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/btn_round_god.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_round_lock",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/btn_round_lock.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_round_lock_hot",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/btn_round_lock_hot.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "btn_pause",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/btn_pause.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_panel_paper",
+    "method": "統一紙紋、金屬描邊與雲角九宮格介面",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_hud_frame",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/ui_hud_frame.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_hp_bar",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/ui_hp_bar.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_xp_bar",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/ui_xp_bar.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_card_class",
+    "method": "統一紙紋、金屬描邊與雲角九宮格介面",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_sword_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_sword_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_sword_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_sword_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_sword_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_sword_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_sword_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_sword_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_bell_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_bell_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_bell_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_bell_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_bell_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_bell_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_bell_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_bell_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_gourd_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_gourd_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_gourd_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_gourd_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_gourd_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_gourd_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_gourd_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_gourd_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_seal_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_seal_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_seal_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_seal_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_seal_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_seal_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_seal_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_seal_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_mirror_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_mirror_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_mirror_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_mirror_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_mirror_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_mirror_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_mirror_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_mirror_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_fu_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_fu_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_fu_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_fu_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_fu_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_fu_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_fu_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_fu_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_ding_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_ding_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ding_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_ding_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ding_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ding_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ding_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ding_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_qin_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_qin_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_qin_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_qin_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_qin_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_qin_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_qin_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_qin_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_1",
+    "method": "同形逐重塔圖示",
+    "source": "fx_ta_pillar_1",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_5",
+    "method": "同形逐重塔圖示",
+    "source": "fx_ta_pillar_5_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ta_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_7",
+    "method": "同形逐重塔圖示",
+    "source": "fx_ta_pillar_7_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ta_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ta_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_ta_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_ta_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_1",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_biao_1.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_5",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_biao_5.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_5_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_biao_5_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_7",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_w_biao_7.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_7_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_biao_7_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_yang",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_biao_yang + ui_badge_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_w_biao_yin",
+    "method": "器物原型保留；手繪紙感與日／月分隔標記",
+    "source": "icon_w_biao_yin + ui_badge_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_fushi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_fushi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_shuangfu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_shuangfu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_leifu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_leifu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_chiling",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_chiling.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_jianqi",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_jianqi.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_shuangjian",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_shuangjian.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_qixing",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_qixing.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_zhanyao",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_zhanyao.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_altar",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_altar.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_guohuo_field",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_guohuo_field.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_guohuo_coal",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_guohuo_coal.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_daoti_ladder",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_daoti_ladder.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_daoti_blade",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_daoti_blade.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qixing_lamp_off",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qixing_lamp_off.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qixing_lamp_on",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qixing_lamp_on.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qixing_floor",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qixing_floor.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qianggu_tower",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qianggu_tower.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qianggu_ring",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qianggu_ring.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_zhongkui_mask",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_zhongkui_mask.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_zhongkui_sha",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_zhongkui_sha.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_zhongkui_path",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_zhongkui_path.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_leijie_cloud",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_leijie_cloud.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_leijie_mark",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_leijie_mark.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_leijie_bolt",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_leijie_bolt.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_dajie_gate",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_dajie_gate.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_banner_small",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_banner_small.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_banner_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_banner_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_banner_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_banner_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_guohuo_field_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_guohuo_field_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_guohuo_field_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_guohuo_field_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_daoti_ladder_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_daoti_ladder_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_daoti_ladder_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_daoti_ladder_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qixing_floor_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qixing_floor_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qixing_floor_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qixing_floor_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qianggu_tower_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qianggu_tower_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qianggu_tower_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qianggu_tower_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qianggu_ring_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qianggu_ring_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_qianggu_ring_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_qianggu_ring_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_zhongkui_path_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_zhongkui_path_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_zhongkui_path_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_zhongkui_path_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_leijie_cloud_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_leijie_cloud_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_leijie_cloud_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_leijie_cloud_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_dajie_gate_mid",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_dajie_gate_mid.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "trial_dajie_gate_late",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/trial_dajie_gate_late.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_fu",
+    "method": "心魔與更新後玩家使用同輪廓，紫灰陰氣反轉",
+    "source": "player_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_tianmo_fu",
+    "method": "天魔與更新後玩家同輪廓，九道金色雷紋冠",
+    "source": "boss_xinmo_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_jian",
+    "method": "心魔與更新後玩家使用同輪廓，紫灰陰氣反轉",
+    "source": "player_jian",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_tianmo_jian",
+    "method": "天魔與更新後玩家同輪廓，九道金色雷紋冠",
+    "source": "boss_xinmo_jian",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_yao",
+    "method": "心魔與更新後玩家使用同輪廓，紫灰陰氣反轉",
+    "source": "player_yao",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_tianmo_yao",
+    "method": "天魔與更新後玩家同輪廓，九道金色雷紋冠",
+    "source": "boss_xinmo_yao",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_jitong",
+    "method": "心魔與更新後玩家使用同輪廓，紫灰陰氣反轉",
+    "source": "player_jitong",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_tianmo_jitong",
+    "method": "天魔與更新後玩家同輪廓，九道金色雷紋冠",
+    "source": "boss_xinmo_jitong",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_banyan_king",
+    "method": "更新後靈獸的陰氣鏡像",
+    "source": "beast_banyan_king",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_tiger_king",
+    "method": "更新後靈獸的陰氣鏡像",
+    "source": "beast_tiger_king",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_moshenzai_king",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_moshenzai_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_ghostfire_king",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_ghostfire_king.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_shishi_gong",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_shishi_gong.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_shuigui_tou",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_shuigui_tou.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_mukengniao_wang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_mukengniao_wang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "boss_xinmo_beast_feilu_wang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/boss_xinmo_beast_feilu_wang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_mirror_shatter",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_mirror_shatter.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_mirror_floor",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_mirror_floor.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "player_tangki_ready",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/player_tangki_ready.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "player_tangki_throw",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/player_tangki_throw.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "player_tangki_recoil",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/player_tangki_recoil.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "card_angbiao_spear",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/card_angbiao_spear.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "card_angbiao_ring",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/card_angbiao_ring.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "card_angbiao_wheel",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/card_angbiao_wheel.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "card_angbiao_back",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/card_angbiao_back.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_angbiao_spear",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_angbiao_spear.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_angbiao_ring",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_angbiao_ring.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_angbiao_wheel",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_angbiao_wheel.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_angbiao_spear",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_angbiao_spear.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_angbiao_ring",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_angbiao_ring.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_angbiao_wheel",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_angbiao_wheel.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_liandan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_liandan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_qingxin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_passive_qingxin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_passive_zhenhun",
+    "method": "鎮魂訣手繪塔圖示",
+    "source": "fx_ta_pillar_7",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_miaoshou",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_miaoshou.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_jinzhen",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_jinzhen.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_danhuo",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_danhuo.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_talent_jiuku",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_talent_jiuku.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_seal_stamp_yang",
+    "method": "印章重新合成並校正中央「封」字",
+    "source": "reference-inspired original composition; glyph rasterization",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_seal_stamp_yin",
+    "method": "印章重新合成並校正中央「封」字",
+    "source": "reference-inspired original composition; glyph rasterization",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_1",
+    "method": "逐層完整建築繪製：1 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_2",
+    "method": "逐層完整建築繪製：2 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_3",
+    "method": "逐層完整建築繪製：3 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_4",
+    "method": "逐層完整建築繪製：4 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_5",
+    "method": "逐層完整建築繪製：5 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_6",
+    "method": "逐層完整建築繪製：6 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_7",
+    "method": "逐層完整建築繪製：7 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_8",
+    "method": "逐層完整建築繪製：8 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_9",
+    "method": "逐層完整建築繪製：9 重；neutral",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_1_yang",
+    "method": "逐層完整建築繪製：1 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_2_yang",
+    "method": "逐層完整建築繪製：2 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_3_yang",
+    "method": "逐層完整建築繪製：3 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_4_yang",
+    "method": "逐層完整建築繪製：4 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_5_yang",
+    "method": "逐層完整建築繪製：5 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_6_yang",
+    "method": "逐層完整建築繪製：6 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_7_yang",
+    "method": "逐層完整建築繪製：7 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_8_yang",
+    "method": "逐層完整建築繪製：8 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_9_yang",
+    "method": "逐層完整建築繪製：9 重；yang",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_1_yin",
+    "method": "逐層完整建築繪製：1 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_2_yin",
+    "method": "逐層完整建築繪製：2 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_3_yin",
+    "method": "逐層完整建築繪製：3 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_4_yin",
+    "method": "逐層完整建築繪製：4 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_5_yin",
+    "method": "逐層完整建築繪製：5 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_6_yin",
+    "method": "逐層完整建築繪製：6 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_7_yin",
+    "method": "逐層完整建築繪製：7 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_8_yin",
+    "method": "逐層完整建築繪製：8 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_9_yin",
+    "method": "逐層完整建築繪製：9 重；yin",
+    "source": "original pagoda architectural painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_ding_bomb_yang",
+    "method": "投射物完整實體輪廓與紙感陰影",
+    "source": "proj_ding_bomb_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ding_cloud_yang",
+    "method": "手繪藥草／毒火紋樣的範圍藥霧",
+    "source": "original layered cloud illustration",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_ding_bomb_yin",
+    "method": "投射物完整實體輪廓與紙感陰影",
+    "source": "proj_ding_bomb_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ding_cloud_yin",
+    "method": "手繪藥草／毒火紋樣的範圍藥霧",
+    "source": "original layered cloud illustration",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_bell_ring_yang",
+    "method": "法鈴震波：器物、氣流紋樣與完整範圍圈",
+    "source": "weapon bell + attack motifs",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_gourd_mist_yang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_gourd_mist_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_mirror_beam_yang",
+    "method": "鏡光重繪：實心多層光束、鏡面與同路陰陽材質",
+    "source": "original beam painting + existing mirror",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_qin_wave_yang",
+    "method": "琴聲多層手繪氣流與分節波峰",
+    "source": "reference attack strokes",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_bell_ring_yin",
+    "method": "法鈴震波：器物、氣流紋樣與完整範圍圈",
+    "source": "weapon bell + attack motifs",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_gourd_mist_yin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_gourd_mist_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_mirror_beam_yin",
+    "method": "鏡光重繪：實心多層光束、鏡面與同路陰陽材質",
+    "source": "original beam painting + existing mirror",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_qin_wave_yin",
+    "method": "琴聲多層手繪氣流與分節波峰",
+    "source": "reference attack strokes",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_sword_yang",
+    "method": "水平飛行方向、完整桃木／鋸齒法劍輪廓",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_sword_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_fu_yang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_fu_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_biao_back_yang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_biao_back_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_fu_boom_yang",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_biao_hit_yang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_biao_hit_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_sword_yin",
+    "method": "水平飛行方向、完整桃木／鋸齒法劍輪廓",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_sword_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_fu_yin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_fu_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_biao_back_yin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/proj_biao_back_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_fu_boom_yin",
+    "method": "陰法爆裂：紫焰與冷色核心",
+    "source": "fx_fu_boom_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_biao_hit_yin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_biao_hit_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_badge_yang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/ui_badge_yang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_polarity_frame_yang",
+    "method": "日／月形狀與金／紫色雙重辨識框",
+    "source": "original UI frame + polarity badge",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_badge_yin",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/ui_badge_yin.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_polarity_frame_yin",
+    "method": "日／月形狀與金／紫色雙重辨識框",
+    "source": "original UI frame + polarity badge",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_enemy_seed",
+    "method": "投射物完整實體輪廓與紙感陰影",
+    "source": "proj_enemy_seed.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_enemy_fire",
+    "method": "陰火彈，具火舌與核心",
+    "source": "fx_fireball_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_enemy_water",
+    "method": "投射物完整實體輪廓與紙感陰影",
+    "source": "proj_enemy_water.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_enemy_metal",
+    "method": "投射物完整實體輪廓與紙感陰影",
+    "source": "proj_enemy_metal.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_enemy_yin",
+    "method": "陰氣投射物完整彈頭與尾流",
+    "source": "fx_fireball_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_enemy_pellet",
+    "method": "陰氣投射物完整彈頭與尾流",
+    "source": "fx_fireball_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_friendly_pellet",
+    "method": "友軍投射物，青綠填色尾流",
+    "source": "fx_fireball_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_vein",
+    "method": "龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流",
+    "source": "original painted composition + uploaded dragon anatomy",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_vein_01",
+    "method": "龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流",
+    "source": "original painted composition + uploaded dragon anatomy",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_vein_02",
+    "method": "龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流",
+    "source": "original painted composition + uploaded dragon anatomy",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_vein_03",
+    "method": "龍脈地氣重新構圖：裂土、立體氣帶、龍首與金色內流",
+    "source": "original painted composition + uploaded dragon anatomy",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_root",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_root.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_spike",
+    "method": "替換簡筆地刺為完整土石爆起",
+    "source": "fx_earth_eruption",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_ice",
+    "method": "完整寒冰地刺造型",
+    "source": "fx_earth_eruption",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_poison",
+    "method": "毒霧範圍，與療癒藥草圖樣區隔",
+    "source": "fx_ding_cloud_yin",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_miasma",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_spark",
+    "method": "多層填色命中爆散",
+    "source": "fx_fu_boom_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_hit_pop",
+    "method": "多層填色命中爆散",
+    "source": "fx_fu_boom_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_shield",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_shield.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_bite",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_bite.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_slash",
+    "method": "替換簡筆斬擊為填色多層劍氣",
+    "source": "fx_slash_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_lightning_arc",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_lightning_arc.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_telegraph",
+    "method": "範圍預告：清晰外圈與四向紋樣",
+    "source": "ring composition",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_bellwave",
+    "method": "降駕震波手繪紋樣",
+    "source": "fx_bell_ring_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_water_wave",
+    "method": "水刃多層實心波峰",
+    "source": "proj_qin_wave",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_rock",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_boulder_big",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_tree_a",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_tree_b",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_tree_c",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_bush",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_stump",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_trunk_wide",
+    "method": "樹根接地與碰撞區辨識",
+    "source": "terrain_stump.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_grass",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_reed",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_lantern_pole",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_shrine_wall",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_grass_tile_b",
+    "method": "重新製作可重複紙感地表",
+    "source": "original procedural material painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "stage_yingge_bg_tile",
+    "method": "重新製作可重複紙感地表",
+    "source": "original procedural material painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_path_tile",
+    "method": "重新製作可重複紙感地表",
+    "source": "original procedural material painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_stone_floor",
+    "method": "重新製作可重複紙感地表",
+    "source": "original procedural material painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_water_edge",
+    "method": "水面、岸石與水草合成水邊",
+    "source": "terrain_water_tile + terrain_rock + terrain_reed",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_pangen",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_pangen.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_puyao",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_puyao.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_milu",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_milu.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_linyan",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_linyan.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_saoling",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_saoling.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_zhensha",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_zhensha.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_tuozhuai",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_tuozhuai.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_beiming",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_beiming.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_chongzhuang",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/icon_skill_chongzhuang.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_fire",
+    "method": "附件原圖材質與輪廓統整",
+    "source": "kundao-art-assets-v069.zip/main-art/fx_zone_fire.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_levelup_rise",
+    "method": "本輪生成圖的獨立特效切分、去背與實際尺寸輸出",
+    "source": "a_large_grid_like_sprite_atlas_game_asset_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_slash_yang",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_fireball_yang",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_earth_eruption",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_slash_yin",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_fireball_yin",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_curse_papers",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "landscape_dragon_vein",
+    "method": "使用者範例圖獨立去背、清理與重新編排",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_fallen_log",
+    "method": "本對話生成地形圖拆分、透明邊緣清理",
+    "source": "a_clean_transparent_background_illustration_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_bamboo",
+    "method": "範例圖物件拆分與材質統整",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_fence",
+    "method": "範例圖物件拆分與材質統整",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_stone_lantern",
+    "method": "範例圖物件拆分與材質統整",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_stele",
+    "method": "範例圖物件拆分與材質統整",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_gate",
+    "method": "範例圖物件拆分與材質統整",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_logs",
+    "method": "範例圖物件拆分與材質統整",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "terrain_water_tile",
+    "method": "重新製作可重複紙感地表",
+    "source": "original procedural material painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_seal_stamp_water",
+    "method": "印章重新合成並校正中央「封」字",
+    "source": "reference-inspired original composition; glyph rasterization",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_yang",
+    "method": "一重相容圖",
+    "source": "fx_ta_pillar_1",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ta_pillar_yin",
+    "method": "一重相容圖",
+    "source": "fx_ta_pillar_1",
+    "new_ai_individual": false
+  },
+  {
+    "id": "proj_fire",
+    "method": "補齊原先只畫圓形的火彈",
+    "source": "fx_fireball_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_pulse_yang",
+    "method": "塔脈衝獨立圖層",
+    "source": "ring composition",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_pulse_yin",
+    "method": "塔脈衝獨立圖層",
+    "source": "ring composition",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_contact_shadow",
+    "method": "統一接地陰影",
+    "source": "original raster shadow",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_stun",
+    "method": "補齊場上狀態圖示：stun",
+    "source": "proj_fu_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_root",
+    "method": "補齊場上狀態圖示：root",
+    "source": "fx_root",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_confuse",
+    "method": "補齊場上狀態圖示：confuse",
+    "source": "icon_skill_milu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_slow",
+    "method": "補齊場上狀態圖示：slow",
+    "source": "icon_root_bing",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_burn",
+    "method": "補齊場上狀態圖示：burn",
+    "source": "fx_fireball_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_mark",
+    "method": "補齊場上狀態圖示：mark",
+    "source": "fx_seal_stamp_yang",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_shield",
+    "method": "補齊場上狀態圖示：shield",
+    "source": "fx_shield",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_status_heal",
+    "method": "補齊場上狀態圖示：heal",
+    "source": "icon_passive_huichun",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_shuiren",
+    "method": "補齊原本缺少的靈獸招式圖示",
+    "source": "fx_water_wave",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_fangun",
+    "method": "補齊原本缺少的靈獸招式圖示",
+    "source": "terrain_rock",
+    "new_ai_individual": false
+  },
+  {
+    "id": "icon_skill_zhenfeng",
+    "method": "補齊原本缺少的靈獸招式圖示",
+    "source": "enemy_shishi",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ally_wuying_east",
+    "method": "五營兵召喚圖，由符師系造型衍生配色",
+    "source": "player_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ally_wuying_south",
+    "method": "五營兵召喚圖，由符師系造型衍生配色",
+    "source": "player_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ally_wuying_center",
+    "method": "五營兵召喚圖，由符師系造型衍生配色",
+    "source": "player_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ally_wuying_west",
+    "method": "五營兵召喚圖，由符師系造型衍生配色",
+    "source": "player_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ally_wuying_north",
+    "method": "五營兵召喚圖，由符師系造型衍生配色",
+    "source": "player_fu",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_card_yang",
+    "method": "統一紙紋、金屬描邊與雲角九宮格介面",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_card_yin",
+    "method": "統一紙紋、金屬描邊與雲角九宮格介面",
+    "source": "original raster UI painting",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_lotus_bloom",
+    "method": "使用者範例圖蓮花獨立去背及校正",
+    "source": "image(20261106-053123).png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_dust_cloud",
+    "method": "本輪生成圖的獨立特效切分、去背與實際尺寸輸出",
+    "source": "a_large_grid_like_sprite_atlas_game_asset_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_ground_crater",
+    "method": "本輪生成圖的獨立特效切分、去背與實際尺寸輸出",
+    "source": "a_large_grid_like_sprite_atlas_game_asset_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_fire_yang",
+    "method": "完整火舌、餘燼與接地範圍；金焰／紫焰分路",
+    "source": "a_large_grid_like_sprite_atlas_game_asset_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "fx_zone_fire_yin",
+    "method": "完整火舌、餘燼與接地範圍；金焰／紫焰分路",
+    "source": "a_large_grid_like_sprite_atlas_game_asset_sheet.png",
+    "new_ai_individual": false
+  },
+  {
+    "id": "ui_arrow_vein",
+    "method": "龍脈方向指引圖示",
+    "source": "fx_slash_yang",
+    "new_ai_individual": false
+  }
+]

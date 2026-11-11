@@ -1,0 +1,27 @@
+{
+  "tangki_projectile": {
+    "type": "paper_angbiao",
+    "outbound_asset": "proj_angbiao_throw",
+    "return_asset": "proj_angbiao_return",
+    "same_source_pixels": true,
+    "motion": "curved_outbound_boomerang_return",
+    "trajectory_radius": null,
+    "speed": null
+  },
+  "sanmei_fire": {
+    "icon": "icon_passive_sanmei",
+    "lifecycle_assets": [
+      "fx_sanmei_ignite",
+      "fx_sanmei_sustain",
+      "fx_sanmei_extinguish"
+    ],
+    "placement": "along_actual_thrown_paper_token_trajectory",
+    "initial_duration_seconds": 0.5,
+    "upgrades_extend_duration": true,
+    "duration_increment_by_level": null,
+    "damage_per_tick": null,
+    "tick_interval_seconds": null,
+    "damage_increment_by_level": null
+  },
+  "implementation_state": "art_assets_and_integration_contract_only; game code not modified or playtested"
+}

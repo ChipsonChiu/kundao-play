@@ -1,0 +1,1422 @@
+{
+  "boss_moshenzai_wang": {
+    "sha256": "cd39722c96a03d9002a2919f16d05d17bb07a9f1d9e7dd16b9fa0861b21c7fe4",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_bianfu": {
+    "sha256": "468a4b9ee78b967f6c8b2ca800b6d3d9511dc0f20a81129c85e11a4f47122f79",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_denghou": {
+    "sha256": "08c5422ced65c0e16801ec69e2195c0bb1242bdf2d23e29e5d7aea8d9571367d",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_ligui": {
+    "sha256": "4d3aba3f23611dcdd88809281e1b7b1e2d2c89efda5e66b00fa2f44edcdda12c",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "boss_lintoujie": {
+    "sha256": "89aa166764a6553594721219b91e5bf15710b644f55962f2cb5c5355260cd48c",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_kengshu": {
+    "sha256": "4697e575c4e56682fc1edde5d70c02279b2a81a28297c2c220bf596127e95733",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "boss_hongyi_xiaonvhai": {
+    "sha256": "38fde4149fbca18b07e9d5e859c838a3f413cfd37139b5e2ac45ff90ad563019",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_chanchu": {
+    "sha256": "9ee73afcbe77bd148446a4e43b3d37f0503d2e13d245b6a022f18487c600ee63",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_jianshi": {
+    "sha256": "d4902840fd940303a4891a1fa6a7ec9ef7cda62eb306b09df1c3402f99b34b48",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_chuanshanjia": {
+    "sha256": "b4c1064a435fc6c06dcf3393d76da4a47c100bdb3f1cc777ce9e55f42f9755ed",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_shanxiao": {
+    "sha256": "150b660dc2b8e53bc86397164423cb5bf1c85f4eeff5868c008c769757abb5ca",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_pangxie": {
+    "sha256": "5fca95c58ac4d0e3d9f25fd329b17f095431a34b066f1f3ddd77a53c553718da",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_yigui": {
+    "sha256": "a14cc2a2d790021e1d14800e66d3635258a7a1a7f316fb2e6f1b794741b22415",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_zhiren": {
+    "sha256": "51284f84ad3d472b5c622f86256c30d569afa5bdb8205723684d3724b1dd96e7",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_wenshi": {
+    "sha256": "97f67306027abac06ff9e6823a96f6d034e5d1507886ee904e89805a57ba10a1",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mangshen": {
+    "sha256": "3a495b4a49d8c5bf684c4be5acd95c86d6e1654f6ffd243c0d7678901f1ad257",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_shihu": {
+    "sha256": "d9a274308478ca2f52dadb8f3eba7842b911b8d7ee2b38911cf439d2edb943b9",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_dieyao": {
+    "sha256": "b99af50344a4c4c1d1fe2cf401ddb578b526d6534081d83c154897bc59fb12ee",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_wangchuan_zhio_bing": {
+    "sha256": "2e93917bd376b6c775d0e9a0e6ad228a5bad18355cd8244d333c5f78ad2652e6",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_gundi_mo": {
+    "sha256": "a30292d08f27672cbd678a4a0623cc66f4ab2b3b4f6f77f42d9ab4eb6e74e62d",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_kenghun": {
+    "sha256": "165dddb011809fad0465c1f5878a9715e63b7d449d981bc26b4b6d777af727fe",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_feilu_wang_body": {
+    "sha256": "1f473add06dc3d1b789e590c0df591fcd6856dad7c978c515e7289acc56937db",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_wugui": {
+    "sha256": "2a5d771ec2c2df945b3df141964089d41472af80477d692e5a6d9285748330d7",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_mihou_wang": {
+    "sha256": "437408dbed4c14c5bca13a2fc7c64f7584de98930a14407c75d6e0f4f3489d9a",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_jinmei_wang": {
+    "sha256": "a5b6ca83f1c4429104827abd8aed183585a7cef5630b870914ef91108387bd8a",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_jiushi_canhun": {
+    "sha256": "d9aa89cebbe58ef490f2d84e825ccb441aaeeaf835f4762ae392c184712cd934",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "boss_xinmo_beast_feilu_wang": {
+    "sha256": "a4c44a093b4bd0adfba8501c6c356449ebc2e66d52aed550f3705708fa1b64c0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_haiweng_jing": {
+    "sha256": "18b658e8cd8cd7b2c080cbb8bea4ef0bc58776f0d86ddb1d59e2fd8c27d15000",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_hainiao": {
+    "sha256": "f7f660e92c783ecf696ed257064ec90a78c4aacef5a0a775a2f3949ab299f9dc",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_shijing": {
+    "sha256": "ebb0d8227aee37515581cd08218a688fd14fcaf26faa1e2efb6059139f2c5468",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_feilu_wang_head": {
+    "sha256": "eb7aa2a87df9d12520cab339a28e8391050b08ca9c51f7a11f7c5a9e936c52c4",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "boss_xinmo_beast_ghostfire_king": {
+    "sha256": "112e6f6fd9b908431b1860cb79a9482db5fc603ec76e6551a301ec61de125440",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mihou": {
+    "sha256": "11223a5c43b1f7c0f8ac8ae519445952bf1c874af5326ad78697c1582a63008a",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_she_langjun": {
+    "sha256": "f90ff97da324e87f9e96553e8f0de18a416b710a2043039eb7e8909629ae1483",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_shihu_wang": {
+    "sha256": "e060fb16fbaf5a79b38c21f2977accd7d48df2a7ea5300989fbca6c60dd740a4",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_shangui": {
+    "sha256": "ab06d376b5d5c31d1ae7d82b57dfa4b0519765b77afcf3d2c496a7f16dedf2c2",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_shuigui": {
+    "sha256": "75ae8a341ddf9c63778e938c03aeee299910aa69f58027afb9039ffd1ac26f97",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_ghostfire": {
+    "sha256": "54ffe40a2ee8f096952f738f0d3cdb62a04712d527895522a442763368f184e9",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_tiger": {
+    "sha256": "890c04a36fb8ac3f5e210f09e3156929065bfd540e986398e3a46d1f3e4266e3",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_sha": {
+    "sha256": "66c690bee3ec63431db8ba5529d89877dffcfbdc6252554680e5026b451a783b",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_banyan": {
+    "sha256": "485386a42f63254dfb044b43534827e8839243e7daf3f9e205cbde5a740c814f",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_shishi": {
+    "sha256": "4c6d0ce2d20b5b3db302155d7d0fd3ee2bb91ce8125c8249779c7ac1c7de8aa2",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-06.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_shejing": {
+    "sha256": "5b9a3910584f12ac59a60478648082a9721aa2ccf313b8a67ac596c6685ac48e",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_tiandeng_yao": {
+    "sha256": "c408098a2f440a0ece2ced12c734dcce50b7d0572f84d0d5ff0fc9645abe2db0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "boss_xinmo_beast_shuigui_tou": {
+    "sha256": "78eb0b40ba691fc4032ec08914043a59e82558e5fb44acece30defcd79f25315",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-01.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_diehou": {
+    "sha256": "3bc748c0d4ea8435d47deab8a33e984bfb11982eaab78f4d37b69a8ce6a95b87",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_zhiren_bingzhang": {
+    "sha256": "6f1a961b52cf2395f6a2648242cbda8643417c166f896a7e17bc7dde0812c795",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_mukengniao": {
+    "sha256": "3cceb145f235a457b135320c6d9b68c68de0d78dd1bcecd31866fe85bc868892",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-06.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_wangchuan_zhio": {
+    "sha256": "bbe2d078e2c3dbb74ae147c671f4eede4e82496d6117008690f1cbfdb64b442e",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_kite": {
+    "sha256": "00b4cb07ad7e7b6cebc0de675582b6145c8754122c69b2022fc0fff1eb1df4f5",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_jinmei": {
+    "sha256": "d3bb6b3b91b9bd615e5c6996369aea17943335b2e8543c2c087d3c62bb447487",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_shayu_jing": {
+    "sha256": "cb14a47fc2af89020840c16d896588c7f511ffb7e877051f42feffe553cd7920",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_renmianyu": {
+    "sha256": "36341c414a566c0847926250f1344a0a5dddd7b4cb4b95c03a2f3d1507b70e57",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_moshenzai": {
+    "sha256": "6089100f5b0825739bbed9203aab5f860f4d3258989d5cad149e4497edbce153",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-04.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_mangshen_po": {
+    "sha256": "fbf1b3f1a51255f5e939931073b74faf28c933f627c4f835863c3ab01041d73a",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_yigui_jiang": {
+    "sha256": "2dcd4c52ce47a49f28252cc5970fe9b9a99df470226f6c1aa7ad8086fec67f9c",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_ghost": {
+    "sha256": "fa652b5ee1a01ec2f58c5efccb1fb27e7bacb28417de7a81f185a624c7569305",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_feilu": {
+    "sha256": "fcb0b3f86036403925792599dd902bfb1de3b791cb0407f3ef77519b1ced11da",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-06.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_shayu": {
+    "sha256": "05903974471640640504629a4851f8a212e1db3564259ee342edf1412eb60c73",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_jianling": {
+    "sha256": "5ae33985b929937f9a4f4887ddadc522a517bdd6175bfafcdb4019a5a1fdf962",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-06.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_diniu_wang": {
+    "sha256": "cd20b4c9cee4a42d442f5261489823cca0ae00a59afc2ea8dd442b1caf1b77e2",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-03.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "miniboss_zhugao_gui": {
+    "sha256": "d8ef1e68b03052c98f708a86cae079297ebaa1e180bb3649feb0825c725364f0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/primary-02.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_wangchuan_zhio": {
+    "sha256": "5d23778c9cd0347795db6746547f194352e87285dc9bf2095b69552db2cd1b79",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-09.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_shayu": {
+    "sha256": "68a53455caee274a21cffa2e4813631198d56e190eb8aef2c32a698427e3daa5",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-09.jpg",
+    "criteria": [
+      "original_reference_style",
+      "identity_and_complete_silhouette",
+      "actual_alpha_composition",
+      "restrained_taiwan_folk_scope",
+      "age_12_non_graphic"
+    ],
+    "note": "本體44張已逐張檢視4頁；本組20張鏡像已對照本體及劍符基準，實際alpha合成正常。"
+  },
+  "enemy_mirror_zhiren": {
+    "sha256": "df4b606474e3290b8887b44a839cec117c9994f57a262b3fe94a7c34ccbb1a06",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-06.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_jianshi": {
+    "sha256": "3fd9f63fa661227ae4fb1db213b28374f9f18cfc7808589fbb5099ac42451742",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-06.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_denghou": {
+    "sha256": "681eec6548cbe16ceacb6924c2d5beae0033615132203e95ee37098e41e8ae5e",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-07.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_ligui": {
+    "sha256": "adc1152f802111e2d2f96fb17118a7377e168263b046441614250c53a5fb035e",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-07.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_bianfu": {
+    "sha256": "be6e2d341e0b4311217943abbb45559d124e150236b2d06fb3bda2cd4b874c08",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-07.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_chanchu": {
+    "sha256": "73048681e0dc7d773511cb2af4494ea7bd7b50c5d9c40f2ee16cef0a4ac106c3",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-07.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_shanxiao": {
+    "sha256": "a2b7e25b3b4270183c2c52cdc50866c0563f6aaf3761f3d9a63856a44b327992",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-07.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_chuanshanjia": {
+    "sha256": "483e098fe9ca54cb9817e40715999328d1552347b7d2e7d89371a1289aab0bd0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-07.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_kengshu": {
+    "sha256": "788999fd3e2270e595df87f333a882f15386aab76b3ec5bd05509115daad6208",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-08.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_shijing": {
+    "sha256": "a8c526b5af3aec3839d3255120534ada31706101788adb34e4d135b9df6ea1a0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-08.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_yigui": {
+    "sha256": "a73d476285b0ec4f9c6b3fbdd544076e224742a5545e2c0a74b5882c022de4d3",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-08.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_wenshi": {
+    "sha256": "c4cab9adc49c0b8bff4035fd0acaa46f06370671d5e22ae4fced53044e9450ee",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-08.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_pangxie": {
+    "sha256": "8b2a608c84b92d6735cf07c2361a7173ee15392c4d5e1a8207ef16c506003297",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-08.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_hainiao": {
+    "sha256": "2d3fe6f227cc7adeb0472fab3b1ae95df8eac3554357aa7f8d57b63865314e37",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-08.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_mihou": {
+    "sha256": "1c4bc300006d792fab86105d302b5ff85eff31cb913500356bc5a19fd5376ad0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-09.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "enemy_mirror_mangshen": {
+    "sha256": "2b32571115bf6723484d9dd217f985f297e08bdb35cbf80d2c84ce0e1d12b08b",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-09.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "與原本體及原包劍符基準並排檢視；輪廓、物種、器物及紙紮折線保留，低彩灰紫色與透明合成通過。"
+  },
+  "boss_xinmo_beast_zhugao_gui": {
+    "sha256": "a38e874ff4d00c682c2ada18692fc796838569348e832a39f2ec97b2cc7cb313",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-01.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_zhiren_bingzhang": {
+    "sha256": "6444cd82dc520444bca0a950164f2cbfda78fbc1d91ab881a68b390f30d38f6a",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-01.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_gundi_mo": {
+    "sha256": "3d4663f2a6b0713004372cabded4f6949167f723efea70997b75be3990869331",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-01.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_she_langjun": {
+    "sha256": "24e2d5d6142681aa402fdfca8a75dd5e2023360ad3b8eea40f266ee15c17f216",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-02.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_diniu_wang": {
+    "sha256": "7143d2bb297df605320907b2db4e167473913bd661517175d8d0649279a615be",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-02.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_kenghun": {
+    "sha256": "93d7aac635102e0e9f7a89f4fc32826a9249cfa08c15988e216a22a7d26fdb15",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-02.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_tiandeng_yao": {
+    "sha256": "1c536df53de344abb48961c7c3a3e16fb051514bb6076a3da1ce58c77b141243",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-02.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_jinmei_wang": {
+    "sha256": "0ae89795f6e3c7ccb938fd182780661b1ee731bf1d17d8f12ba4acf55c8b1027",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-02.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_yigui_jiang": {
+    "sha256": "cf5857ae938b4513bfecac1f79508e361ecc2665a1715a31120f33212d2def08",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-02.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_shayu_jing": {
+    "sha256": "449880e88788a65d485eae7109914235b8e25ee81c4c34783ac83365738b7ed1",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-03.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_wangchuan_zhio_bing": {
+    "sha256": "221046e4028bcf25833b1206afe13b92279170627c9964319fec6c26a3a07535",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-03.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_haiweng_jing": {
+    "sha256": "7ea15b5078b8c7056d11c99b08bc032bdaf51d71ce9806d45e0d835b99395d44",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-03.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_mihou_wang": {
+    "sha256": "e4d089968a184078b1f892f42e5695c0885369bf87dbb7c5d73ed092d3ed6a7c",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-03.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_mangshen_po": {
+    "sha256": "770cf97409e75460ecd7c64ac6aaa05beeb9e41649043d3bc87a7c964ce6d9b2",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-03.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_shihu_wang": {
+    "sha256": "0d834cd368a2f59d858ada8a5c11fe021ca40bc3bd86fe039ee4dda8b10faf59",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-03.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "boss_xinmo_beast_diehou": {
+    "sha256": "cf5dc09c327f577643be52376761e25aecd7e037cd1d857c4b79d10b8c1decc5",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-04.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "enemy_mirror_shihu": {
+    "sha256": "911d307f657926397719ebffa5b16cdcb767bc264f24374b687a536849024af0",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-09.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "enemy_mirror_shejing": {
+    "sha256": "5fa89290be9819d48fab1a14ed0d32b10b8793acdb85d82901ce7c53153455e1",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-09.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "enemy_mirror_dieyao": {
+    "sha256": "3e5287b52ec82be6d5a0c388d98b25c3caffc7e4b00ade7bd32a2ffb375f7f79",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-10.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  },
+  "enemy_mirror_wugui": {
+    "sha256": "7ed34e8dd6d29451416ba0e4f3be8042419f3fa954d80b8079688f93ecb81bde",
+    "status": "passed_visual_review",
+    "reviewer": "v088_figures",
+    "evidence": "qa/mirrors-10.jpg",
+    "additional_evidence": "objects_support/qa-mirror-pairs-01～05.jpg",
+    "criteria": [
+      "original_reference_style",
+      "same_species_and_silhouette",
+      "source_prop_retention",
+      "actual_alpha_composition",
+      "restrained_mirror_palette"
+    ],
+    "note": "18張本體／鏡像對照通過，另2張蛇郎君與芒神婆已複核最新灰紫膚色修正版，所有hash與最終選用檔一致。"
+  }
+}

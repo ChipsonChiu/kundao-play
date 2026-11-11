@@ -1,0 +1,57 @@
+{
+  "desktop": {
+    "load": {
+      "version": "v0.72-art-r1",
+      "expected": 437,
+      "loaded": 437,
+      "missing": [],
+      "scene": false,
+      "mode": "title"
+    },
+    "play": {
+      "x": 0,
+      "y": 0,
+      "time": 1.7999999999999985,
+      "mode": "run",
+      "images": {
+        "version": "v0.72-art-r1",
+        "expected": 437,
+        "loaded": 437,
+        "missing": [],
+        "scene": true,
+        "mode": "run"
+      }
+    },
+    "pause": {
+      "paused": "menu",
+      "visible": true
+    },
+    "controlled_scene": {
+      "stage": "yingge",
+      "queueObjects": 15,
+      "assets": {
+        "version": "v0.72-art-r1",
+        "expected": 437,
+        "loaded": 437,
+        "missing": [],
+        "scene": true,
+        "mode": "menu"
+      }
+    }
+  },
+  "mobile": {
+    "load": {
+      "version": "v0.72-art-r1",
+      "expected": 437,
+      "loaded": 437,
+      "missing": [],
+      "scene": true,
+      "mode": "run"
+    },
+    "width": 390,
+    "body": 390,
+    "touch": true
+  },
+  "errors": [],
+  "execution_mode": "HTML supplied directly to Chromium in memory; temporary in-memory localStorage shim; file/http navigation blocked by environment"
+}
